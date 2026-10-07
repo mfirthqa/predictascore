@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PredictaScore — English Football Score Predictions</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <div class="logo">
+        <span class="logo-icon">⚽</span>
+        <h1>PredictaScore</h1>
+      </div>
+      <p class="tagline">AI-free statistical predictions for English football</p>
+    </div>
+  </header>
+
+  <nav class="league-tabs" id="leagueTabs">
+    <button class="tab active" data-league="all">All Leagues</button>
+    <button class="tab" data-league="PL">Premier League</button>
+    <button class="tab" data-league="CH">Championship</button>
+  </nav>
+
+  <main>
+    <div class="meta-bar" id="metaBar">
+      <span class="updated" id="lastUpdated">Loading...</span>
+      <span class="model-info" title="Poisson regression with form, injuries, weather, motivation & H2H">📊 Poisson Model</span>
+    </div>
+
+    <div id="predictions" class="predictions-grid">
+      <div class="loading">
+        <div class="spinner"></div>
+        <p>Loading predictions...</p>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <p>Predictions are statistical estimates based on historical data, form, injuries, weather & motivation factors. Not gambling advice.</p>
+    <p class="credit">Powered by Poisson regression · Updated daily · Data from API-Football</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
