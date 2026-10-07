@@ -1,0 +1,4863 @@
+{
+  "generated": "2026-10-07T17:42:55.346Z",
+  "totalPredictions": 57,
+  "apiCalls": 12,
+  "predictions": [
+    {
+      "fixture": {
+        "id": 560593,
+        "date": "2026-10-10T11:30:00Z",
+        "venue": "TBC",
+        "matchday": 6,
+        "referee": null
+      },
+      "league": {
+        "code": "PL",
+        "name": "Premier League",
+        "shortName": "PL"
+      },
+      "homeTeam": {
+        "id": 57,
+        "name": "Arsenal",
+        "fullName": "Arsenal FC",
+        "crest": "https://crests.football-data.org/57.png",
+        "form": "LWWWW",
+        "rank": 2,
+        "points": 12
+      },
+      "awayTeam": {
+        "id": 341,
+        "name": "Leeds United",
+        "fullName": "Leeds United FC",
+        "crest": "https://crests.football-data.org/341.png",
+        "form": "DWDDW",
+        "rank": 5,
+        "points": 9
+      },
+      "prediction": {
+        "homeXG": 1.02,
+        "awayXG": 0.62,
+        "predictedScore": "1-0",
+        "predictedScoreProb": 19.7,
+        "outcomes": {
+          "homeWin": 44.1,
+          "draw": 33.8,
+          "awayWin": 22.1
+        },
+        "topScores": [
+          {
+            "score": "1-0",
+            "probability": 19.7
+          },
+          {
+            "score": "0-0",
+            "probability": 19.4
+          },
+          {
+            "score": "1-1",
+            "probability": 12.3
+          },
+          {
+            "score": "0-1",
+            "probability": 12.1
+          },
+          {
+            "score": "2-0",
+            "probability": 10
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: title/promotion contender (2nd)",
+          "Away motivation: playoff/European contention (5th)",
+          "H2H: h2h favours home team (7W/1D/0L from 8)"
+        ],
+        "model": {
+          "homeAttackStr": 1.383,
+          "homeDefenceStr": 0.548,
+          "awayAttackStr": 0.864,
+          "awayDefenceStr": 0.363
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 560592,
+        "date": "2026-10-10T14:00:00Z",
+        "venue": "TBC",
+        "matchday": 6,
+        "referee": null
+      },
+      "league": {
+        "code": "PL",
+        "name": "Premier League",
+        "shortName": "PL"
+      },
+      "homeTeam": {
+        "id": 71,
+        "name": "Sunderland",
+        "fullName": "Sunderland AFC",
+        "crest": "https://crests.football-data.org/71.png",
+        "form": "LLDWL",
+        "rank": 14,
+        "points": 4
+      },
+      "awayTeam": {
+        "id": 397,
+        "name": "Brighton Hove",
+        "fullName": "Brighton & Hove Albion FC",
+        "crest": "https://crests.football-data.org/397.png",
+        "form": "WWDLW",
+        "rank": 3,
+        "points": 10
+      },
+      "prediction": {
+        "homeXG": 1.07,
+        "awayXG": 4,
+        "predictedScore": "1-3",
+        "predictedScoreProb": 7.2,
+        "outcomes": {
+          "homeWin": 5.3,
+          "draw": 8,
+          "awayWin": 75.6
+        },
+        "topScores": [
+          {
+            "score": "1-3",
+            "probability": 7.2
+          },
+          {
+            "score": "1-4",
+            "probability": 7.2
+          },
+          {
+            "score": "0-3",
+            "probability": 6.7
+          },
+          {
+            "score": "0-4",
+            "probability": 6.7
+          },
+          {
+            "score": "1-5",
+            "probability": 5.7
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: mid-table (14th)",
+          "Home motivation: poor recent form (LLDWL)",
+          "Away motivation: playoff/European contention (3th)",
+          "Away motivation: strong recent form (WWDLW)",
+          "H2H: h2h balanced (0W/1D/1L from 2)"
+        ],
+        "model": {
+          "homeAttackStr": 0.561,
+          "homeDefenceStr": 1.129,
+          "awayAttackStr": 2.794,
+          "awayDefenceStr": 1.037
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 560595,
+        "date": "2026-10-10T14:00:00Z",
+        "venue": "TBC",
+        "matchday": 6,
+        "referee": null
+      },
+      "league": {
+        "code": "PL",
+        "name": "Premier League",
+        "shortName": "PL"
+      },
+      "homeTeam": {
+        "id": 61,
+        "name": "Chelsea",
+        "fullName": "Chelsea FC",
+        "crest": "https://crests.football-data.org/61.png",
+        "form": "LDLWW",
+        "rank": 10,
+        "points": 7
+      },
+      "awayTeam": {
+        "id": 1044,
+        "name": "Bournemouth",
+        "fullName": "AFC Bournemouth",
+        "crest": "https://crests.football-data.org/bournemouth.png",
+        "form": "LDDDL",
+        "rank": 17,
+        "points": 3
+      },
+      "prediction": {
+        "homeXG": 3.75,
+        "awayXG": 2.44,
+        "predictedScore": "3-2",
+        "predictedScoreProb": 5.4,
+        "outcomes": {
+          "homeWin": 54,
+          "draw": 14.4,
+          "awayWin": 21.9
+        },
+        "topScores": [
+          {
+            "score": "3-2",
+            "probability": 5.4
+          },
+          {
+            "score": "4-2",
+            "probability": 5
+          },
+          {
+            "score": "3-1",
+            "probability": 4.4
+          },
+          {
+            "score": "3-3",
+            "probability": 4.4
+          },
+          {
+            "score": "2-2",
+            "probability": 4.3
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: mid-table (10th)",
+          "Home motivation: poor recent form (LDLWW)",
+          "Away motivation: close to relegation zone (17th)",
+          "Away motivation: poor recent form (LDDDL)",
+          "H2H: h2h balanced (4W/5D/0L from 9)"
+        ],
+        "model": {
+          "homeAttackStr": 1.647,
+          "homeDefenceStr": 1.862,
+          "awayAttackStr": 1.031,
+          "awayDefenceStr": 1.236
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 560599,
+        "date": "2026-10-10T14:00:00Z",
+        "venue": "TBC",
+        "matchday": 6,
+        "referee": null
+      },
+      "league": {
+        "code": "PL",
+        "name": "Premier League",
+        "shortName": "PL"
+      },
+      "homeTeam": {
+        "id": 349,
+        "name": "Ipswich Town",
+        "fullName": "Ipswich Town FC",
+        "crest": "https://crests.football-data.org/349.png",
+        "form": "LWLLW",
+        "rank": 11,
+        "points": 6
+      },
+      "awayTeam": {
+        "id": 63,
+        "name": "Fulham",
+        "fullName": "Fulham FC",
+        "crest": "https://crests.football-data.org/63.png",
+        "form": "DDLLL",
+        "rank": 19,
+        "points": 2
+      },
+      "prediction": {
+        "homeXG": 0.73,
+        "awayXG": 0.35,
+        "predictedScore": "0-0",
+        "predictedScoreProb": 34.2,
+        "outcomes": {
+          "homeWin": 40.8,
+          "draw": 43.3,
+          "awayWin": 15.8
+        },
+        "topScores": [
+          {
+            "score": "0-0",
+            "probability": 34.2
+          },
+          {
+            "score": "1-0",
+            "probability": 24.9
+          },
+          {
+            "score": "0-1",
+            "probability": 11.8
+          },
+          {
+            "score": "2-0",
+            "probability": 9.1
+          },
+          {
+            "score": "1-1",
+            "probability": 8.6
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: mid-table (11th)",
+          "Away motivation: relegation battle (19th of 20)",
+          "Away motivation: poor recent form (DDLLL)",
+          "H2H: h2h balanced (0W/2D/0L from 2)"
+        ],
+        "model": {
+          "homeAttackStr": 0.726,
+          "homeDefenceStr": 1.246,
+          "awayAttackStr": 0.215,
+          "awayDefenceStr": 0.528
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 560601,
+        "date": "2026-10-10T14:00:00Z",
+        "venue": "TBC",
+        "matchday": 6,
+        "referee": null
+      },
+      "league": {
+        "code": "PL",
+        "name": "Premier League",
+        "shortName": "PL"
+      },
+      "homeTeam": {
+        "id": 58,
+        "name": "Aston Villa",
+        "fullName": "Aston Villa FC",
+        "crest": "https://crests.football-data.org/58.png",
+        "form": "WLDLL",
+        "rank": 16,
+        "points": 4
+      },
+      "awayTeam": {
+        "id": 402,
+        "name": "Brentford",
+        "fullName": "Brentford FC",
+        "crest": "https://crests.football-data.org/402.png",
+        "form": "WDDDW",
+        "rank": 4,
+        "points": 9
+      },
+      "prediction": {
+        "homeXG": 0.87,
+        "awayXG": 1.91,
+        "predictedScore": "0-1",
+        "predictedScoreProb": 11.9,
+        "outcomes": {
+          "homeWin": 16.4,
+          "draw": 21.6,
+          "awayWin": 61.6
+        },
+        "topScores": [
+          {
+            "score": "0-1",
+            "probability": 11.9
+          },
+          {
+            "score": "0-2",
+            "probability": 11.3
+          },
+          {
+            "score": "1-1",
+            "probability": 10.3
+          },
+          {
+            "score": "1-2",
+            "probability": 9.8
+          },
+          {
+            "score": "0-3",
+            "probability": 7.2
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: close to relegation zone (16th)",
+          "Away motivation: playoff/European contention (4th)",
+          "H2H: h2h balanced (4W/2D/3L from 9)"
+        ],
+        "model": {
+          "homeAttackStr": 0.528,
+          "homeDefenceStr": 1.147,
+          "awayAttackStr": 1.263,
+          "awayDefenceStr": 0.857
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 560600,
+        "date": "2026-10-10T16:30:00Z",
+        "venue": "TBC",
+        "matchday": 6,
+        "referee": null
+      },
+      "league": {
+        "code": "PL",
+        "name": "Premier League",
+        "shortName": "PL"
+      },
+      "homeTeam": {
+        "id": 66,
+        "name": "Man United",
+        "fullName": "Manchester United FC",
+        "crest": "https://crests.football-data.org/66.png",
+        "form": "DLDWL",
+        "rank": 12,
+        "points": 5
+      },
+      "awayTeam": {
+        "id": 73,
+        "name": "Tottenham",
+        "fullName": "Tottenham Hotspur FC",
+        "crest": "https://crests.football-data.org/73.png",
+        "form": "LDDLL",
+        "rank": 20,
+        "points": 2
+      },
+      "prediction": {
+        "homeXG": 2.71,
+        "awayXG": 0.23,
+        "predictedScore": "2-0",
+        "predictedScoreProb": 19.4,
+        "outcomes": {
+          "homeWin": 86.9,
+          "draw": 9.2,
+          "awayWin": 1.9
+        },
+        "topScores": [
+          {
+            "score": "2-0",
+            "probability": 19.4
+          },
+          {
+            "score": "3-0",
+            "probability": 17.5
+          },
+          {
+            "score": "1-0",
+            "probability": 14.3
+          },
+          {
+            "score": "4-0",
+            "probability": 11.8
+          },
+          {
+            "score": "5-0",
+            "probability": 6.4
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: mid-table (12th)",
+          "Away motivation: relegation battle (20th of 20)",
+          "Away motivation: poor recent form (LDDLL)",
+          "H2H: h2h balanced (2W/3D/3L from 8)"
+        ],
+        "model": {
+          "homeAttackStr": 1.417,
+          "homeDefenceStr": 1.098,
+          "awayAttackStr": 0.165,
+          "awayDefenceStr": 1.006
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 560594,
+        "date": "2026-10-11T13:00:00Z",
+        "venue": "TBC",
+        "matchday": 6,
+        "referee": null
+      },
+      "league": {
+        "code": "PL",
+        "name": "Premier League",
+        "shortName": "PL"
+      },
+      "homeTeam": {
+        "id": 322,
+        "name": "Hull City",
+        "fullName": "Hull City AFC",
+        "crest": "https://crests.football-data.org/322.png",
+        "form": "LDDWW",
+        "rank": 8,
+        "points": 8
+      },
+      "awayTeam": {
+        "id": 62,
+        "name": "Everton",
+        "fullName": "Everton FC",
+        "crest": "https://crests.football-data.org/62.png",
+        "form": "WDDDW",
+        "rank": 7,
+        "points": 9
+      },
+      "prediction": {
+        "homeXG": 0.47,
+        "awayXG": 0.2,
+        "predictedScore": "0-0",
+        "predictedScoreProb": 51.4,
+        "outcomes": {
+          "homeWin": 31.8,
+          "draw": 56.3,
+          "awayWin": 11.9
+        },
+        "topScores": [
+          {
+            "score": "0-0",
+            "probability": 51.4
+          },
+          {
+            "score": "1-0",
+            "probability": 24
+          },
+          {
+            "score": "0-1",
+            "probability": 10.3
+          },
+          {
+            "score": "2-0",
+            "probability": 5.6
+          },
+          {
+            "score": "1-1",
+            "probability": 4.8
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: mid-table (8th)",
+          "Away motivation: mid-table (7th)",
+          "H2H: no h2h data"
+        ],
+        "model": {
+          "homeAttackStr": 0.709,
+          "homeDefenceStr": 0.298,
+          "awayAttackStr": 0.498,
+          "awayDefenceStr": 0.346
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 560596,
+        "date": "2026-10-11T13:00:00Z",
+        "venue": "TBC",
+        "matchday": 6,
+        "referee": null
+      },
+      "league": {
+        "code": "PL",
+        "name": "Premier League",
+        "shortName": "PL"
+      },
+      "homeTeam": {
+        "id": 354,
+        "name": "Crystal Palace",
+        "fullName": "Crystal Palace FC",
+        "crest": "https://crests.football-data.org/354.png",
+        "form": "DLWLL",
+        "rank": 15,
+        "points": 4
+      },
+      "awayTeam": {
+        "id": 351,
+        "name": "Nottingham",
+        "fullName": "Nottingham Forest FC",
+        "crest": "https://crests.football-data.org/351.png",
+        "form": "LWDDL",
+        "rank": 13,
+        "points": 5
+      },
+      "prediction": {
+        "homeXG": 1.6,
+        "awayXG": 3.45,
+        "predictedScore": "1-3",
+        "predictedScoreProb": 7,
+        "outcomes": {
+          "homeWin": 14,
+          "draw": 13.4,
+          "awayWin": 66.4
+        },
+        "topScores": [
+          {
+            "score": "1-3",
+            "probability": 7
+          },
+          {
+            "score": "1-2",
+            "probability": 6.1
+          },
+          {
+            "score": "1-4",
+            "probability": 6.1
+          },
+          {
+            "score": "2-3",
+            "probability": 5.6
+          },
+          {
+            "score": "2-2",
+            "probability": 4.9
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: close to relegation zone (15th)",
+          "Away motivation: mid-table (13th)",
+          "H2H: h2h balanced (0W/6D/2L from 8)"
+        ],
+        "model": {
+          "homeAttackStr": 0.956,
+          "homeDefenceStr": 2.213,
+          "awayAttackStr": 1.199,
+          "awayDefenceStr": 0.873
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 560598,
+        "date": "2026-10-11T15:30:00Z",
+        "venue": "TBC",
+        "matchday": 6,
+        "referee": null
+      },
+      "league": {
+        "code": "PL",
+        "name": "Premier League",
+        "shortName": "PL"
+      },
+      "homeTeam": {
+        "id": 64,
+        "name": "Liverpool",
+        "fullName": "Liverpool FC",
+        "crest": "https://crests.football-data.org/64.png",
+        "form": "WDWDD",
+        "rank": 6,
+        "points": 9
+      },
+      "awayTeam": {
+        "id": 65,
+        "name": "Man City",
+        "fullName": "Manchester City FC",
+        "crest": "https://crests.football-data.org/65.png",
+        "form": "WWWWW",
+        "rank": 1,
+        "points": 15
+      },
+      "prediction": {
+        "homeXG": 0.7,
+        "awayXG": 1.6,
+        "predictedScore": "0-1",
+        "predictedScoreProb": 16.1,
+        "outcomes": {
+          "homeWin": 16.2,
+          "draw": 24.9,
+          "awayWin": 58.8
+        },
+        "topScores": [
+          {
+            "score": "0-1",
+            "probability": 16.1
+          },
+          {
+            "score": "0-2",
+            "probability": 12.8
+          },
+          {
+            "score": "1-1",
+            "probability": 11.2
+          },
+          {
+            "score": "0-0",
+            "probability": 10.1
+          },
+          {
+            "score": "1-2",
+            "probability": 9
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: playoff/European contention (6th)",
+          "Away motivation: title/promotion contender (1st)",
+          "Away motivation: strong recent form (WWWWW)",
+          "H2H: h2h balanced (3W/2D/3L from 8)"
+        ],
+        "model": {
+          "homeAttackStr": 0.709,
+          "homeDefenceStr": 0.599,
+          "awayAttackStr": 1.945,
+          "awayDefenceStr": 0.512
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 560597,
+        "date": "2026-10-12T19:00:00Z",
+        "venue": "TBC",
+        "matchday": 6,
+        "referee": null
+      },
+      "league": {
+        "code": "PL",
+        "name": "Premier League",
+        "shortName": "PL"
+      },
+      "homeTeam": {
+        "id": 1076,
+        "name": "Coventry City",
+        "fullName": "Coventry City FC",
+        "crest": "https://crests.football-data.org/1076.png",
+        "form": "WLLLL",
+        "rank": 18,
+        "points": 3
+      },
+      "awayTeam": {
+        "id": 67,
+        "name": "Newcastle",
+        "fullName": "Newcastle United FC",
+        "crest": "https://crests.football-data.org/67.png",
+        "form": "WLDWD",
+        "rank": 9,
+        "points": 8
+      },
+      "prediction": {
+        "homeXG": 0.3,
+        "awayXG": 3.01,
+        "predictedScore": "0-3",
+        "predictedScoreProb": 16.6,
+        "outcomes": {
+          "homeWin": 1.9,
+          "draw": 7.8,
+          "awayWin": 86.9
+        },
+        "topScores": [
+          {
+            "score": "0-3",
+            "probability": 16.6
+          },
+          {
+            "score": "0-2",
+            "probability": 16.5
+          },
+          {
+            "score": "0-4",
+            "probability": 12.5
+          },
+          {
+            "score": "0-1",
+            "probability": 11
+          },
+          {
+            "score": "0-5",
+            "probability": 7.5
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: relegation battle (18th of 20)",
+          "Away motivation: mid-table (9th)",
+          "H2H: no h2h data"
+        ],
+        "model": {
+          "homeAttackStr": 0.083,
+          "homeDefenceStr": 1.963,
+          "awayAttackStr": 1.18,
+          "awayDefenceStr": 1.335
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 560603,
+        "date": "2026-10-17T11:30:00Z",
+        "venue": "TBC",
+        "matchday": 7,
+        "referee": null
+      },
+      "league": {
+        "code": "PL",
+        "name": "Premier League",
+        "shortName": "PL"
+      },
+      "homeTeam": {
+        "id": 62,
+        "name": "Everton",
+        "fullName": "Everton FC",
+        "crest": "https://crests.football-data.org/62.png",
+        "form": "WDDDW",
+        "rank": 7,
+        "points": 9
+      },
+      "awayTeam": {
+        "id": 61,
+        "name": "Chelsea",
+        "fullName": "Chelsea FC",
+        "crest": "https://crests.football-data.org/61.png",
+        "form": "LDLWW",
+        "rank": 10,
+        "points": 7
+      },
+      "prediction": {
+        "homeXG": 2.94,
+        "awayXG": 0.61,
+        "predictedScore": "2-0",
+        "predictedScoreProb": 12.5,
+        "outcomes": {
+          "homeWin": 81.2,
+          "draw": 10.8,
+          "awayWin": 4.9
+        },
+        "topScores": [
+          {
+            "score": "2-0",
+            "probability": 12.5
+          },
+          {
+            "score": "3-0",
+            "probability": 12.2
+          },
+          {
+            "score": "4-0",
+            "probability": 9
+          },
+          {
+            "score": "1-0",
+            "probability": 8.5
+          },
+          {
+            "score": "2-1",
+            "probability": 7.6
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: mid-table (7th)",
+          "Away motivation: mid-table (10th)",
+          "Away motivation: poor recent form (LDLWW)",
+          "H2H: h2h balanced (3W/3D/4L from 10)"
+        ],
+        "model": {
+          "homeAttackStr": 0.961,
+          "homeDefenceStr": 0.466,
+          "awayAttackStr": 1.031,
+          "awayDefenceStr": 1.61
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 560602,
+        "date": "2026-10-17T14:00:00Z",
+        "venue": "TBC",
+        "matchday": 7,
+        "referee": null
+      },
+      "league": {
+        "code": "PL",
+        "name": "Premier League",
+        "shortName": "PL"
+      },
+      "homeTeam": {
+        "id": 63,
+        "name": "Fulham",
+        "fullName": "Fulham FC",
+        "crest": "https://crests.football-data.org/63.png",
+        "form": "DDLLL",
+        "rank": 19,
+        "points": 2
+      },
+      "awayTeam": {
+        "id": 322,
+        "name": "Hull City",
+        "fullName": "Hull City AFC",
+        "crest": "https://crests.football-data.org/322.png",
+        "form": "LDDWW",
+        "rank": 8,
+        "points": 8
+      },
+      "prediction": {
+        "homeXG": 1.58,
+        "awayXG": 1.83,
+        "predictedScore": "1-1",
+        "predictedScoreProb": 9.6,
+        "outcomes": {
+          "homeWin": 33.5,
+          "draw": 22.5,
+          "awayWin": 43.6
+        },
+        "topScores": [
+          {
+            "score": "1-1",
+            "probability": 9.6
+          },
+          {
+            "score": "1-2",
+            "probability": 8.7
+          },
+          {
+            "score": "2-1",
+            "probability": 7.6
+          },
+          {
+            "score": "2-2",
+            "probability": 6.9
+          },
+          {
+            "score": "0-1",
+            "probability": 6.1
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: relegation battle (19th of 20)",
+          "Home motivation: poor recent form (DDLLL)",
+          "Away motivation: mid-table (8th)",
+          "H2H: h2h favours home team (3W/0D/0L from 3)"
+        ],
+        "model": {
+          "homeAttackStr": 0.928,
+          "homeDefenceStr": 1.481,
+          "awayAttackStr": 0.948,
+          "awayDefenceStr": 0.868
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 560610,
+        "date": "2026-10-17T14:00:00Z",
+        "venue": "TBC",
+        "matchday": 7,
+        "referee": null
+      },
+      "league": {
+        "code": "PL",
+        "name": "Premier League",
+        "shortName": "PL"
+      },
+      "homeTeam": {
+        "id": 65,
+        "name": "Man City",
+        "fullName": "Manchester City FC",
+        "crest": "https://crests.football-data.org/65.png",
+        "form": "WWWWW",
+        "rank": 1,
+        "points": 15
+      },
+      "awayTeam": {
+        "id": 349,
+        "name": "Ipswich Town",
+        "fullName": "Ipswich Town FC",
+        "crest": "https://crests.football-data.org/349.png",
+        "form": "LWLLW",
+        "rank": 11,
+        "points": 6
+      },
+      "prediction": {
+        "homeXG": 4.5,
+        "awayXG": 1.42,
+        "predictedScore": "4-1",
+        "predictedScoreProb": 6.5,
+        "outcomes": {
+          "homeWin": 69.3,
+          "draw": 7.7,
+          "awayWin": 6.1
+        },
+        "topScores": [
+          {
+            "score": "4-1",
+            "probability": 6.5
+          },
+          {
+            "score": "5-1",
+            "probability": 5.9
+          },
+          {
+            "score": "3-1",
+            "probability": 5.8
+          },
+          {
+            "score": "4-2",
+            "probability": 4.6
+          },
+          {
+            "score": "4-0",
+            "probability": 4.6
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: title/promotion contender (1st)",
+          "Home motivation: strong recent form (WWWWW)",
+          "Away motivation: mid-table (11th)",
+          "H2H: h2h favours home team (2W/0D/0L from 2)"
+        ],
+        "model": {
+          "homeAttackStr": 1.835,
+          "homeDefenceStr": 0.965,
+          "awayAttackStr": 1.131,
+          "awayDefenceStr": 1.637
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 560611,
+        "date": "2026-10-17T14:00:00Z",
+        "venue": "TBC",
+        "matchday": 7,
+        "referee": null
+      },
+      "league": {
+        "code": "PL",
+        "name": "Premier League",
+        "shortName": "PL"
+      },
+      "homeTeam": {
+        "id": 402,
+        "name": "Brentford",
+        "fullName": "Brentford FC",
+        "crest": "https://crests.football-data.org/402.png",
+        "form": "WDDDW",
+        "rank": 4,
+        "points": 9
+      },
+      "awayTeam": {
+        "id": 64,
+        "name": "Liverpool",
+        "fullName": "Liverpool FC",
+        "crest": "https://crests.football-data.org/64.png",
+        "form": "WDWDD",
+        "rank": 6,
+        "points": 9
+      },
+      "prediction": {
+        "homeXG": 1.12,
+        "awayXG": 0.56,
+        "predictedScore": "1-0",
+        "predictedScoreProb": 20.8,
+        "outcomes": {
+          "homeWin": 49.3,
+          "draw": 32.3,
+          "awayWin": 18.4
+        },
+        "topScores": [
+          {
+            "score": "1-0",
+            "probability": 20.8
+          },
+          {
+            "score": "0-0",
+            "probability": 18.6
+          },
+          {
+            "score": "1-1",
+            "probability": 11.7
+          },
+          {
+            "score": "2-0",
+            "probability": 11.7
+          },
+          {
+            "score": "0-1",
+            "probability": 10.5
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: playoff/European contention (4th)",
+          "Away motivation: playoff/European contention (6th)",
+          "H2H: h2h balanced (2W/2D/6L from 10)"
+        ],
+        "model": {
+          "homeAttackStr": 1.511,
+          "homeDefenceStr": 0.382,
+          "awayAttackStr": 1.115,
+          "awayDefenceStr": 0.384
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 560607,
+        "date": "2026-10-17T16:30:00Z",
+        "venue": "TBC",
+        "matchday": 7,
+        "referee": null
+      },
+      "league": {
+        "code": "PL",
+        "name": "Premier League",
+        "shortName": "PL"
+      },
+      "homeTeam": {
+        "id": 67,
+        "name": "Newcastle",
+        "fullName": "Newcastle United FC",
+        "crest": "https://crests.football-data.org/67.png",
+        "form": "WLDWD",
+        "rank": 9,
+        "points": 8
+      },
+      "awayTeam": {
+        "id": 58,
+        "name": "Aston Villa",
+        "fullName": "Aston Villa FC",
+        "crest": "https://crests.football-data.org/58.png",
+        "form": "WLDLL",
+        "rank": 16,
+        "points": 4
+      },
+      "prediction": {
+        "homeXG": 3.06,
+        "awayXG": 1.4,
+        "predictedScore": "3-1",
+        "predictedScoreProb": 7.7,
+        "outcomes": {
+          "homeWin": 67,
+          "draw": 14.8,
+          "awayWin": 14.5
+        },
+        "topScores": [
+          {
+            "score": "3-1",
+            "probability": 7.7
+          },
+          {
+            "score": "2-1",
+            "probability": 7.6
+          },
+          {
+            "score": "4-1",
+            "probability": 5.9
+          },
+          {
+            "score": "3-0",
+            "probability": 5.5
+          },
+          {
+            "score": "3-2",
+            "probability": 5.4
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: mid-table (9th)",
+          "Away motivation: close to relegation zone (16th)",
+          "H2H: h2h balanced (5W/1D/3L from 9)"
+        ],
+        "model": {
+          "homeAttackStr": 1.286,
+          "homeDefenceStr": 1.313,
+          "awayAttackStr": 0.814,
+          "awayDefenceStr": 1.252
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 560604,
+        "date": "2026-10-18T13:00:00Z",
+        "venue": "TBC",
+        "matchday": 7,
+        "referee": null
+      },
+      "league": {
+        "code": "PL",
+        "name": "Premier League",
+        "shortName": "PL"
+      },
+      "homeTeam": {
+        "id": 1044,
+        "name": "Bournemouth",
+        "fullName": "AFC Bournemouth",
+        "crest": "https://crests.football-data.org/bournemouth.png",
+        "form": "LDDDL",
+        "rank": 17,
+        "points": 3
+      },
+      "awayTeam": {
+        "id": 71,
+        "name": "Sunderland",
+        "fullName": "Sunderland AFC",
+        "crest": "https://crests.football-data.org/71.png",
+        "form": "LLDWL",
+        "rank": 14,
+        "points": 4
+      },
+      "prediction": {
+        "homeXG": 2.33,
+        "awayXG": 1.56,
+        "predictedScore": "2-1",
+        "predictedScoreProb": 8.7,
+        "outcomes": {
+          "homeWin": 54,
+          "draw": 19.7,
+          "awayWin": 25.2
+        },
+        "topScores": [
+          {
+            "score": "2-1",
+            "probability": 8.7
+          },
+          {
+            "score": "1-1",
+            "probability": 7.4
+          },
+          {
+            "score": "2-2",
+            "probability": 6.7
+          },
+          {
+            "score": "3-1",
+            "probability": 6.7
+          },
+          {
+            "score": "1-2",
+            "probability": 5.8
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: close to relegation zone (17th)",
+          "Home motivation: poor recent form (LDDDL)",
+          "Away motivation: mid-table (14th)",
+          "Away motivation: poor recent form (LLDWL)",
+          "H2H: h2h balanced (0W/1D/1L from 2)"
+        ],
+        "model": {
+          "homeAttackStr": 0.709,
+          "homeDefenceStr": 1.047,
+          "awayAttackStr": 1.181,
+          "awayDefenceStr": 1.769
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 560605,
+        "date": "2026-10-18T13:00:00Z",
+        "venue": "TBC",
+        "matchday": 7,
+        "referee": null
+      },
+      "league": {
+        "code": "PL",
+        "name": "Premier League",
+        "shortName": "PL"
+      },
+      "homeTeam": {
+        "id": 341,
+        "name": "Leeds United",
+        "fullName": "Leeds United FC",
+        "crest": "https://crests.football-data.org/341.png",
+        "form": "DWDDW",
+        "rank": 5,
+        "points": 9
+      },
+      "awayTeam": {
+        "id": 66,
+        "name": "Man United",
+        "fullName": "Manchester United FC",
+        "crest": "https://crests.football-data.org/66.png",
+        "form": "DLDWL",
+        "rank": 12,
+        "points": 5
+      },
+      "prediction": {
+        "homeXG": 2.2,
+        "awayXG": 0.53,
+        "predictedScore": "2-0",
+        "predictedScoreProb": 15.8,
+        "outcomes": {
+          "homeWin": 75.1,
+          "draw": 16.6,
+          "awayWin": 7.5
+        },
+        "topScores": [
+          {
+            "score": "2-0",
+            "probability": 15.8
+          },
+          {
+            "score": "1-0",
+            "probability": 14.3
+          },
+          {
+            "score": "3-0",
+            "probability": 11.6
+          },
+          {
+            "score": "2-1",
+            "probability": 8.4
+          },
+          {
+            "score": "1-1",
+            "probability": 7.6
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: playoff/European contention (5th)",
+          "Away motivation: mid-table (12th)",
+          "H2H: h2h balanced (1W/3D/4L from 8)"
+        ],
+        "model": {
+          "homeAttackStr": 1.077,
+          "homeDefenceStr": 0.482,
+          "awayAttackStr": 0.848,
+          "awayDefenceStr": 1.06
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 560609,
+        "date": "2026-10-18T13:00:00Z",
+        "venue": "TBC",
+        "matchday": 7,
+        "referee": null
+      },
+      "league": {
+        "code": "PL",
+        "name": "Premier League",
+        "shortName": "PL"
+      },
+      "homeTeam": {
+        "id": 397,
+        "name": "Brighton Hove",
+        "fullName": "Brighton & Hove Albion FC",
+        "crest": "https://crests.football-data.org/397.png",
+        "form": "WWDLW",
+        "rank": 3,
+        "points": 10
+      },
+      "awayTeam": {
+        "id": 354,
+        "name": "Crystal Palace",
+        "fullName": "Crystal Palace FC",
+        "crest": "https://crests.football-data.org/354.png",
+        "form": "DLWLL",
+        "rank": 15,
+        "points": 4
+      },
+      "prediction": {
+        "homeXG": 3.97,
+        "awayXG": 0.37,
+        "predictedScore": "3-0",
+        "predictedScoreProb": 13.6,
+        "outcomes": {
+          "homeWin": 84.1,
+          "draw": 4.1,
+          "awayWin": 1.1
+        },
+        "topScores": [
+          {
+            "score": "3-0",
+            "probability": 13.6
+          },
+          {
+            "score": "4-0",
+            "probability": 13.5
+          },
+          {
+            "score": "5-0",
+            "probability": 10.7
+          },
+          {
+            "score": "2-0",
+            "probability": 10.2
+          },
+          {
+            "score": "6-0",
+            "probability": 7.1
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: playoff/European contention (3th)",
+          "Home motivation: strong recent form (WWDLW)",
+          "Away motivation: close to relegation zone (15th)",
+          "H2H: h2h balanced (2W/5D/3L from 10)"
+        ],
+        "model": {
+          "homeAttackStr": 1.935,
+          "homeDefenceStr": 0.349,
+          "awayAttackStr": 0.814,
+          "awayDefenceStr": 1.034
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 560608,
+        "date": "2026-10-18T15:30:00Z",
+        "venue": "TBC",
+        "matchday": 7,
+        "referee": null
+      },
+      "league": {
+        "code": "PL",
+        "name": "Premier League",
+        "shortName": "PL"
+      },
+      "homeTeam": {
+        "id": 351,
+        "name": "Nottingham",
+        "fullName": "Nottingham Forest FC",
+        "crest": "https://crests.football-data.org/351.png",
+        "form": "LWDDL",
+        "rank": 13,
+        "points": 5
+      },
+      "awayTeam": {
+        "id": 57,
+        "name": "Arsenal",
+        "fullName": "Arsenal FC",
+        "crest": "https://crests.football-data.org/57.png",
+        "form": "LWWWW",
+        "rank": 2,
+        "points": 12
+      },
+      "prediction": {
+        "homeXG": 0.3,
+        "awayXG": 0.64,
+        "predictedScore": "0-0",
+        "predictedScoreProb": 39.2,
+        "outcomes": {
+          "homeWin": 15,
+          "draw": 47,
+          "awayWin": 38
+        },
+        "topScores": [
+          {
+            "score": "0-0",
+            "probability": 39.2
+          },
+          {
+            "score": "0-1",
+            "probability": 25
+          },
+          {
+            "score": "1-0",
+            "probability": 11.8
+          },
+          {
+            "score": "0-2",
+            "probability": 8
+          },
+          {
+            "score": "1-1",
+            "probability": 7.5
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: mid-table (13th)",
+          "Away motivation: title/promotion contender (2nd)",
+          "H2H: h2h favours away team (5W/2D/1L from 8)"
+        ],
+        "model": {
+          "homeAttackStr": 0.199,
+          "homeDefenceStr": 0.565,
+          "awayAttackStr": 0.814,
+          "awayDefenceStr": 0.726
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 560606,
+        "date": "2026-10-19T19:00:00Z",
+        "venue": "TBC",
+        "matchday": 7,
+        "referee": null
+      },
+      "league": {
+        "code": "PL",
+        "name": "Premier League",
+        "shortName": "PL"
+      },
+      "homeTeam": {
+        "id": 73,
+        "name": "Tottenham",
+        "fullName": "Tottenham Hotspur FC",
+        "crest": "https://crests.football-data.org/73.png",
+        "form": "LDDLL",
+        "rank": 20,
+        "points": 2
+      },
+      "awayTeam": {
+        "id": 1076,
+        "name": "Coventry City",
+        "fullName": "Coventry City FC",
+        "crest": "https://crests.football-data.org/1076.png",
+        "form": "WLLLL",
+        "rank": 18,
+        "points": 3
+      },
+      "prediction": {
+        "homeXG": 0.88,
+        "awayXG": 0.4,
+        "predictedScore": "0-0",
+        "predictedScoreProb": 28,
+        "outcomes": {
+          "homeWin": 45.4,
+          "draw": 38.6,
+          "awayWin": 16
+        },
+        "topScores": [
+          {
+            "score": "0-0",
+            "probability": 28
+          },
+          {
+            "score": "1-0",
+            "probability": 24.5
+          },
+          {
+            "score": "0-1",
+            "probability": 11.1
+          },
+          {
+            "score": "2-0",
+            "probability": 10.8
+          },
+          {
+            "score": "1-1",
+            "probability": 9.7
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: relegation battle (20th of 20)",
+          "Home motivation: poor recent form (LDDLL)",
+          "Away motivation: relegation battle (18th of 20)",
+          "H2H: no h2h data"
+        ],
+        "model": {
+          "homeAttackStr": 0.451,
+          "homeDefenceStr": 1.197,
+          "awayAttackStr": 0.249,
+          "awayDefenceStr": 1.034
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561862,
+        "date": "2026-10-09T19:00:00Z",
+        "venue": "TBC",
+        "matchday": 9,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 563,
+        "name": "West Ham",
+        "fullName": "West Ham United FC",
+        "crest": "https://crests.football-data.org/563.png",
+        "form": "DWWWWD",
+        "rank": 2,
+        "points": 15
+      },
+      "awayTeam": {
+        "id": 69,
+        "name": "QPR",
+        "fullName": "Queens Park Rangers FC",
+        "crest": "https://crests.football-data.org/69.png",
+        "form": "DDDLWW",
+        "rank": 6,
+        "points": 13
+      },
+      "prediction": {
+        "homeXG": 2.67,
+        "awayXG": 1.06,
+        "predictedScore": "2-1",
+        "predictedScoreProb": 9.1,
+        "outcomes": {
+          "homeWin": 69.7,
+          "draw": 15.8,
+          "awayWin": 12.6
+        },
+        "topScores": [
+          {
+            "score": "2-1",
+            "probability": 9.1
+          },
+          {
+            "score": "2-0",
+            "probability": 8.6
+          },
+          {
+            "score": "3-1",
+            "probability": 8.1
+          },
+          {
+            "score": "3-0",
+            "probability": 7.6
+          },
+          {
+            "score": "1-1",
+            "probability": 6.8
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: title/promotion contender (2nd)",
+          "Home motivation: strong recent form (DWWWWD)",
+          "Away motivation: playoff/European contention (6th)",
+          "H2H: no h2h data"
+        ],
+        "model": {
+          "homeAttackStr": 2.209,
+          "homeDefenceStr": 0.796,
+          "awayAttackStr": 1.028,
+          "awayDefenceStr": 0.56
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561857,
+        "date": "2026-10-10T11:30:00Z",
+        "venue": "TBC",
+        "matchday": 9,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 74,
+        "name": "West Brom",
+        "fullName": "West Bromwich Albion FC",
+        "crest": "https://crests.football-data.org/74.png",
+        "form": "LDWWDL",
+        "rank": 5,
+        "points": 14
+      },
+      "awayTeam": {
+        "id": 332,
+        "name": "Birmingham",
+        "fullName": "Birmingham City FC",
+        "crest": "https://crests.football-data.org/332.png",
+        "form": "DWLDDW",
+        "rank": 10,
+        "points": 11
+      },
+      "prediction": {
+        "homeXG": 1.25,
+        "awayXG": 0.76,
+        "predictedScore": "1-0",
+        "predictedScoreProb": 16.8,
+        "outcomes": {
+          "homeWin": 48,
+          "draw": 29.5,
+          "awayWin": 22.5
+        },
+        "topScores": [
+          {
+            "score": "1-0",
+            "probability": 16.8
+          },
+          {
+            "score": "0-0",
+            "probability": 13.4
+          },
+          {
+            "score": "1-1",
+            "probability": 12.7
+          },
+          {
+            "score": "2-0",
+            "probability": 10.5
+          },
+          {
+            "score": "0-1",
+            "probability": 10.2
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: playoff/European contention (5th)",
+          "Away motivation: mid-table (10th)",
+          "H2H: h2h balanced (2W/3D/4L from 9)"
+        ],
+        "model": {
+          "homeAttackStr": 0.765,
+          "homeDefenceStr": 0.566,
+          "awayAttackStr": 1.049,
+          "awayDefenceStr": 0.785
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561860,
+        "date": "2026-10-10T11:30:00Z",
+        "venue": "TBC",
+        "matchday": 9,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 72,
+        "name": "Swansea",
+        "fullName": "Swansea City AFC",
+        "crest": "https://crests.football-data.org/72.png",
+        "form": "WWLDWW",
+        "rank": 1,
+        "points": 17
+      },
+      "awayTeam": {
+        "id": 68,
+        "name": "Norwich",
+        "fullName": "Norwich City FC",
+        "crest": "https://crests.football-data.org/68.png",
+        "form": "LLWWLW",
+        "rank": 17,
+        "points": 9
+      },
+      "prediction": {
+        "homeXG": 3.03,
+        "awayXG": 0.69,
+        "predictedScore": "3-0",
+        "predictedScoreProb": 11.3,
+        "outcomes": {
+          "homeWin": 80.2,
+          "draw": 10.8,
+          "awayWin": 5.5
+        },
+        "topScores": [
+          {
+            "score": "3-0",
+            "probability": 11.3
+          },
+          {
+            "score": "2-0",
+            "probability": 11.1
+          },
+          {
+            "score": "4-0",
+            "probability": 8.5
+          },
+          {
+            "score": "3-1",
+            "probability": 7.7
+          },
+          {
+            "score": "2-1",
+            "probability": 7.7
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: title/promotion contender (1st)",
+          "Home motivation: strong recent form (WWLDWW)",
+          "Away motivation: mid-table (17th)",
+          "H2H: h2h balanced (5W/2D/3L from 10)"
+        ],
+        "model": {
+          "homeAttackStr": 0.929,
+          "homeDefenceStr": 0.391,
+          "awayAttackStr": 1.383,
+          "awayDefenceStr": 1.508
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561863,
+        "date": "2026-10-10T11:30:00Z",
+        "venue": "TBC",
+        "matchday": 9,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 348,
+        "name": "Charlton",
+        "fullName": "Charlton Athletic FC",
+        "crest": "https://crests.football-data.org/348.png",
+        "form": "LDDLDW",
+        "rank": 9,
+        "points": 12
+      },
+      "awayTeam": {
+        "id": 387,
+        "name": "Bristol City",
+        "fullName": "Bristol City FC",
+        "crest": "https://crests.football-data.org/387.png",
+        "form": "WLLWWW",
+        "rank": 8,
+        "points": 13
+      },
+      "prediction": {
+        "homeXG": 0.88,
+        "awayXG": 0.81,
+        "predictedScore": "0-0",
+        "predictedScoreProb": 18.5,
+        "outcomes": {
+          "homeWin": 34.7,
+          "draw": 34.2,
+          "awayWin": 31.2
+        },
+        "topScores": [
+          {
+            "score": "0-0",
+            "probability": 18.5
+          },
+          {
+            "score": "1-0",
+            "probability": 16.2
+          },
+          {
+            "score": "0-1",
+            "probability": 15
+          },
+          {
+            "score": "1-1",
+            "probability": 13.2
+          },
+          {
+            "score": "2-0",
+            "probability": 7.1
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: mid-table (9th)",
+          "Home motivation: poor recent form (LDDLDW)",
+          "Away motivation: mid-table (8th)",
+          "H2H: h2h balanced (0W/1D/1L from 2)"
+        ],
+        "model": {
+          "homeAttackStr": 0.4,
+          "homeDefenceStr": 0.493,
+          "awayAttackStr": 1.295,
+          "awayDefenceStr": 1.1
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561858,
+        "date": "2026-10-10T14:00:00Z",
+        "venue": "TBC",
+        "matchday": 9,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 356,
+        "name": "Sheffield Utd",
+        "fullName": "Sheffield United FC",
+        "crest": "https://crests.football-data.org/356.png",
+        "form": "LLWLWD",
+        "rank": 18,
+        "points": 9
+      },
+      "awayTeam": {
+        "id": 1126,
+        "name": "Lincoln City",
+        "fullName": "Lincoln City FC",
+        "crest": "https://crests.football-data.org/1126.png",
+        "form": "LWWDDW",
+        "rank": 12,
+        "points": 11
+      },
+      "prediction": {
+        "homeXG": 0.52,
+        "awayXG": 1.09,
+        "predictedScore": "0-1",
+        "predictedScoreProb": 21.9,
+        "outcomes": {
+          "homeWin": 17.4,
+          "draw": 33,
+          "awayWin": 49.6
+        },
+        "topScores": [
+          {
+            "score": "0-1",
+            "probability": 21.9
+          },
+          {
+            "score": "0-0",
+            "probability": 20
+          },
+          {
+            "score": "0-2",
+            "probability": 11.9
+          },
+          {
+            "score": "1-1",
+            "probability": 11.3
+          },
+          {
+            "score": "1-0",
+            "probability": 10.4
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: mid-table (18th)",
+          "Away motivation: mid-table (12th)",
+          "H2H: no h2h data"
+        ],
+        "model": {
+          "homeAttackStr": 0.682,
+          "homeDefenceStr": 1.177,
+          "awayAttackStr": 0.728,
+          "awayDefenceStr": 0.369
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561861,
+        "date": "2026-10-10T14:00:00Z",
+        "venue": "TBC",
+        "matchday": 9,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 346,
+        "name": "Watford",
+        "fullName": "Watford FC",
+        "crest": "https://crests.football-data.org/346.png",
+        "form": "LLWLLD",
+        "rank": 20,
+        "points": 8
+      },
+      "awayTeam": {
+        "id": 328,
+        "name": "Burnley",
+        "fullName": "Burnley FC",
+        "crest": "https://crests.football-data.org/328.png",
+        "form": "DLDLDL",
+        "rank": 24,
+        "points": 4
+      },
+      "prediction": {
+        "homeXG": 2.29,
+        "awayXG": 0.91,
+        "predictedScore": "2-0",
+        "predictedScoreProb": 10.7,
+        "outcomes": {
+          "homeWin": 67.5,
+          "draw": 18.2,
+          "awayWin": 13.4
+        },
+        "topScores": [
+          {
+            "score": "2-0",
+            "probability": 10.7
+          },
+          {
+            "score": "2-1",
+            "probability": 9.7
+          },
+          {
+            "score": "1-0",
+            "probability": 9.4
+          },
+          {
+            "score": "1-1",
+            "probability": 8.5
+          },
+          {
+            "score": "3-0",
+            "probability": 8.2
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: close to relegation zone (20th)",
+          "Home motivation: poor recent form (LLWLLD)",
+          "Away motivation: relegation battle (24th of 24)",
+          "Away motivation: poor recent form (DLDLDL)",
+          "H2H: h2h balanced (1W/2D/4L from 7)"
+        ],
+        "model": {
+          "homeAttackStr": 0.754,
+          "homeDefenceStr": 0.958,
+          "awayAttackStr": 0.75,
+          "awayDefenceStr": 1.512
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561864,
+        "date": "2026-10-10T14:00:00Z",
+        "venue": "TBC",
+        "matchday": 9,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 342,
+        "name": "Derby County",
+        "fullName": "Derby County FC",
+        "crest": "https://crests.football-data.org/342.png",
+        "form": "DLLLWL",
+        "rank": 22,
+        "points": 5
+      },
+      "awayTeam": {
+        "id": 404,
+        "name": "Wrexham",
+        "fullName": "Wrexham AFC",
+        "crest": "https://crests.football-data.org/404.png",
+        "form": "WLDDWL",
+        "rank": 14,
+        "points": 10
+      },
+      "prediction": {
+        "homeXG": 1.12,
+        "awayXG": 1.37,
+        "predictedScore": "1-1",
+        "predictedScoreProb": 12.7,
+        "outcomes": {
+          "homeWin": 30.6,
+          "draw": 26.9,
+          "awayWin": 42.4
+        },
+        "topScores": [
+          {
+            "score": "1-1",
+            "probability": 12.7
+          },
+          {
+            "score": "0-1",
+            "probability": 11.4
+          },
+          {
+            "score": "1-0",
+            "probability": 9.3
+          },
+          {
+            "score": "1-2",
+            "probability": 8.7
+          },
+          {
+            "score": "0-0",
+            "probability": 8.3
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: relegation battle (22th of 24)",
+          "Home motivation: poor recent form (DLLLWL)",
+          "Away motivation: mid-table (14th)",
+          "H2H: h2h balanced (0W/1D/1L from 2)"
+        ],
+        "model": {
+          "homeAttackStr": 0.468,
+          "homeDefenceStr": 1.386,
+          "awayAttackStr": 0.773,
+          "awayDefenceStr": 1.173
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561865,
+        "date": "2026-10-10T14:00:00Z",
+        "venue": "TBC",
+        "matchday": 9,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 59,
+        "name": "Blackburn",
+        "fullName": "Blackburn Rovers FC",
+        "crest": "https://crests.football-data.org/59.png",
+        "form": "DWLLDL",
+        "rank": 16,
+        "points": 9
+      },
+      "awayTeam": {
+        "id": 715,
+        "name": "Cardiff",
+        "fullName": "Cardiff City FC",
+        "crest": "https://crests.football-data.org/715.png",
+        "form": "WLDLLD",
+        "rank": 21,
+        "points": 7
+      },
+      "prediction": {
+        "homeXG": 2.25,
+        "awayXG": 1,
+        "predictedScore": "2-0",
+        "predictedScoreProb": 9.8,
+        "outcomes": {
+          "homeWin": 64.7,
+          "draw": 19,
+          "awayWin": 15.5
+        },
+        "topScores": [
+          {
+            "score": "2-0",
+            "probability": 9.8
+          },
+          {
+            "score": "2-1",
+            "probability": 9.8
+          },
+          {
+            "score": "1-0",
+            "probability": 8.8
+          },
+          {
+            "score": "1-1",
+            "probability": 8.7
+          },
+          {
+            "score": "3-0",
+            "probability": 7.4
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: mid-table (16th)",
+          "Away motivation: close to relegation zone (21th)",
+          "H2H: h2h balanced (5W/2D/2L from 9)"
+        ],
+        "model": {
+          "homeAttackStr": 1.093,
+          "homeDefenceStr": 1.143,
+          "awayAttackStr": 0.68,
+          "awayDefenceStr": 1.001
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561866,
+        "date": "2026-10-10T14:00:00Z",
+        "venue": "TBC",
+        "matchday": 9,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 60,
+        "name": "Bolton",
+        "fullName": "Bolton Wanderers FC",
+        "crest": "https://crests.football-data.org/60.png",
+        "form": "WWLLLL",
+        "rank": 15,
+        "points": 10
+      },
+      "awayTeam": {
+        "id": 70,
+        "name": "Stoke",
+        "fullName": "Stoke City FC",
+        "crest": "https://crests.football-data.org/70.png",
+        "form": "WWDWWL",
+        "rank": 7,
+        "points": 13
+      },
+      "prediction": {
+        "homeXG": 2.19,
+        "awayXG": 1.74,
+        "predictedScore": "2-1",
+        "predictedScoreProb": 8.2,
+        "outcomes": {
+          "homeWin": 47.8,
+          "draw": 20.4,
+          "awayWin": 30.8
+        },
+        "topScores": [
+          {
+            "score": "2-1",
+            "probability": 8.2
+          },
+          {
+            "score": "1-1",
+            "probability": 7.5
+          },
+          {
+            "score": "2-2",
+            "probability": 7.1
+          },
+          {
+            "score": "1-2",
+            "probability": 6.5
+          },
+          {
+            "score": "3-1",
+            "probability": 6
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: mid-table (15th)",
+          "Away motivation: mid-table (7th)",
+          "Away motivation: strong recent form (WWDWWL)",
+          "H2H: no h2h data"
+        ],
+        "model": {
+          "homeAttackStr": 0.964,
+          "homeDefenceStr": 1.198,
+          "awayAttackStr": 1.107,
+          "awayDefenceStr": 1.108
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561867,
+        "date": "2026-10-10T14:00:00Z",
+        "venue": "TBC",
+        "matchday": 9,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 1081,
+        "name": "Preston NE",
+        "fullName": "Preston North End FC",
+        "crest": "https://crests.football-data.org/1081.png",
+        "form": "DLLWLL",
+        "rank": 23,
+        "points": 4
+      },
+      "awayTeam": {
+        "id": 384,
+        "name": "Millwall",
+        "fullName": "Millwall FC",
+        "crest": "https://crests.football-data.org/384.png",
+        "form": "DDLWLL",
+        "rank": 11,
+        "points": 11
+      },
+      "prediction": {
+        "homeXG": 2.05,
+        "awayXG": 2.19,
+        "predictedScore": "2-2",
+        "predictedScoreProb": 7.3,
+        "outcomes": {
+          "homeWin": 36.8,
+          "draw": 20,
+          "awayWin": 41.9
+        },
+        "topScores": [
+          {
+            "score": "2-2",
+            "probability": 7.3
+          },
+          {
+            "score": "1-2",
+            "probability": 7.1
+          },
+          {
+            "score": "2-1",
+            "probability": 6.6
+          },
+          {
+            "score": "1-1",
+            "probability": 6.5
+          },
+          {
+            "score": "2-3",
+            "probability": 5.3
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: relegation battle (23th of 24)",
+          "Home motivation: poor recent form (DLLWLL)",
+          "Away motivation: mid-table (11th)",
+          "H2H: h2h balanced (0W/6D/4L from 10)"
+        ],
+        "model": {
+          "homeAttackStr": 0.67,
+          "homeDefenceStr": 1.421,
+          "awayAttackStr": 1.211,
+          "awayDefenceStr": 1.504
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561868,
+        "date": "2026-10-10T14:00:00Z",
+        "venue": "TBC",
+        "matchday": 9,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 343,
+        "name": "Middlesbrough",
+        "fullName": "Middlesbrough FC",
+        "crest": "https://crests.football-data.org/343.png",
+        "form": "DDWWDW",
+        "rank": 3,
+        "points": 15
+      },
+      "awayTeam": {
+        "id": 76,
+        "name": "Wolverhampton",
+        "fullName": "Wolverhampton Wanderers FC",
+        "crest": "https://crests.football-data.org/76.png",
+        "form": "WWDLWW",
+        "rank": 4,
+        "points": 14
+      },
+      "prediction": {
+        "homeXG": 3.21,
+        "awayXG": 2.51,
+        "predictedScore": "3-2",
+        "predictedScoreProb": 5.7,
+        "outcomes": {
+          "homeWin": 48.6,
+          "draw": 16.4,
+          "awayWin": 29
+        },
+        "topScores": [
+          {
+            "score": "3-2",
+            "probability": 5.7
+          },
+          {
+            "score": "2-2",
+            "probability": 5.3
+          },
+          {
+            "score": "3-3",
+            "probability": 4.8
+          },
+          {
+            "score": "4-2",
+            "probability": 4.6
+          },
+          {
+            "score": "3-1",
+            "probability": 4.5
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: playoff/European contention (3th)",
+          "Away motivation: playoff/European contention (4th)",
+          "Away motivation: strong recent form (WWDLWW)",
+          "H2H: no h2h data"
+        ],
+        "model": {
+          "homeAttackStr": 1.614,
+          "homeDefenceStr": 1.316,
+          "awayAttackStr": 1.432,
+          "awayDefenceStr": 0.956
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561859,
+        "date": "2026-10-11T11:00:00Z",
+        "venue": "TBC",
+        "matchday": 9,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 340,
+        "name": "Southampton",
+        "fullName": "Southampton FC",
+        "crest": "https://crests.football-data.org/340.png",
+        "form": "LWWDDW",
+        "rank": 13,
+        "points": 10
+      },
+      "awayTeam": {
+        "id": 325,
+        "name": "Portsmouth",
+        "fullName": "Portsmouth FC",
+        "crest": "https://crests.football-data.org/325.png",
+        "form": "DDWLLW",
+        "rank": 19,
+        "points": 8
+      },
+      "prediction": {
+        "homeXG": 2.75,
+        "awayXG": 1.02,
+        "predictedScore": "2-1",
+        "predictedScoreProb": 8.9,
+        "outcomes": {
+          "homeWin": 71.4,
+          "draw": 15,
+          "awayWin": 11.4
+        },
+        "topScores": [
+          {
+            "score": "2-1",
+            "probability": 8.9
+          },
+          {
+            "score": "2-0",
+            "probability": 8.7
+          },
+          {
+            "score": "3-1",
+            "probability": 8.1
+          },
+          {
+            "score": "3-0",
+            "probability": 8
+          },
+          {
+            "score": "1-1",
+            "probability": 6.5
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: mid-table (13th)",
+          "Away motivation: close to relegation zone (19th)",
+          "H2H: h2h balanced (0W/2D/0L from 2)"
+        ],
+        "model": {
+          "homeAttackStr": 2.033,
+          "homeDefenceStr": 0.819,
+          "awayAttackStr": 0.966,
+          "awayDefenceStr": 0.659
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561869,
+        "date": "2026-10-13T18:45:00Z",
+        "venue": "TBC",
+        "matchday": 10,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 76,
+        "name": "Wolverhampton",
+        "fullName": "Wolverhampton Wanderers FC",
+        "crest": "https://crests.football-data.org/76.png",
+        "form": "WWDLWW",
+        "rank": 4,
+        "points": 14
+      },
+      "awayTeam": {
+        "id": 60,
+        "name": "Bolton",
+        "fullName": "Bolton Wanderers FC",
+        "crest": "https://crests.football-data.org/60.png",
+        "form": "WWLLLL",
+        "rank": 15,
+        "points": 10
+      },
+      "prediction": {
+        "homeXG": 4.44,
+        "awayXG": 1.22,
+        "predictedScore": "4-1",
+        "predictedScoreProb": 6.9,
+        "outcomes": {
+          "homeWin": 72.1,
+          "draw": 7,
+          "awayWin": 4.8
+        },
+        "topScores": [
+          {
+            "score": "4-1",
+            "probability": 6.9
+          },
+          {
+            "score": "3-1",
+            "probability": 6.2
+          },
+          {
+            "score": "5-1",
+            "probability": 6.1
+          },
+          {
+            "score": "4-0",
+            "probability": 5.7
+          },
+          {
+            "score": "3-0",
+            "probability": 5.1
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: playoff/European contention (4th)",
+          "Home motivation: strong recent form (WWDLWW)",
+          "Away motivation: mid-table (15th)",
+          "H2H: no h2h data"
+        ],
+        "model": {
+          "homeAttackStr": 1.335,
+          "homeDefenceStr": 0.773,
+          "awayAttackStr": 1.234,
+          "awayDefenceStr": 1.55
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561870,
+        "date": "2026-10-13T18:45:00Z",
+        "venue": "TBC",
+        "matchday": 10,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 404,
+        "name": "Wrexham",
+        "fullName": "Wrexham AFC",
+        "crest": "https://crests.football-data.org/404.png",
+        "form": "WLDDWL",
+        "rank": 14,
+        "points": 10
+      },
+      "awayTeam": {
+        "id": 74,
+        "name": "West Brom",
+        "fullName": "West Bromwich Albion FC",
+        "crest": "https://crests.football-data.org/74.png",
+        "form": "LDWWDL",
+        "rank": 5,
+        "points": 14
+      },
+      "prediction": {
+        "homeXG": 1.05,
+        "awayXG": 0.99,
+        "predictedScore": "1-0",
+        "predictedScoreProb": 13.7,
+        "outcomes": {
+          "homeWin": 36.5,
+          "draw": 30.5,
+          "awayWin": 33
+        },
+        "topScores": [
+          {
+            "score": "1-0",
+            "probability": 13.7
+          },
+          {
+            "score": "1-1",
+            "probability": 13.5
+          },
+          {
+            "score": "0-0",
+            "probability": 13
+          },
+          {
+            "score": "0-1",
+            "probability": 12.8
+          },
+          {
+            "score": "2-0",
+            "probability": 7.2
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: mid-table (14th)",
+          "Away motivation: playoff/European contention (5th)",
+          "H2H: h2h balanced (0W/1D/1L from 2)"
+        ],
+        "model": {
+          "homeAttackStr": 0.758,
+          "homeDefenceStr": 1.118,
+          "awayAttackStr": 0.682,
+          "awayDefenceStr": 0.678
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561871,
+        "date": "2026-10-13T18:45:00Z",
+        "venue": "TBC",
+        "matchday": 10,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 384,
+        "name": "Millwall",
+        "fullName": "Millwall FC",
+        "crest": "https://crests.football-data.org/384.png",
+        "form": "DDLWLL",
+        "rank": 11,
+        "points": 11
+      },
+      "awayTeam": {
+        "id": 72,
+        "name": "Swansea",
+        "fullName": "Swansea City AFC",
+        "crest": "https://crests.football-data.org/72.png",
+        "form": "WWLDWW",
+        "rank": 1,
+        "points": 17
+      },
+      "prediction": {
+        "homeXG": 2.08,
+        "awayXG": 2.25,
+        "predictedScore": "2-2",
+        "predictedScoreProb": 7.2,
+        "outcomes": {
+          "homeWin": 36.4,
+          "draw": 19.8,
+          "awayWin": 42.5
+        },
+        "topScores": [
+          {
+            "score": "2-2",
+            "probability": 7.2
+          },
+          {
+            "score": "1-2",
+            "probability": 6.9
+          },
+          {
+            "score": "2-1",
+            "probability": 6.4
+          },
+          {
+            "score": "1-1",
+            "probability": 6.2
+          },
+          {
+            "score": "2-3",
+            "probability": 5.4
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: mid-table (11th)",
+          "Away motivation: title/promotion contender (1st)",
+          "Away motivation: strong recent form (WWLDWW)",
+          "H2H: h2h balanced (5W/3D/2L from 10)"
+        ],
+        "model": {
+          "homeAttackStr": 1.336,
+          "homeDefenceStr": 1.152,
+          "awayAttackStr": 1.455,
+          "awayDefenceStr": 0.758
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561872,
+        "date": "2026-10-13T18:45:00Z",
+        "venue": "TBC",
+        "matchday": 10,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 715,
+        "name": "Cardiff",
+        "fullName": "Cardiff City FC",
+        "crest": "https://crests.football-data.org/715.png",
+        "form": "WLDLLD",
+        "rank": 21,
+        "points": 7
+      },
+      "awayTeam": {
+        "id": 346,
+        "name": "Watford",
+        "fullName": "Watford FC",
+        "crest": "https://crests.football-data.org/346.png",
+        "form": "LLWLLD",
+        "rank": 20,
+        "points": 8
+      },
+      "prediction": {
+        "homeXG": 1.67,
+        "awayXG": 0.34,
+        "predictedScore": "1-0",
+        "predictedScoreProb": 22.4,
+        "outcomes": {
+          "homeWin": 70.7,
+          "draw": 22.1,
+          "awayWin": 7
+        },
+        "topScores": [
+          {
+            "score": "1-0",
+            "probability": 22.4
+          },
+          {
+            "score": "2-0",
+            "probability": 18.7
+          },
+          {
+            "score": "0-0",
+            "probability": 13.4
+          },
+          {
+            "score": "3-0",
+            "probability": 10.4
+          },
+          {
+            "score": "1-1",
+            "probability": 7.6
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: close to relegation zone (21th)",
+          "Away motivation: close to relegation zone (20th)",
+          "Away motivation: poor recent form (LLWLLD)",
+          "H2H: h2h balanced (4W/2D/2L from 8)"
+        ],
+        "model": {
+          "homeAttackStr": 0.99,
+          "homeDefenceStr": 0.947,
+          "awayAttackStr": 0.288,
+          "awayDefenceStr": 0.815
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561873,
+        "date": "2026-10-13T18:45:00Z",
+        "venue": "TBC",
+        "matchday": 10,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 328,
+        "name": "Burnley",
+        "fullName": "Burnley FC",
+        "crest": "https://crests.football-data.org/328.png",
+        "form": "DLDLDL",
+        "rank": 24,
+        "points": 4
+      },
+      "awayTeam": {
+        "id": 348,
+        "name": "Charlton",
+        "fullName": "Charlton Athletic FC",
+        "crest": "https://crests.football-data.org/348.png",
+        "form": "LDDLDW",
+        "rank": 9,
+        "points": 12
+      },
+      "prediction": {
+        "homeXG": 1.88,
+        "awayXG": 0.9,
+        "predictedScore": "1-0",
+        "predictedScoreProb": 11.7,
+        "outcomes": {
+          "homeWin": 60,
+          "draw": 22.1,
+          "awayWin": 17.6
+        },
+        "topScores": [
+          {
+            "score": "1-0",
+            "probability": 11.7
+          },
+          {
+            "score": "2-0",
+            "probability": 11
+          },
+          {
+            "score": "1-1",
+            "probability": 10.5
+          },
+          {
+            "score": "2-1",
+            "probability": 9.9
+          },
+          {
+            "score": "3-0",
+            "probability": 6.9
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: relegation battle (24th of 24)",
+          "Home motivation: poor recent form (DLDLDL)",
+          "Away motivation: mid-table (9th)",
+          "Away motivation: poor recent form (LDDLDW)",
+          "H2H: no h2h data"
+        ],
+        "model": {
+          "homeAttackStr": 0.735,
+          "homeDefenceStr": 1.188,
+          "awayAttackStr": 0.613,
+          "awayDefenceStr": 1.256
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561874,
+        "date": "2026-10-13T18:45:00Z",
+        "venue": "TBC",
+        "matchday": 10,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 387,
+        "name": "Bristol City",
+        "fullName": "Bristol City FC",
+        "crest": "https://crests.football-data.org/387.png",
+        "form": "WLLWWW",
+        "rank": 8,
+        "points": 13
+      },
+      "awayTeam": {
+        "id": 59,
+        "name": "Blackburn",
+        "fullName": "Blackburn Rovers FC",
+        "crest": "https://crests.football-data.org/59.png",
+        "form": "DWLLDL",
+        "rank": 16,
+        "points": 9
+      },
+      "prediction": {
+        "homeXG": 1.14,
+        "awayXG": 1.08,
+        "predictedScore": "1-1",
+        "predictedScoreProb": 13.4,
+        "outcomes": {
+          "homeWin": 36.9,
+          "draw": 28.9,
+          "awayWin": 34.1
+        },
+        "topScores": [
+          {
+            "score": "1-1",
+            "probability": 13.4
+          },
+          {
+            "score": "1-0",
+            "probability": 12.3
+          },
+          {
+            "score": "0-1",
+            "probability": 11.7
+          },
+          {
+            "score": "0-0",
+            "probability": 10.8
+          },
+          {
+            "score": "2-1",
+            "probability": 7.6
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: mid-table (8th)",
+          "Away motivation: mid-table (16th)",
+          "H2H: h2h balanced (5W/2D/3L from 10)"
+        ],
+        "model": {
+          "homeAttackStr": 0.571,
+          "homeDefenceStr": 0.819,
+          "awayAttackStr": 1.038,
+          "awayDefenceStr": 0.971
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561875,
+        "date": "2026-10-13T19:00:00Z",
+        "venue": "TBC",
+        "matchday": 10,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 332,
+        "name": "Birmingham",
+        "fullName": "Birmingham City FC",
+        "crest": "https://crests.football-data.org/332.png",
+        "form": "DWLDDW",
+        "rank": 10,
+        "points": 11
+      },
+      "awayTeam": {
+        "id": 1081,
+        "name": "Preston NE",
+        "fullName": "Preston North End FC",
+        "crest": "https://crests.football-data.org/1081.png",
+        "form": "DLLWLL",
+        "rank": 23,
+        "points": 4
+      },
+      "prediction": {
+        "homeXG": 2.48,
+        "awayXG": 1.27,
+        "predictedScore": "2-1",
+        "predictedScoreProb": 9.2,
+        "outcomes": {
+          "homeWin": 62.5,
+          "draw": 18.1,
+          "awayWin": 18
+        },
+        "topScores": [
+          {
+            "score": "2-1",
+            "probability": 9.2
+          },
+          {
+            "score": "3-1",
+            "probability": 7.6
+          },
+          {
+            "score": "1-1",
+            "probability": 7.4
+          },
+          {
+            "score": "2-0",
+            "probability": 7.2
+          },
+          {
+            "score": "3-0",
+            "probability": 6
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: mid-table (10th)",
+          "Away motivation: relegation battle (23th of 24)",
+          "Away motivation: poor recent form (DLLWLL)",
+          "H2H: h2h balanced (5W/2D/3L from 10)"
+        ],
+        "model": {
+          "homeAttackStr": 1.104,
+          "homeDefenceStr": 1.282,
+          "awayAttackStr": 0.785,
+          "awayDefenceStr": 1.093
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561876,
+        "date": "2026-10-13T19:00:00Z",
+        "venue": "TBC",
+        "matchday": 10,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 70,
+        "name": "Stoke",
+        "fullName": "Stoke City FC",
+        "crest": "https://crests.football-data.org/70.png",
+        "form": "WWDWWL",
+        "rank": 7,
+        "points": 13
+      },
+      "awayTeam": {
+        "id": 343,
+        "name": "Middlesbrough",
+        "fullName": "Middlesbrough FC",
+        "crest": "https://crests.football-data.org/343.png",
+        "form": "DDWWDW",
+        "rank": 3,
+        "points": 15
+      },
+      "prediction": {
+        "homeXG": 2.45,
+        "awayXG": 0.9,
+        "predictedScore": "2-0",
+        "predictedScoreProb": 10.5,
+        "outcomes": {
+          "homeWin": 70,
+          "draw": 16.8,
+          "awayWin": 12
+        },
+        "topScores": [
+          {
+            "score": "2-0",
+            "probability": 10.5
+          },
+          {
+            "score": "2-1",
+            "probability": 9.5
+          },
+          {
+            "score": "1-0",
+            "probability": 8.6
+          },
+          {
+            "score": "3-0",
+            "probability": 8.6
+          },
+          {
+            "score": "1-1",
+            "probability": 7.8
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: mid-table (7th)",
+          "Home motivation: strong recent form (WWDWWL)",
+          "Away motivation: playoff/European contention (3th)",
+          "H2H: h2h balanced (2W/3D/4L from 9)"
+        ],
+        "model": {
+          "homeAttackStr": 1.26,
+          "homeDefenceStr": 0.6,
+          "awayAttackStr": 1.164,
+          "awayDefenceStr": 0.918
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561877,
+        "date": "2026-10-14T18:45:00Z",
+        "venue": "TBC",
+        "matchday": 10,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 325,
+        "name": "Portsmouth",
+        "fullName": "Portsmouth FC",
+        "crest": "https://crests.football-data.org/325.png",
+        "form": "DDWLLW",
+        "rank": 19,
+        "points": 8
+      },
+      "awayTeam": {
+        "id": 356,
+        "name": "Sheffield Utd",
+        "fullName": "Sheffield United FC",
+        "crest": "https://crests.football-data.org/356.png",
+        "form": "LLWLWD",
+        "rank": 18,
+        "points": 9
+      },
+      "prediction": {
+        "homeXG": 1.47,
+        "awayXG": 1.41,
+        "predictedScore": "1-1",
+        "predictedScoreProb": 11.6,
+        "outcomes": {
+          "homeWin": 38.6,
+          "draw": 24.9,
+          "awayWin": 36.4
+        },
+        "topScores": [
+          {
+            "score": "1-1",
+            "probability": 11.6
+          },
+          {
+            "score": "2-1",
+            "probability": 8.5
+          },
+          {
+            "score": "1-2",
+            "probability": 8.2
+          },
+          {
+            "score": "1-0",
+            "probability": 8.2
+          },
+          {
+            "score": "0-1",
+            "probability": 7.9
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: close to relegation zone (19th)",
+          "Away motivation: mid-table (18th)",
+          "H2H: h2h favours away team (3W/1D/0L from 4)"
+        ],
+        "model": {
+          "homeAttackStr": 0.781,
+          "homeDefenceStr": 1.156,
+          "awayAttackStr": 0.924,
+          "awayDefenceStr": 0.906
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561879,
+        "date": "2026-10-14T18:45:00Z",
+        "venue": "TBC",
+        "matchday": 10,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 68,
+        "name": "Norwich",
+        "fullName": "Norwich City FC",
+        "crest": "https://crests.football-data.org/68.png",
+        "form": "LLWWLW",
+        "rank": 17,
+        "points": 9
+      },
+      "awayTeam": {
+        "id": 340,
+        "name": "Southampton",
+        "fullName": "Southampton FC",
+        "crest": "https://crests.football-data.org/340.png",
+        "form": "LWWDDW",
+        "rank": 13,
+        "points": 10
+      },
+      "prediction": {
+        "homeXG": 2.98,
+        "awayXG": 2.21,
+        "predictedScore": "2-2",
+        "predictedScoreProb": 6,
+        "outcomes": {
+          "homeWin": 51.1,
+          "draw": 17.1,
+          "awayWin": 27.8
+        },
+        "topScores": [
+          {
+            "score": "2-2",
+            "probability": 6
+          },
+          {
+            "score": "3-2",
+            "probability": 6
+          },
+          {
+            "score": "2-1",
+            "probability": 5.5
+          },
+          {
+            "score": "3-1",
+            "probability": 5.4
+          },
+          {
+            "score": "4-2",
+            "probability": 4.5
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: mid-table (17th)",
+          "Away motivation: mid-table (13th)",
+          "H2H: h2h balanced (2W/2D/3L from 7)"
+        ],
+        "model": {
+          "homeAttackStr": 1.607,
+          "homeDefenceStr": 1.638,
+          "awayAttackStr": 1.059,
+          "awayDefenceStr": 0.902
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561880,
+        "date": "2026-10-14T18:45:00Z",
+        "venue": "TBC",
+        "matchday": 10,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 69,
+        "name": "QPR",
+        "fullName": "Queens Park Rangers FC",
+        "crest": "https://crests.football-data.org/69.png",
+        "form": "DDDLWW",
+        "rank": 6,
+        "points": 13
+      },
+      "awayTeam": {
+        "id": 342,
+        "name": "Derby County",
+        "fullName": "Derby County FC",
+        "crest": "https://crests.football-data.org/342.png",
+        "form": "DLLLWL",
+        "rank": 22,
+        "points": 5
+      },
+      "prediction": {
+        "homeXG": 1.32,
+        "awayXG": 0.67,
+        "predictedScore": "1-0",
+        "predictedScoreProb": 18.1,
+        "outcomes": {
+          "homeWin": 52.3,
+          "draw": 28.8,
+          "awayWin": 18.8
+        },
+        "topScores": [
+          {
+            "score": "1-0",
+            "probability": 18.1
+          },
+          {
+            "score": "0-0",
+            "probability": 13.8
+          },
+          {
+            "score": "1-1",
+            "probability": 12.1
+          },
+          {
+            "score": "2-0",
+            "probability": 11.9
+          },
+          {
+            "score": "0-1",
+            "probability": 9.2
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: playoff/European contention (6th)",
+          "Away motivation: relegation battle (22th of 24)",
+          "Away motivation: poor recent form (DLLLWL)",
+          "H2H: h2h balanced (5W/0D/4L from 9)"
+        ],
+        "model": {
+          "homeAttackStr": 0.659,
+          "homeDefenceStr": 0.773,
+          "awayAttackStr": 0.682,
+          "awayDefenceStr": 0.96
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561878,
+        "date": "2026-10-14T19:00:00Z",
+        "venue": "TBC",
+        "matchday": 10,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 1126,
+        "name": "Lincoln City",
+        "fullName": "Lincoln City FC",
+        "crest": "https://crests.football-data.org/1126.png",
+        "form": "LWWDDW",
+        "rank": 12,
+        "points": 11
+      },
+      "awayTeam": {
+        "id": 563,
+        "name": "West Ham",
+        "fullName": "West Ham United FC",
+        "crest": "https://crests.football-data.org/563.png",
+        "form": "DWWWWD",
+        "rank": 2,
+        "points": 15
+      },
+      "prediction": {
+        "homeXG": 1.03,
+        "awayXG": 2.32,
+        "predictedScore": "1-2",
+        "predictedScoreProb": 9.7,
+        "outcomes": {
+          "homeWin": 15.4,
+          "draw": 18.5,
+          "awayWin": 65.2
+        },
+        "topScores": [
+          {
+            "score": "1-2",
+            "probability": 9.7
+          },
+          {
+            "score": "0-2",
+            "probability": 9.4
+          },
+          {
+            "score": "1-1",
+            "probability": 8.4
+          },
+          {
+            "score": "0-1",
+            "probability": 8.1
+          },
+          {
+            "score": "1-3",
+            "probability": 7.5
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: mid-table (12th)",
+          "Away motivation: title/promotion contender (2nd)",
+          "Away motivation: strong recent form (DWWWWD)",
+          "H2H: no h2h data"
+        ],
+        "model": {
+          "homeAttackStr": 0.514,
+          "homeDefenceStr": 0.937,
+          "awayAttackStr": 1.844,
+          "awayDefenceStr": 0.979
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561883,
+        "date": "2026-10-16T19:00:00Z",
+        "venue": "TBC",
+        "matchday": 11,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 328,
+        "name": "Burnley",
+        "fullName": "Burnley FC",
+        "crest": "https://crests.football-data.org/328.png",
+        "form": "DLDLDL",
+        "rank": 24,
+        "points": 4
+      },
+      "awayTeam": {
+        "id": 76,
+        "name": "Wolverhampton",
+        "fullName": "Wolverhampton Wanderers FC",
+        "crest": "https://crests.football-data.org/76.png",
+        "form": "WWDLWW",
+        "rank": 4,
+        "points": 14
+      },
+      "prediction": {
+        "homeXG": 1.43,
+        "awayXG": 2.27,
+        "predictedScore": "1-2",
+        "predictedScoreProb": 9.1,
+        "outcomes": {
+          "homeWin": 23.6,
+          "draw": 19.9,
+          "awayWin": 55.5
+        },
+        "topScores": [
+          {
+            "score": "1-2",
+            "probability": 9.1
+          },
+          {
+            "score": "1-1",
+            "probability": 8
+          },
+          {
+            "score": "1-3",
+            "probability": 6.9
+          },
+          {
+            "score": "2-2",
+            "probability": 6.5
+          },
+          {
+            "score": "0-2",
+            "probability": 6.4
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: relegation battle (24th of 24)",
+          "Home motivation: poor recent form (DLDLDL)",
+          "Away motivation: playoff/European contention (4th)",
+          "Away motivation: strong recent form (WWDLWW)",
+          "H2H: h2h balanced (4W/4D/1L from 9)"
+        ],
+        "model": {
+          "homeAttackStr": 0.735,
+          "homeDefenceStr": 1.188,
+          "awayAttackStr": 1.432,
+          "awayDefenceStr": 0.956
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561884,
+        "date": "2026-10-17T11:30:00Z",
+        "venue": "TBC",
+        "matchday": 11,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 384,
+        "name": "Millwall",
+        "fullName": "Millwall FC",
+        "crest": "https://crests.football-data.org/384.png",
+        "form": "DDLWLL",
+        "rank": 11,
+        "points": 11
+      },
+      "awayTeam": {
+        "id": 1126,
+        "name": "Lincoln City",
+        "fullName": "Lincoln City FC",
+        "crest": "https://crests.football-data.org/1126.png",
+        "form": "LWWDDW",
+        "rank": 12,
+        "points": 11
+      },
+      "prediction": {
+        "homeXG": 1.01,
+        "awayXG": 1.07,
+        "predictedScore": "1-1",
+        "predictedScoreProb": 13.5,
+        "outcomes": {
+          "homeWin": 33.5,
+          "draw": 30.1,
+          "awayWin": 36.3
+        },
+        "topScores": [
+          {
+            "score": "1-1",
+            "probability": 13.5
+          },
+          {
+            "score": "0-1",
+            "probability": 13.3
+          },
+          {
+            "score": "1-0",
+            "probability": 12.6
+          },
+          {
+            "score": "0-0",
+            "probability": 12.5
+          },
+          {
+            "score": "1-2",
+            "probability": 7.2
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: mid-table (11th)",
+          "Away motivation: mid-table (12th)",
+          "H2H: no h2h data"
+        ],
+        "model": {
+          "homeAttackStr": 1.336,
+          "homeDefenceStr": 1.152,
+          "awayAttackStr": 0.728,
+          "awayDefenceStr": 0.369
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561887,
+        "date": "2026-10-17T11:30:00Z",
+        "venue": "TBC",
+        "matchday": 11,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 343,
+        "name": "Middlesbrough",
+        "fullName": "Middlesbrough FC",
+        "crest": "https://crests.football-data.org/343.png",
+        "form": "DDWWDW",
+        "rank": 3,
+        "points": 15
+      },
+      "awayTeam": {
+        "id": 715,
+        "name": "Cardiff",
+        "fullName": "Cardiff City FC",
+        "crest": "https://crests.football-data.org/715.png",
+        "form": "WLDLLD",
+        "rank": 21,
+        "points": 7
+      },
+      "prediction": {
+        "homeXG": 3.37,
+        "awayXG": 1.15,
+        "predictedScore": "3-1",
+        "predictedScoreProb": 8,
+        "outcomes": {
+          "homeWin": 73.8,
+          "draw": 11.7,
+          "awayWin": 9
+        },
+        "topScores": [
+          {
+            "score": "3-1",
+            "probability": 8
+          },
+          {
+            "score": "2-1",
+            "probability": 7.1
+          },
+          {
+            "score": "3-0",
+            "probability": 6.9
+          },
+          {
+            "score": "4-1",
+            "probability": 6.7
+          },
+          {
+            "score": "2-0",
+            "probability": 6.2
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: playoff/European contention (3th)",
+          "Away motivation: close to relegation zone (21th)",
+          "H2H: h2h balanced (6W/3D/1L from 10)"
+        ],
+        "model": {
+          "homeAttackStr": 1.614,
+          "homeDefenceStr": 1.316,
+          "awayAttackStr": 0.68,
+          "awayDefenceStr": 1.001
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561889,
+        "date": "2026-10-17T11:30:00Z",
+        "venue": "TBC",
+        "matchday": 11,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 346,
+        "name": "Watford",
+        "fullName": "Watford FC",
+        "crest": "https://crests.football-data.org/346.png",
+        "form": "LLWLLD",
+        "rank": 20,
+        "points": 8
+      },
+      "awayTeam": {
+        "id": 348,
+        "name": "Charlton",
+        "fullName": "Charlton Athletic FC",
+        "crest": "https://crests.football-data.org/348.png",
+        "form": "LDDLDW",
+        "rank": 9,
+        "points": 12
+      },
+      "prediction": {
+        "homeXG": 1.9,
+        "awayXG": 0.73,
+        "predictedScore": "1-0",
+        "predictedScoreProb": 13.7,
+        "outcomes": {
+          "homeWin": 65,
+          "draw": 21.2,
+          "awayWin": 13.5
+        },
+        "topScores": [
+          {
+            "score": "1-0",
+            "probability": 13.7
+          },
+          {
+            "score": "2-0",
+            "probability": 13.1
+          },
+          {
+            "score": "1-1",
+            "probability": 10
+          },
+          {
+            "score": "2-1",
+            "probability": 9.5
+          },
+          {
+            "score": "3-0",
+            "probability": 8.3
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: close to relegation zone (20th)",
+          "Home motivation: poor recent form (LLWLLD)",
+          "Away motivation: mid-table (9th)",
+          "Away motivation: poor recent form (LDDLDW)",
+          "H2H: h2h balanced (0W/1D/1L from 2)"
+        ],
+        "model": {
+          "homeAttackStr": 0.754,
+          "homeDefenceStr": 0.958,
+          "awayAttackStr": 0.613,
+          "awayDefenceStr": 1.256
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561881,
+        "date": "2026-10-17T14:00:00Z",
+        "venue": "TBC",
+        "matchday": 11,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 68,
+        "name": "Norwich",
+        "fullName": "Norwich City FC",
+        "crest": "https://crests.football-data.org/68.png",
+        "form": "LLWWLW",
+        "rank": 17,
+        "points": 9
+      },
+      "awayTeam": {
+        "id": 325,
+        "name": "Portsmouth",
+        "fullName": "Portsmouth FC",
+        "crest": "https://crests.football-data.org/325.png",
+        "form": "DDWLLW",
+        "rank": 19,
+        "points": 8
+      },
+      "prediction": {
+        "homeXG": 2.17,
+        "awayXG": 2.03,
+        "predictedScore": "2-2",
+        "predictedScoreProb": 7.3,
+        "outcomes": {
+          "homeWin": 41.9,
+          "draw": 20.1,
+          "awayWin": 36.8
+        },
+        "topScores": [
+          {
+            "score": "2-2",
+            "probability": 7.3
+          },
+          {
+            "score": "2-1",
+            "probability": 7.2
+          },
+          {
+            "score": "1-2",
+            "probability": 6.7
+          },
+          {
+            "score": "1-1",
+            "probability": 6.6
+          },
+          {
+            "score": "3-2",
+            "probability": 5.3
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: mid-table (17th)",
+          "Away motivation: close to relegation zone (19th)",
+          "H2H: h2h balanced (1W/2D/1L from 4)"
+        ],
+        "model": {
+          "homeAttackStr": 1.607,
+          "homeDefenceStr": 1.638,
+          "awayAttackStr": 0.966,
+          "awayDefenceStr": 0.659
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561882,
+        "date": "2026-10-17T14:00:00Z",
+        "venue": "TBC",
+        "matchday": 11,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 340,
+        "name": "Southampton",
+        "fullName": "Southampton FC",
+        "crest": "https://crests.football-data.org/340.png",
+        "form": "LWWDDW",
+        "rank": 13,
+        "points": 10
+      },
+      "awayTeam": {
+        "id": 60,
+        "name": "Bolton",
+        "fullName": "Bolton Wanderers FC",
+        "crest": "https://crests.football-data.org/60.png",
+        "form": "WWLLLL",
+        "rank": 15,
+        "points": 10
+      },
+      "prediction": {
+        "homeXG": 4.5,
+        "awayXG": 1.29,
+        "predictedScore": "4-1",
+        "predictedScoreProb": 6.7,
+        "outcomes": {
+          "homeWin": 70.9,
+          "draw": 7.1,
+          "awayWin": 5.1
+        },
+        "topScores": [
+          {
+            "score": "4-1",
+            "probability": 6.7
+          },
+          {
+            "score": "5-1",
+            "probability": 6.1
+          },
+          {
+            "score": "3-1",
+            "probability": 6
+          },
+          {
+            "score": "4-0",
+            "probability": 5.2
+          },
+          {
+            "score": "5-0",
+            "probability": 4.7
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: mid-table (13th)",
+          "Away motivation: mid-table (15th)",
+          "H2H: no h2h data"
+        ],
+        "model": {
+          "homeAttackStr": 2.033,
+          "homeDefenceStr": 0.819,
+          "awayAttackStr": 1.234,
+          "awayDefenceStr": 1.55
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561885,
+        "date": "2026-10-17T14:00:00Z",
+        "venue": "TBC",
+        "matchday": 11,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 387,
+        "name": "Bristol City",
+        "fullName": "Bristol City FC",
+        "crest": "https://crests.football-data.org/387.png",
+        "form": "WLLWWW",
+        "rank": 8,
+        "points": 13
+      },
+      "awayTeam": {
+        "id": 356,
+        "name": "Sheffield Utd",
+        "fullName": "Sheffield United FC",
+        "crest": "https://crests.football-data.org/356.png",
+        "form": "LLWLWD",
+        "rank": 18,
+        "points": 9
+      },
+      "prediction": {
+        "homeXG": 1.06,
+        "awayXG": 0.96,
+        "predictedScore": "1-0",
+        "predictedScoreProb": 14,
+        "outcomes": {
+          "homeWin": 37.3,
+          "draw": 30.6,
+          "awayWin": 32.1
+        },
+        "topScores": [
+          {
+            "score": "1-0",
+            "probability": 14
+          },
+          {
+            "score": "1-1",
+            "probability": 13.5
+          },
+          {
+            "score": "0-0",
+            "probability": 13.2
+          },
+          {
+            "score": "0-1",
+            "probability": 12.7
+          },
+          {
+            "score": "2-0",
+            "probability": 7.4
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: mid-table (8th)",
+          "Away motivation: mid-table (18th)",
+          "H2H: h2h balanced (2W/2D/6L from 10)"
+        ],
+        "model": {
+          "homeAttackStr": 0.571,
+          "homeDefenceStr": 0.819,
+          "awayAttackStr": 0.924,
+          "awayDefenceStr": 0.906
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561886,
+        "date": "2026-10-17T14:00:00Z",
+        "venue": "TBC",
+        "matchday": 11,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 332,
+        "name": "Birmingham",
+        "fullName": "Birmingham City FC",
+        "crest": "https://crests.football-data.org/332.png",
+        "form": "DWLDDW",
+        "rank": 10,
+        "points": 11
+      },
+      "awayTeam": {
+        "id": 69,
+        "name": "QPR",
+        "fullName": "Queens Park Rangers FC",
+        "crest": "https://crests.football-data.org/69.png",
+        "form": "DDDLWW",
+        "rank": 6,
+        "points": 13
+      },
+      "prediction": {
+        "homeXG": 1.27,
+        "awayXG": 1.7,
+        "predictedScore": "1-1",
+        "predictedScoreProb": 11.1,
+        "outcomes": {
+          "homeWin": 28.5,
+          "draw": 23.8,
+          "awayWin": 47.4
+        },
+        "topScores": [
+          {
+            "score": "1-1",
+            "probability": 11.1
+          },
+          {
+            "score": "1-2",
+            "probability": 9.4
+          },
+          {
+            "score": "0-1",
+            "probability": 8.7
+          },
+          {
+            "score": "0-2",
+            "probability": 7.4
+          },
+          {
+            "score": "2-1",
+            "probability": 7
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: mid-table (10th)",
+          "Away motivation: playoff/European contention (6th)",
+          "H2H: h2h balanced (4W/2D/4L from 10)"
+        ],
+        "model": {
+          "homeAttackStr": 1.104,
+          "homeDefenceStr": 1.282,
+          "awayAttackStr": 1.028,
+          "awayDefenceStr": 0.56
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561888,
+        "date": "2026-10-17T14:00:00Z",
+        "venue": "TBC",
+        "matchday": 11,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 342,
+        "name": "Derby County",
+        "fullName": "Derby County FC",
+        "crest": "https://crests.football-data.org/342.png",
+        "form": "DLLLWL",
+        "rank": 22,
+        "points": 5
+      },
+      "awayTeam": {
+        "id": 70,
+        "name": "Stoke",
+        "fullName": "Stoke City FC",
+        "crest": "https://crests.football-data.org/70.png",
+        "form": "WWDWWL",
+        "rank": 7,
+        "points": 13
+      },
+      "prediction": {
+        "homeXG": 1.06,
+        "awayXG": 2.01,
+        "predictedScore": "1-2",
+        "predictedScoreProb": 9.9,
+        "outcomes": {
+          "homeWin": 19.3,
+          "draw": 21.2,
+          "awayWin": 59.1
+        },
+        "topScores": [
+          {
+            "score": "1-2",
+            "probability": 9.9
+          },
+          {
+            "score": "1-1",
+            "probability": 9.9
+          },
+          {
+            "score": "0-2",
+            "probability": 9.4
+          },
+          {
+            "score": "0-1",
+            "probability": 9.4
+          },
+          {
+            "score": "1-3",
+            "probability": 6.7
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: relegation battle (22th of 24)",
+          "Home motivation: poor recent form (DLLLWL)",
+          "Away motivation: mid-table (7th)",
+          "Away motivation: strong recent form (WWDWWL)",
+          "H2H: h2h balanced (4W/2D/3L from 9)"
+        ],
+        "model": {
+          "homeAttackStr": 0.468,
+          "homeDefenceStr": 1.386,
+          "awayAttackStr": 1.107,
+          "awayDefenceStr": 1.108
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561890,
+        "date": "2026-10-17T14:00:00Z",
+        "venue": "TBC",
+        "matchday": 11,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 72,
+        "name": "Swansea",
+        "fullName": "Swansea City AFC",
+        "crest": "https://crests.football-data.org/72.png",
+        "form": "WWLDWW",
+        "rank": 1,
+        "points": 17
+      },
+      "awayTeam": {
+        "id": 563,
+        "name": "West Ham",
+        "fullName": "West Ham United FC",
+        "crest": "https://crests.football-data.org/563.png",
+        "form": "DWWWWD",
+        "rank": 2,
+        "points": 15
+      },
+      "prediction": {
+        "homeXG": 1.97,
+        "awayXG": 0.97,
+        "predictedScore": "1-0",
+        "predictedScoreProb": 10.5,
+        "outcomes": {
+          "homeWin": 60.3,
+          "draw": 21.4,
+          "awayWin": 17.9
+        },
+        "topScores": [
+          {
+            "score": "1-0",
+            "probability": 10.5
+          },
+          {
+            "score": "2-0",
+            "probability": 10.3
+          },
+          {
+            "score": "1-1",
+            "probability": 10.1
+          },
+          {
+            "score": "2-1",
+            "probability": 9.9
+          },
+          {
+            "score": "3-0",
+            "probability": 6.7
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: title/promotion contender (1st)",
+          "Home motivation: strong recent form (WWLDWW)",
+          "Away motivation: title/promotion contender (2nd)",
+          "Away motivation: strong recent form (DWWWWD)",
+          "H2H: no h2h data"
+        ],
+        "model": {
+          "homeAttackStr": 0.929,
+          "homeDefenceStr": 0.391,
+          "awayAttackStr": 1.844,
+          "awayDefenceStr": 0.979
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561891,
+        "date": "2026-10-17T14:00:00Z",
+        "venue": "TBC",
+        "matchday": 11,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 74,
+        "name": "West Brom",
+        "fullName": "West Bromwich Albion FC",
+        "crest": "https://crests.football-data.org/74.png",
+        "form": "LDWWDL",
+        "rank": 5,
+        "points": 14
+      },
+      "awayTeam": {
+        "id": 59,
+        "name": "Blackburn",
+        "fullName": "Blackburn Rovers FC",
+        "crest": "https://crests.football-data.org/59.png",
+        "form": "DWLLDL",
+        "rank": 16,
+        "points": 9
+      },
+      "prediction": {
+        "homeXG": 1.55,
+        "awayXG": 0.75,
+        "predictedScore": "1-0",
+        "predictedScoreProb": 15.6,
+        "outcomes": {
+          "homeWin": 56.3,
+          "draw": 25.6,
+          "awayWin": 18
+        },
+        "topScores": [
+          {
+            "score": "1-0",
+            "probability": 15.6
+          },
+          {
+            "score": "2-0",
+            "probability": 12.1
+          },
+          {
+            "score": "1-1",
+            "probability": 11.7
+          },
+          {
+            "score": "0-0",
+            "probability": 10.1
+          },
+          {
+            "score": "2-1",
+            "probability": 9
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: playoff/European contention (5th)",
+          "Away motivation: mid-table (16th)",
+          "H2H: h2h balanced (3W/4D/3L from 10)"
+        ],
+        "model": {
+          "homeAttackStr": 0.765,
+          "homeDefenceStr": 0.566,
+          "awayAttackStr": 1.038,
+          "awayDefenceStr": 0.971
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561892,
+        "date": "2026-10-17T14:00:00Z",
+        "venue": "TBC",
+        "matchday": 11,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 404,
+        "name": "Wrexham",
+        "fullName": "Wrexham AFC",
+        "crest": "https://crests.football-data.org/404.png",
+        "form": "WLDDWL",
+        "rank": 14,
+        "points": 10
+      },
+      "awayTeam": {
+        "id": 1081,
+        "name": "Preston NE",
+        "fullName": "Preston North End FC",
+        "crest": "https://crests.football-data.org/1081.png",
+        "form": "DLLWLL",
+        "rank": 23,
+        "points": 4
+      },
+      "prediction": {
+        "homeXG": 1.7,
+        "awayXG": 1.11,
+        "predictedScore": "1-1",
+        "predictedScoreProb": 11.4,
+        "outcomes": {
+          "homeWin": 51,
+          "draw": 24,
+          "awayWin": 24.8
+        },
+        "topScores": [
+          {
+            "score": "1-1",
+            "probability": 11.4
+          },
+          {
+            "score": "1-0",
+            "probability": 10.3
+          },
+          {
+            "score": "2-1",
+            "probability": 9.7
+          },
+          {
+            "score": "2-0",
+            "probability": 8.7
+          },
+          {
+            "score": "0-1",
+            "probability": 6.7
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: mid-table (14th)",
+          "Away motivation: relegation battle (23th of 24)",
+          "Away motivation: poor recent form (DLLWLL)",
+          "H2H: h2h balanced (1W/1D/0L from 2)"
+        ],
+        "model": {
+          "homeAttackStr": 0.758,
+          "homeDefenceStr": 1.118,
+          "awayAttackStr": 0.785,
+          "awayDefenceStr": 1.093
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    },
+    {
+      "fixture": {
+        "id": 561826,
+        "date": "2026-10-20T18:45:00Z",
+        "venue": "TBC",
+        "matchday": 6,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 76,
+        "name": "Wolverhampton",
+        "fullName": "Wolverhampton Wanderers FC",
+        "crest": "https://crests.football-data.org/76.png",
+        "form": "WWDLWW",
+        "rank": 4,
+        "points": 14
+      },
+      "awayTeam": {
+        "id": 325,
+        "name": "Portsmouth",
+        "fullName": "Portsmouth FC",
+        "crest": "https://crests.football-data.org/325.png",
+        "form": "DDWLLW",
+        "rank": 19,
+        "points": 8
+      },
+      "prediction": {
+        "homeXG": 1.89,
+        "awayXG": 0.96,
+        "predictedScore": "1-0",
+        "predictedScoreProb": 10.9,
+        "outcomes": {
+          "homeWin": 58.7,
+          "draw": 22.2,
+          "awayWin": 18.8
+        },
+        "topScores": [
+          {
+            "score": "1-0",
+            "probability": 10.9
+          },
+          {
+            "score": "1-1",
+            "probability": 10.5
+          },
+          {
+            "score": "2-0",
+            "probability": 10.3
+          },
+          {
+            "score": "2-1",
+            "probability": 9.9
+          },
+          {
+            "score": "3-0",
+            "probability": 6.5
+          }
+        ],
+        "factors": [
+          "Home: no injuries reported",
+          "Away: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: playoff/European contention (4th)",
+          "Home motivation: strong recent form (WWDLWW)",
+          "Away motivation: close to relegation zone (19th)",
+          "H2H: no h2h data"
+        ],
+        "model": {
+          "homeAttackStr": 1.335,
+          "homeDefenceStr": 0.773,
+          "awayAttackStr": 0.966,
+          "awayDefenceStr": 0.659
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      }
+    }
+  ],
+  "leagueSummaries": {
+    "PL": {
+      "name": "Premier League",
+      "shortName": "PL",
+      "totalTeams": 20,
+      "leagueAvg": {
+        "avgHomeGoals": 1.52,
+        "avgAwayGoals": 1.3,
+        "avgGoalsPerGame": 2.82,
+        "games": 50
+      },
+      "gamesRemaining": 33
+    },
+    "ELC": {
+      "name": "Championship",
+      "shortName": "CH",
+      "totalTeams": 24,
+      "leagueAvg": {
+        "avgHomeGoals": 1.6421052631578947,
+        "avgAwayGoals": 1.2736842105263158,
+        "avgGoalsPerGame": 2.9157894736842107,
+        "games": 95
+      },
+      "gamesRemaining": 38
+    }
+  }
+}
