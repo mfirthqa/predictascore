@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-07T18:18:55.071Z",
+  "generated": "2026-10-07T18:23:12.909Z",
   "totalPredictions": 57,
   "apiCalls": 0,
   "predictions": [
@@ -75,7 +75,7 @@
           "Weather: no weather data",
           "Home motivation: title/promotion contender (2nd)",
           "Away motivation: playoff/European contention (5th)",
-          "H2H: h2h favours home team (7W/1D/0L from 8)"
+          "H2H: h2h favours home team (home 7W/1D/0L from 8)"
         ],
         "model": {
           "homeAttackStr": 1.542,
@@ -241,7 +241,7 @@
           "Home motivation: poor recent form (LLDWL)",
           "Away motivation: playoff/European contention (3th)",
           "Away motivation: strong recent form (WWDLW)",
-          "H2H: h2h balanced (0W/1D/1L from 2)"
+          "H2H: h2h balanced (home 0W/1D/1L, away 1W/1D/0L from 2)"
         ],
         "model": {
           "homeAttackStr": 0.402,
@@ -435,7 +435,7 @@
           "Home motivation: poor recent form (LDLWW)",
           "Away motivation: close to relegation zone (17th)",
           "Away motivation: poor recent form (LDDDL)",
-          "H2H: h2h balanced (4W/5D/0L from 9)"
+          "H2H: h2h balanced (home 4W/5D/0L, away 0W/5D/4L from 9)"
         ],
         "model": {
           "homeAttackStr": 1.826,
@@ -619,7 +619,7 @@
           "Home motivation: mid-table (11th)",
           "Away motivation: relegation battle (19th of 20)",
           "Away motivation: poor recent form (DDLLL)",
-          "H2H: h2h balanced (0W/2D/0L from 2)"
+          "H2H: h2h balanced (home 0W/2D/0L, away 0W/2D/0L from 2)"
         ],
         "model": {
           "homeAttackStr": 0.646,
@@ -734,7 +734,7 @@
           "Weather: no weather data",
           "Home motivation: close to relegation zone (16th)",
           "Away motivation: playoff/European contention (4th)",
-          "H2H: h2h balanced (4W/2D/3L from 9)"
+          "H2H: h2h balanced (home 4W/2D/3L, away 3W/2D/4L from 9)"
         ],
         "model": {
           "homeAttackStr": 0.439,
@@ -927,7 +927,7 @@
           "Home motivation: mid-table (12th)",
           "Away motivation: relegation battle (20th of 20)",
           "Away motivation: poor recent form (LDDLL)",
-          "H2H: h2h balanced (2W/3D/3L from 8)"
+          "H2H: h2h balanced (home 2W/3D/3L, away 3W/3D/2L from 8)"
         ],
         "model": {
           "homeAttackStr": 1.456,
@@ -1303,7 +1303,7 @@
           "Weather: no weather data",
           "Home motivation: close to relegation zone (15th)",
           "Away motivation: mid-table (13th)",
-          "H2H: h2h balanced (0W/6D/2L from 8)"
+          "H2H: h2h balanced (home 0W/6D/2L, away 2W/6D/0L from 8)"
         ],
         "model": {
           "homeAttackStr": 1.015,
@@ -1454,7 +1454,7 @@
           "Home motivation: playoff/European contention (6th)",
           "Away motivation: title/promotion contender (1st)",
           "Away motivation: strong recent form (WWWWW)",
-          "H2H: h2h balanced (3W/2D/3L from 8)"
+          "H2H: h2h balanced (home 3W/2D/3L, away 3W/2D/3L from 8)"
         ],
         "model": {
           "homeAttackStr": 0.639,
@@ -1833,7 +1833,7 @@
           "Home motivation: mid-table (7th)",
           "Away motivation: mid-table (10th)",
           "Away motivation: poor recent form (LDLWW)",
-          "H2H: h2h balanced (3W/3D/4L from 10)"
+          "H2H: h2h balanced (home 3W/3D/4L, away 4W/3D/3L from 10)"
         ],
         "model": {
           "homeAttackStr": 1.035,
@@ -1998,7 +1998,7 @@
           "Home motivation: relegation battle (19th of 20)",
           "Home motivation: poor recent form (DDLLL)",
           "Away motivation: mid-table (8th)",
-          "H2H: h2h favours home team (3W/0D/0L from 3)"
+          "H2H: h2h favours home team (home 3W/0D/0L from 3)"
         ],
         "model": {
           "homeAttackStr": 1.022,
@@ -2156,7 +2156,7 @@
           "Home motivation: title/promotion contender (1st)",
           "Home motivation: strong recent form (WWWWW)",
           "Away motivation: mid-table (11th)",
-          "H2H: h2h favours home team (2W/0D/0L from 2)"
+          "H2H: h2h favours home team (home 2W/0D/0L from 2)"
         ],
         "model": {
           "homeAttackStr": 1.89,
@@ -2286,7 +2286,7 @@
           "Weather: no weather data",
           "Home motivation: playoff/European contention (4th)",
           "Away motivation: playoff/European contention (6th)",
-          "H2H: h2h balanced (2W/2D/6L from 10)"
+          "H2H: h2h balanced (home 2W/2D/6L, away 6W/2D/2L from 10)"
         ],
         "model": {
           "homeAttackStr": 1.551,
@@ -2486,7 +2486,7 @@
           "Weather: no weather data",
           "Home motivation: mid-table (9th)",
           "Away motivation: close to relegation zone (16th)",
-          "H2H: h2h balanced (5W/1D/3L from 9)"
+          "H2H: h2h balanced (home 5W/1D/3L, away 3W/1D/5L from 9)"
         ],
         "model": {
           "homeAttackStr": 1.325,
@@ -2695,7 +2695,7 @@
           "Home motivation: poor recent form (LDDDL)",
           "Away motivation: mid-table (14th)",
           "Away motivation: poor recent form (LLDWL)",
-          "H2H: h2h balanced (0W/1D/1L from 2)"
+          "H2H: h2h balanced (home 0W/1D/1L, away 1W/1D/0L from 2)"
         ],
         "model": {
           "homeAttackStr": 0.664,
@@ -2859,7 +2859,7 @@
           "Weather: no weather data",
           "Home motivation: playoff/European contention (5th)",
           "Away motivation: mid-table (12th)",
-          "H2H: h2h balanced (1W/3D/4L from 8)"
+          "H2H: h2h balanced (home 1W/3D/4L, away 4W/3D/1L from 8)"
         ],
         "model": {
           "homeAttackStr": 1.082,
@@ -3046,7 +3046,7 @@
           "Home motivation: playoff/European contention (3th)",
           "Home motivation: strong recent form (WWDLW)",
           "Away motivation: close to relegation zone (15th)",
-          "H2H: h2h balanced (2W/5D/3L from 10)"
+          "H2H: h2h balanced (home 2W/5D/3L, away 3W/5D/2L from 10)"
         ],
         "model": {
           "homeAttackStr": 1.83,
@@ -3252,7 +3252,7 @@
           "Weather: no weather data",
           "Home motivation: mid-table (13th)",
           "Away motivation: title/promotion contender (2nd)",
-          "H2H: h2h favours away team (5W/2D/1L from 8)"
+          "H2H: h2h favours away team (away 5W/2D/1L from 8)"
         ],
         "model": {
           "homeAttackStr": 0.079,
@@ -3695,7 +3695,7 @@
           "Weather: no weather data",
           "Home motivation: playoff/European contention (5th)",
           "Away motivation: mid-table (10th)",
-          "H2H: h2h balanced (2W/3D/4L from 9)"
+          "H2H: h2h balanced (home 2W/3D/4L, away 4W/3D/2L from 9)"
         ],
         "model": {
           "homeAttackStr": 0.806,
@@ -3787,7 +3787,7 @@
           "Home motivation: title/promotion contender (1st)",
           "Home motivation: strong recent form (WWLDWW)",
           "Away motivation: mid-table (17th)",
-          "H2H: h2h balanced (5W/2D/3L from 10)"
+          "H2H: h2h balanced (home 5W/2D/3L, away 3W/2D/5L from 10)"
         ],
         "model": {
           "homeAttackStr": 0.933,
@@ -3879,7 +3879,7 @@
           "Home motivation: mid-table (9th)",
           "Home motivation: poor recent form (LDDLDW)",
           "Away motivation: mid-table (8th)",
-          "H2H: h2h balanced (0W/1D/1L from 2)"
+          "H2H: h2h balanced (home 0W/1D/1L, away 1W/1D/0L from 2)"
         ],
         "model": {
           "homeAttackStr": 0.362,
@@ -4063,7 +4063,7 @@
           "Home motivation: poor recent form (LLWLLD)",
           "Away motivation: relegation battle (24th of 24)",
           "Away motivation: poor recent form (DLDLDL)",
-          "H2H: h2h balanced (1W/2D/4L from 7)"
+          "H2H: h2h balanced (home 1W/2D/4L, away 4W/2D/1L from 7)"
         ],
         "model": {
           "homeAttackStr": 0.85,
@@ -4155,7 +4155,7 @@
           "Home motivation: relegation battle (22th of 24)",
           "Home motivation: poor recent form (DLLLWL)",
           "Away motivation: mid-table (14th)",
-          "H2H: h2h balanced (0W/1D/1L from 2)"
+          "H2H: h2h balanced (home 0W/1D/1L, away 1W/1D/0L from 2)"
         ],
         "model": {
           "homeAttackStr": 0.437,
@@ -4246,7 +4246,7 @@
           "Weather: no weather data",
           "Home motivation: mid-table (16th)",
           "Away motivation: close to relegation zone (21th)",
-          "H2H: h2h balanced (5W/2D/2L from 9)"
+          "H2H: h2h balanced (home 5W/2D/2L, away 2W/2D/5L from 9)"
         ],
         "model": {
           "homeAttackStr": 1.141,
@@ -4430,7 +4430,7 @@
           "Home motivation: relegation battle (23th of 24)",
           "Home motivation: poor recent form (DLLWLL)",
           "Away motivation: mid-table (11th)",
-          "H2H: h2h balanced (0W/6D/4L from 10)"
+          "H2H: h2h balanced (home 0W/6D/4L, away 4W/6D/0L from 10)"
         ],
         "model": {
           "homeAttackStr": 0.626,
@@ -4613,7 +4613,7 @@
           "Weather: no weather data",
           "Home motivation: mid-table (13th)",
           "Away motivation: close to relegation zone (19th)",
-          "H2H: h2h balanced (0W/2D/0L from 2)"
+          "H2H: h2h balanced (home 0W/2D/0L, away 0W/2D/0L from 2)"
         ],
         "model": {
           "homeAttackStr": 2.256,
@@ -4796,7 +4796,7 @@
           "Weather: no weather data",
           "Home motivation: mid-table (14th)",
           "Away motivation: playoff/European contention (5th)",
-          "H2H: h2h balanced (0W/1D/1L from 2)"
+          "H2H: h2h balanced (home 0W/1D/1L, away 1W/1D/0L from 2)"
         ],
         "model": {
           "homeAttackStr": 0.816,
@@ -4888,7 +4888,7 @@
           "Home motivation: mid-table (11th)",
           "Away motivation: title/promotion contender (1st)",
           "Away motivation: strong recent form (WWLDWW)",
-          "H2H: h2h balanced (5W/3D/2L from 10)"
+          "H2H: h2h balanced (home 5W/3D/2L, away 2W/3D/5L from 10)"
         ],
         "model": {
           "homeAttackStr": 1.405,
@@ -4980,7 +4980,7 @@
           "Home motivation: close to relegation zone (21th)",
           "Away motivation: close to relegation zone (20th)",
           "Away motivation: poor recent form (LLWLLD)",
-          "H2H: h2h balanced (4W/2D/2L from 8)"
+          "H2H: h2h balanced (home 4W/2D/2L, away 2W/2D/4L from 8)"
         ],
         "model": {
           "homeAttackStr": 1.124,
@@ -5164,7 +5164,7 @@
           "Weather: no weather data",
           "Home motivation: mid-table (8th)",
           "Away motivation: mid-table (16th)",
-          "H2H: h2h balanced (5W/2D/3L from 10)"
+          "H2H: h2h balanced (home 5W/2D/3L, away 3W/2D/5L from 10)"
         ],
         "model": {
           "homeAttackStr": 0.527,
@@ -5256,7 +5256,7 @@
           "Home motivation: mid-table (10th)",
           "Away motivation: relegation battle (23th of 24)",
           "Away motivation: poor recent form (DLLWLL)",
-          "H2H: h2h balanced (5W/2D/3L from 10)"
+          "H2H: h2h balanced (home 5W/2D/3L, away 3W/2D/5L from 10)"
         ],
         "model": {
           "homeAttackStr": 1.121,
@@ -5348,7 +5348,7 @@
           "Home motivation: mid-table (7th)",
           "Home motivation: strong recent form (WWDWWL)",
           "Away motivation: playoff/European contention (3th)",
-          "H2H: h2h balanced (2W/3D/4L from 9)"
+          "H2H: h2h balanced (home 2W/3D/4L, away 4W/3D/2L from 9)"
         ],
         "model": {
           "homeAttackStr": 1.339,
@@ -5439,7 +5439,7 @@
           "Weather: no weather data",
           "Home motivation: close to relegation zone (19th)",
           "Away motivation: mid-table (18th)",
-          "H2H: h2h favours away team (3W/1D/0L from 4)"
+          "H2H: h2h favours away team (away 3W/1D/0L from 4)"
         ],
         "model": {
           "homeAttackStr": 0.849,
@@ -5530,7 +5530,7 @@
           "Weather: no weather data",
           "Home motivation: mid-table (17th)",
           "Away motivation: mid-table (13th)",
-          "H2H: h2h balanced (2W/2D/3L from 7)"
+          "H2H: h2h balanced (home 2W/2D/3L, away 3W/2D/2L from 7)"
         ],
         "model": {
           "homeAttackStr": 1.645,
@@ -5622,7 +5622,7 @@
           "Home motivation: playoff/European contention (6th)",
           "Away motivation: relegation battle (22th of 24)",
           "Away motivation: poor recent form (DLLLWL)",
-          "H2H: h2h balanced (5W/0D/4L from 9)"
+          "H2H: h2h balanced (home 5W/0D/4L, away 4W/0D/5L from 9)"
         ],
         "model": {
           "homeAttackStr": 0.693,
@@ -5807,7 +5807,7 @@
           "Home motivation: poor recent form (DLDLDL)",
           "Away motivation: playoff/European contention (4th)",
           "Away motivation: strong recent form (WWDLWW)",
-          "H2H: h2h balanced (4W/4D/1L from 9)"
+          "H2H: h2h balanced (home 4W/4D/1L, away 1W/4D/4L from 9)"
         ],
         "model": {
           "homeAttackStr": 0.735,
@@ -5989,7 +5989,7 @@
           "Weather: no weather data",
           "Home motivation: playoff/European contention (3th)",
           "Away motivation: close to relegation zone (21th)",
-          "H2H: h2h balanced (6W/3D/1L from 10)"
+          "H2H: h2h balanced (home 6W/3D/1L, away 1W/3D/6L from 10)"
         ],
         "model": {
           "homeAttackStr": 1.707,
@@ -6082,7 +6082,7 @@
           "Home motivation: poor recent form (LLWLLD)",
           "Away motivation: mid-table (9th)",
           "Away motivation: poor recent form (LDDLDW)",
-          "H2H: h2h balanced (0W/1D/1L from 2)"
+          "H2H: h2h balanced (home 0W/1D/1L, away 1W/1D/0L from 2)"
         ],
         "model": {
           "homeAttackStr": 0.85,
@@ -6173,7 +6173,7 @@
           "Weather: no weather data",
           "Home motivation: mid-table (17th)",
           "Away motivation: close to relegation zone (19th)",
-          "H2H: h2h balanced (1W/2D/1L from 4)"
+          "H2H: h2h balanced (home 1W/2D/1L, away 1W/2D/1L from 4)"
         ],
         "model": {
           "homeAttackStr": 1.645,
@@ -6355,7 +6355,7 @@
           "Weather: no weather data",
           "Home motivation: mid-table (8th)",
           "Away motivation: mid-table (18th)",
-          "H2H: h2h balanced (2W/2D/6L from 10)"
+          "H2H: h2h balanced (home 2W/2D/6L, away 6W/2D/2L from 10)"
         ],
         "model": {
           "homeAttackStr": 0.527,
@@ -6446,7 +6446,7 @@
           "Weather: no weather data",
           "Home motivation: mid-table (10th)",
           "Away motivation: playoff/European contention (6th)",
-          "H2H: h2h balanced (4W/2D/4L from 10)"
+          "H2H: h2h balanced (home 4W/2D/4L, away 4W/2D/4L from 10)"
         ],
         "model": {
           "homeAttackStr": 1.121,
@@ -6539,7 +6539,7 @@
           "Home motivation: poor recent form (DLLLWL)",
           "Away motivation: mid-table (7th)",
           "Away motivation: strong recent form (WWDWWL)",
-          "H2H: h2h balanced (4W/2D/3L from 9)"
+          "H2H: h2h balanced (home 4W/2D/3L, away 3W/2D/4L from 9)"
         ],
         "model": {
           "homeAttackStr": 0.437,
@@ -6723,7 +6723,7 @@
           "Weather: no weather data",
           "Home motivation: playoff/European contention (5th)",
           "Away motivation: mid-table (16th)",
-          "H2H: h2h balanced (3W/4D/3L from 10)"
+          "H2H: h2h balanced (home 3W/4D/3L, away 3W/4D/3L from 10)"
         ],
         "model": {
           "homeAttackStr": 0.806,
@@ -6815,7 +6815,7 @@
           "Home motivation: mid-table (14th)",
           "Away motivation: relegation battle (23th of 24)",
           "Away motivation: poor recent form (DLLWLL)",
-          "H2H: h2h balanced (1W/1D/0L from 2)"
+          "H2H: h2h balanced (home 1W/1D/0L, away 0W/1D/1L from 2)"
         ],
         "model": {
           "homeAttackStr": 0.816,
