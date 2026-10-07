@@ -19,7 +19,7 @@ async function init() {
 
   // Load data
   try {
-    const res = await fetch('predictions.json');
+    const res = await fetch('predictions.json?v=' + Date.now());
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
     allPredictions = data.predictions || [];
