@@ -136,6 +136,7 @@ function renderMatchCard(match) {
       </div>
 
       ${match.weather ? `<div class="weather-badge">🌤 ${match.weather.temp}°C · Wind ${match.weather.wind}km/h${match.weather.rain > 0 ? ' · Rain ' + match.weather.rain + 'mm' : ''} · ${match.weather.description}</div>` : ''}
+      ${match.daysRest ? renderDaysRest(match.daysRest) : ''}
 
       <button class="factors-toggle">▼ Show prediction factors</button>
       <div class="factors-content">
@@ -195,6 +196,20 @@ function renderFactors(factors, injuries) {
   }
 
   return html || '<div class="factor-item">No significant factors detected</div>';
+}
+
+function renderDaysRest(daysRest) {
+  if (!daysRest || (daysRest.home == null && daysRest.away == null)) return '';
+  const parts = [];
+  if (daysRest.home != null) {
+    const icon = daysRest.home <= 3 ? '⚡' : daysRest.home >= 7 ? '✅' : '';
+    parts.push(`Home: ${daysRest.home}d rest ${icon}`);
+  }
+  if (daysRest.away != null) {
+    const icon = daysRest.away <= 3 ? '⚡' : daysRest.away >= 7 ? '✅' : '';
+    parts.push(`Away: ${daysRest.away}d rest ${icon}`);
+  }
+  return `<div class="weather-badge">⏱ ${parts.join(' · ')}</div>`;
 }
 
 function ordinal(n) {
