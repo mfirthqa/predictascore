@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-07T18:29:37.383Z",
+  "generated": "2026-10-08T06:00:41.780Z",
   "totalPredictions": 57,
-  "apiCalls": 0,
+  "apiCalls": 6,
   "predictions": [
     {
       "fixture": {
@@ -72,7 +72,7 @@
           "Home injuries: 1 out: Saliba (£5.9m, Back injury - Unknown return date)",
           "Home injuries: 6 doubtful: White (Groin injury - 75% chance of playing), Rice (Unspecified injury - 75% chance of playing) +4 more",
           "Away injuries: 3 out: Wilson (£6.2m, Thigh injury - Unknown return date), Rodon (£4.3m, Hamstring injury - Expected back 21 Nov), Mateo Joseph (£4.5m, Knee injury - Unknown return date)",
-          "Weather: no weather data",
+          "Weather: good conditions (14°C, wind 18km/h)",
           "Home motivation: title/promotion contender (2nd)",
           "Away motivation: playoff/European contention (5th)",
           "H2H: h2h favours home team (home 7W/1D/0L from 8)"
@@ -84,7 +84,15 @@
           "awayDefenceStr": 0.373
         }
       },
-      "weather": null,
+      "weather": {
+        "temp": 14,
+        "feelsLike": 12,
+        "wind": 18,
+        "windGust": 31,
+        "rain": 0,
+        "humidity": 52,
+        "description": "Clear"
+      },
       "injuries": {
         "home": [
           {
@@ -236,7 +244,7 @@
           "Home injuries: 2 doubtful: Ballard (Hamstring injury - 75% chance of playing), Brobbey (Hamstring injury - 75% chance of playing)",
           "Away injuries: 8 out: Hinshelwood (£5.9m, Ankle injury - Expected back 10 Oct), Wieffer (£4.9m, Knee injury - Unknown return date), Mitoma (£5.9m, Hamstring injury - Expected back 10 Oct) +5 more",
           "Away injuries: 2 doubtful: Dunk (Neck injury - 75% chance of playing), Struijk (Hamstring injury - 75% chance of playing)",
-          "Weather: no weather data",
+          "Weather: good conditions (14°C, wind 19km/h)",
           "Home motivation: mid-table (14th)",
           "Home motivation: poor recent form (LLDWL)",
           "Away motivation: playoff/European contention (3th)",
@@ -250,7 +258,15 @@
           "awayDefenceStr": 1.127
         }
       },
-      "weather": null,
+      "weather": {
+        "temp": 14,
+        "feelsLike": 13,
+        "wind": 19,
+        "windGust": 35,
+        "rain": 0,
+        "humidity": 43,
+        "description": "Clear"
+      },
       "injuries": {
         "home": [
           {
@@ -430,7 +446,7 @@
           "Home injuries: 6 doubtful: James (Hamstring injury - 75% chance of playing), Palestra (Thigh injury - 50% chance of playing) +4 more",
           "Away injuries: 5 out: Kluivert (£6m, Unspecified injury - Unknown return date), Kroupi.Jr (£7.4m, Foot injury - Expected back 7 Nov), Milosavljević (£4.9m, Thigh injury - Unknown return date) +2 more",
           "Away injuries: 1 doubtful: Scott (Thigh injury - 50% chance of playing)",
-          "Weather: no weather data",
+          "Weather: good conditions (14°C, wind 19km/h)",
           "Home motivation: mid-table (10th)",
           "Home motivation: poor recent form (LDLWW)",
           "Away motivation: close to relegation zone (17th)",
@@ -444,7 +460,15 @@
           "awayDefenceStr": 1.305
         }
       },
-      "weather": null,
+      "weather": {
+        "temp": 14,
+        "feelsLike": 13,
+        "wind": 19,
+        "windGust": 35,
+        "rain": 0,
+        "humidity": 43,
+        "description": "Clear"
+      },
       "injuries": {
         "home": [
           {
@@ -615,7 +639,7 @@
           "Rest: away team well rested (20 days)",
           "Home injuries: 2 out: Fatawu (£5.4m, Suspended until 17 Oct), Taylor (£4.4m, Knee injury - Unknown return date)",
           "Away injuries: 1 out: Cairney (£4.9m, Knee injury - Expected back 10 Oct)",
-          "Weather: no weather data",
+          "Weather: good conditions (14°C, wind 19km/h)",
           "Home motivation: mid-table (11th)",
           "Away motivation: relegation battle (19th of 20)",
           "Away motivation: poor recent form (DDLLL)",
@@ -628,7 +652,15 @@
           "awayDefenceStr": 0.389
         }
       },
-      "weather": null,
+      "weather": {
+        "temp": 14,
+        "feelsLike": 13,
+        "wind": 19,
+        "windGust": 35,
+        "rain": 0,
+        "humidity": 43,
+        "description": "Clear"
+      },
       "injuries": {
         "home": [
           {
@@ -731,7 +763,7 @@
           "Home injuries: 1 doubtful: Alysson (Unspecified injury - 75% chance of playing)",
           "Away injuries: 6 out: Collins (£5.4m, Calf injury - Unknown return date), Jensen (£5.4m, Unspecified injury - Expected back 10 Oct), Milambo (£5m, Knee injury - Unknown return date) +3 more",
           "Away injuries: 1 doubtful: Damsgaard (Unspecified injury - 75% chance of playing)",
-          "Weather: no weather data",
+          "Weather: good conditions (14°C, wind 19km/h)",
           "Home motivation: close to relegation zone (16th)",
           "Away motivation: playoff/European contention (4th)",
           "H2H: h2h balanced (home 4W/2D/3L, away 3W/2D/4L from 9)"
@@ -743,7 +775,15 @@
           "awayDefenceStr": 0.976
         }
       },
-      "weather": null,
+      "weather": {
+        "temp": 14,
+        "feelsLike": 13,
+        "wind": 19,
+        "windGust": 35,
+        "rain": 0,
+        "humidity": 43,
+        "description": "Clear"
+      },
       "injuries": {
         "home": [
           {
@@ -923,7 +963,7 @@
           "Home injuries: 6 doubtful: Darlow (Unspecified injury - 75% chance of playing), Dorgu (Hamstring injury - 75% chance of playing) +4 more",
           "Away injuries: 4 out: Kulusevski (£6.5m, Knee injury - Unknown return date), Xavi (£5.9m, Knee injury - Unknown return date), Mudryk (£5.3m, Ankle injury - Unknown return date) +1 more",
           "Away injuries: 2 doubtful: Van Hecke (Foot injury - 75% chance of playing), Pedro Porro (Hamstring injury - 75% chance of playing)",
-          "Weather: no weather data",
+          "Weather: good conditions (14°C, wind 19km/h)",
           "Home motivation: mid-table (12th)",
           "Away motivation: relegation battle (20th of 20)",
           "Away motivation: poor recent form (LDDLL)",
@@ -936,7 +976,15 @@
           "awayDefenceStr": 0.936
         }
       },
-      "weather": null,
+      "weather": {
+        "temp": 14,
+        "feelsLike": 13,
+        "wind": 19,
+        "windGust": 35,
+        "rain": 0,
+        "humidity": 43,
+        "description": "Clear"
+      },
       "injuries": {
         "home": [
           {
@@ -3592,7 +3640,7 @@
           "Rest: away team well rested (20 days)",
           "Home injuries: no injuries reported",
           "Away injuries: no injuries reported",
-          "Weather: good conditions (16°C, wind 21km/h, rain 0.1mm)",
+          "Weather: good conditions (17°C, wind 23km/h, rain 0.2mm)",
           "Home motivation: title/promotion contender (2nd)",
           "Home motivation: strong recent form (DWWWWD)",
           "Away motivation: playoff/European contention (6th)",
@@ -3606,12 +3654,12 @@
         }
       },
       "weather": {
-        "temp": 16,
-        "feelsLike": 16,
-        "wind": 21,
-        "windGust": 42,
-        "rain": 0.1,
-        "humidity": 79,
+        "temp": 17,
+        "feelsLike": 17,
+        "wind": 23,
+        "windGust": 50,
+        "rain": 0.2,
+        "humidity": 76,
         "description": "Clear"
       },
       "injuries": {
@@ -3692,7 +3740,7 @@
           "Rest: away team well rested (21 days)",
           "Home injuries: no injuries reported",
           "Away injuries: no injuries reported",
-          "Weather: no weather data",
+          "Weather: good conditions (14°C, wind 18km/h)",
           "Home motivation: playoff/European contention (5th)",
           "Away motivation: mid-table (10th)",
           "H2H: h2h balanced (home 2W/3D/4L, away 4W/3D/2L from 9)"
@@ -3704,7 +3752,15 @@
           "awayDefenceStr": 0.743
         }
       },
-      "weather": null,
+      "weather": {
+        "temp": 14,
+        "feelsLike": 12,
+        "wind": 18,
+        "windGust": 31,
+        "rain": 0,
+        "humidity": 52,
+        "description": "Clear"
+      },
       "injuries": {
         "home": [],
         "away": []
@@ -3783,7 +3839,7 @@
           "Rest: away team well rested (20 days)",
           "Home injuries: no injuries reported",
           "Away injuries: no injuries reported",
-          "Weather: no weather data",
+          "Weather: good conditions (14°C, wind 18km/h)",
           "Home motivation: title/promotion contender (1st)",
           "Home motivation: strong recent form (WWLDWW)",
           "Away motivation: mid-table (17th)",
@@ -3796,7 +3852,15 @@
           "awayDefenceStr": 1.498
         }
       },
-      "weather": null,
+      "weather": {
+        "temp": 14,
+        "feelsLike": 12,
+        "wind": 18,
+        "windGust": 31,
+        "rain": 0,
+        "humidity": 52,
+        "description": "Clear"
+      },
       "injuries": {
         "home": [],
         "away": []
@@ -3875,7 +3939,7 @@
           "Rest: away team well rested (22 days)",
           "Home injuries: no injuries reported",
           "Away injuries: no injuries reported",
-          "Weather: no weather data",
+          "Weather: good conditions (14°C, wind 18km/h)",
           "Home motivation: mid-table (9th)",
           "Home motivation: poor recent form (LDDLDW)",
           "Away motivation: mid-table (8th)",
@@ -3888,7 +3952,15 @@
           "awayDefenceStr": 1.275
         }
       },
-      "weather": null,
+      "weather": {
+        "temp": 14,
+        "feelsLike": 12,
+        "wind": 18,
+        "windGust": 31,
+        "rain": 0,
+        "humidity": 52,
+        "description": "Clear"
+      },
       "injuries": {
         "home": [],
         "away": []
@@ -3967,7 +4039,7 @@
           "Rest: away team well rested (21 days)",
           "Home injuries: no injuries reported",
           "Away injuries: no injuries reported",
-          "Weather: no weather data",
+          "Weather: good conditions (14°C, wind 19km/h)",
           "Home motivation: mid-table (18th)",
           "Away motivation: mid-table (12th)",
           "H2H: no h2h data"
@@ -3979,7 +4051,15 @@
           "awayDefenceStr": 0.267
         }
       },
-      "weather": null,
+      "weather": {
+        "temp": 14,
+        "feelsLike": 13,
+        "wind": 19,
+        "windGust": 35,
+        "rain": 0,
+        "humidity": 43,
+        "description": "Clear"
+      },
       "injuries": {
         "home": [],
         "away": []
@@ -4058,7 +4138,7 @@
           "Rest: away team well rested (21 days)",
           "Home injuries: no injuries reported",
           "Away injuries: no injuries reported",
-          "Weather: no weather data",
+          "Weather: good conditions (14°C, wind 19km/h)",
           "Home motivation: close to relegation zone (20th)",
           "Home motivation: poor recent form (LLWLLD)",
           "Away motivation: relegation battle (24th of 24)",
@@ -4072,7 +4152,15 @@
           "awayDefenceStr": 1.618
         }
       },
-      "weather": null,
+      "weather": {
+        "temp": 14,
+        "feelsLike": 13,
+        "wind": 19,
+        "windGust": 35,
+        "rain": 0,
+        "humidity": 43,
+        "description": "Clear"
+      },
       "injuries": {
         "home": [],
         "away": []
@@ -4151,7 +4239,7 @@
           "Rest: away team well rested (21 days)",
           "Home injuries: no injuries reported",
           "Away injuries: no injuries reported",
-          "Weather: no weather data",
+          "Weather: good conditions (14°C, wind 19km/h)",
           "Home motivation: relegation battle (22th of 24)",
           "Home motivation: poor recent form (DLLLWL)",
           "Away motivation: mid-table (14th)",
@@ -4164,7 +4252,15 @@
           "awayDefenceStr": 1.317
         }
       },
-      "weather": null,
+      "weather": {
+        "temp": 14,
+        "feelsLike": 13,
+        "wind": 19,
+        "windGust": 35,
+        "rain": 0,
+        "humidity": 43,
+        "description": "Clear"
+      },
       "injuries": {
         "home": [],
         "away": []
@@ -4243,7 +4339,7 @@
           "Rest: away team well rested (21 days)",
           "Home injuries: no injuries reported",
           "Away injuries: no injuries reported",
-          "Weather: no weather data",
+          "Weather: good conditions (14°C, wind 19km/h)",
           "Home motivation: mid-table (16th)",
           "Away motivation: close to relegation zone (21th)",
           "H2H: h2h balanced (home 5W/2D/2L, away 2W/2D/5L from 9)"
@@ -4255,7 +4351,15 @@
           "awayDefenceStr": 1.032
         }
       },
-      "weather": null,
+      "weather": {
+        "temp": 14,
+        "feelsLike": 13,
+        "wind": 19,
+        "windGust": 35,
+        "rain": 0,
+        "humidity": 43,
+        "description": "Clear"
+      },
       "injuries": {
         "home": [],
         "away": []
@@ -4334,7 +4438,7 @@
           "Rest: away team well rested (21 days)",
           "Home injuries: no injuries reported",
           "Away injuries: no injuries reported",
-          "Weather: no weather data",
+          "Weather: good conditions (14°C, wind 19km/h)",
           "Home motivation: mid-table (15th)",
           "Away motivation: mid-table (7th)",
           "Away motivation: strong recent form (WWDWWL)",
@@ -4347,7 +4451,15 @@
           "awayDefenceStr": 1.194
         }
       },
-      "weather": null,
+      "weather": {
+        "temp": 14,
+        "feelsLike": 13,
+        "wind": 19,
+        "windGust": 35,
+        "rain": 0,
+        "humidity": 43,
+        "description": "Clear"
+      },
       "injuries": {
         "home": [],
         "away": []
@@ -4426,7 +4538,7 @@
           "Rest: away team well rested (21 days)",
           "Home injuries: no injuries reported",
           "Away injuries: no injuries reported",
-          "Weather: no weather data",
+          "Weather: good conditions (14°C, wind 19km/h)",
           "Home motivation: relegation battle (23th of 24)",
           "Home motivation: poor recent form (DLLWLL)",
           "Away motivation: mid-table (11th)",
@@ -4439,7 +4551,15 @@
           "awayDefenceStr": 1.603
         }
       },
-      "weather": null,
+      "weather": {
+        "temp": 14,
+        "feelsLike": 13,
+        "wind": 19,
+        "windGust": 35,
+        "rain": 0,
+        "humidity": 43,
+        "description": "Clear"
+      },
       "injuries": {
         "home": [],
         "away": []
@@ -4518,7 +4638,7 @@
           "Rest: away team well rested (20 days)",
           "Home injuries: no injuries reported",
           "Away injuries: no injuries reported",
-          "Weather: no weather data",
+          "Weather: good conditions (14°C, wind 19km/h)",
           "Home motivation: playoff/European contention (3th)",
           "Away motivation: playoff/European contention (4th)",
           "Away motivation: strong recent form (WWDLWW)",
@@ -4531,7 +4651,15 @@
           "awayDefenceStr": 1.014
         }
       },
-      "weather": null,
+      "weather": {
+        "temp": 14,
+        "feelsLike": 13,
+        "wind": 19,
+        "windGust": 35,
+        "rain": 0,
+        "humidity": 43,
+        "description": "Clear"
+      },
       "injuries": {
         "home": [],
         "away": []
