@@ -1,0 +1,15 @@
+{
+  "generated": "2026-10-10T15:45:24.591Z",
+  "results": [
+    {
+      "id": 561862,
+      "date": "2026-10-09T19:00:00Z",
+      "league": "ELC",
+      "homeTeam": "West Ham",
+      "awayTeam": "QPR",
+      "homeScore": 1,
+      "awayScore": 1,
+      "winner": "draw"
+    }
+  ]
+}
