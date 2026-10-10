@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-10T15:13:08.333Z",
+  "generated": "2026-10-10T15:18:07.727Z",
   "totalPredictions": 72,
   "apiCalls": 0,
   "predictions": [
@@ -91,8 +91,14 @@
         "away": null
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 1.3,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 2.3,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -235,8 +241,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 1,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 2
+        }
       },
       "weather": null,
       "injuries": {
@@ -434,7 +446,10 @@
         }
       },
       "discipline": {
-        "home": null,
+        "home": {
+          "avgCardsPerGame": 1.7,
+          "gamesSampled": 3
+        },
         "away": {
           "avgCardsPerGame": 2.3,
           "gamesSampled": 3
@@ -601,8 +616,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 1.5,
+          "gamesSampled": 2
+        }
       },
       "weather": null,
       "injuries": {
@@ -727,8 +748,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 1.3,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 1.7,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -930,8 +957,14 @@
         "away": null
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 2
+        },
+        "away": {
+          "avgCardsPerGame": 1,
+          "gamesSampled": 2
+        }
       },
       "weather": {
         "temp": 14,
@@ -1146,8 +1179,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 3.3,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 3
+        }
       },
       "weather": {
         "temp": 14,
@@ -1318,8 +1357,14 @@
         "away": null
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 0.5,
+          "gamesSampled": 2
+        },
+        "away": {
+          "avgCardsPerGame": 3,
+          "gamesSampled": 3
+        }
       },
       "weather": {
         "temp": 14,
@@ -1498,8 +1543,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 1.3,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 3
+        }
       },
       "weather": {
         "temp": 16,
@@ -1681,8 +1732,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 2.5,
+          "gamesSampled": 2
+        },
+        "away": {
+          "avgCardsPerGame": 1.7,
+          "gamesSampled": 3
+        }
       },
       "weather": {
         "temp": 17,
@@ -1909,8 +1966,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 1.7,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -2050,8 +2113,14 @@
         "away": null
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 1.5,
+          "gamesSampled": 2
+        },
+        "away": {
+          "avgCardsPerGame": 3.3,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -2215,8 +2284,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -2352,8 +2427,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 1.7,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 1.3,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -2556,8 +2637,14 @@
         "away": null
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 1.7,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 1.3,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -2781,7 +2868,10 @@
           "avgCardsPerGame": 2.3,
           "gamesSampled": 3
         },
-        "away": null
+        "away": {
+          "avgCardsPerGame": 1,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -2955,8 +3045,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 2.3,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 2
+        }
       },
       "weather": null,
       "injuries": {
@@ -3152,8 +3248,14 @@
         "away": null
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 2
+        },
+        "away": {
+          "avgCardsPerGame": 0.5,
+          "gamesSampled": 2
+        }
       },
       "weather": null,
       "injuries": {
@@ -3355,8 +3457,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 3,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 1.3,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -3500,8 +3608,14 @@
         "away": null
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 1,
+          "gamesSampled": 2
+        },
+        "away": {
+          "avgCardsPerGame": 2.5,
+          "gamesSampled": 2
+        }
       },
       "weather": null,
       "injuries": {
@@ -3688,8 +3802,14 @@
         "away": null
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 3,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -3829,8 +3949,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 1.3,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -4005,8 +4131,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 1.3,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -4146,8 +4278,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 2.5,
+          "gamesSampled": 2
+        },
+        "away": {
+          "avgCardsPerGame": 1.5,
+          "gamesSampled": 2
+        }
       },
       "weather": null,
       "injuries": {
