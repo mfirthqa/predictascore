@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-10T15:18:07.727Z",
+  "generated": "2026-10-10T15:31:13.155Z",
   "totalPredictions": 72,
   "apiCalls": 0,
   "predictions": [
@@ -180,12 +180,12 @@
       },
       "prediction": {
         "homeXG": 0.79,
-        "awayXG": 3.47,
+        "awayXG": 3.49,
         "predictedScore": "0-3",
         "predictedScoreProb": 9.8,
         "outcomes": {
-          "homeWin": 4.8,
-          "draw": 8.9,
+          "homeWin": 4.7,
+          "draw": 8.8,
           "awayWin": 80
         },
         "topScores": [
@@ -199,7 +199,7 @@
           },
           {
             "score": "0-2",
-            "probability": 8.5
+            "probability": 8.4
           },
           {
             "score": "1-3",
@@ -207,15 +207,15 @@
           },
           {
             "score": "1-4",
-            "probability": 6.7
+            "probability": 6.8
           }
         ],
         "factors": [
           "Rest: home team well rested (20 days)",
           "Rest: away team well rested (21 days)",
           "Home injuries: 4 out: Brobbey (£5.7m, Hamstring injury - Expected back 25 Oct), Ballard (£4.9m, Hamstring injury - Unknown return date), Diarra (£5.3m, Hamstring injury - Expected back 18 Oct) +1 more",
-          "Away injuries: 7 out: Wieffer (£4.9m, Knee injury - Unknown return date), Mitoma (£5.9m, Hamstring injury - Expected back 10 Oct), Minteh (£5.8m, Leg injury - Expected back 28 Nov) +4 more",
-          "Away injuries: 2 doubtful: Hinshelwood (Ankle injury - 50% chance of playing), Struijk (Hamstring injury - 75% chance of playing)",
+          "Away injuries: 7 out: Wieffer (£4.9m, Knee injury - Unknown return date), Mitoma (£5.9m, Hamstring injury - Expected back 18 Oct), Minteh (£5.8m, Leg injury - Expected back 28 Nov) +4 more",
+          "Away injuries: 1 doubtful: Hinshelwood (Ankle injury - 50% chance of playing)",
           "Weather: no weather data",
           "Home motivation: mid-table (14th)",
           "Home motivation: poor recent form (LLDWL)",
@@ -286,7 +286,7 @@
           {
             "player": "Mitoma",
             "type": "Missing Fixture",
-            "reason": "Hamstring injury - Expected back 10 Oct",
+            "reason": "Hamstring injury - Expected back 18 Oct",
             "importance": 0.147,
             "cost": 5.9
           },
@@ -314,7 +314,7 @@
           {
             "player": "Yohanna",
             "type": "Missing Fixture",
-            "reason": "Unspecified injury - Expected back 10 Oct",
+            "reason": "Unspecified injury - Expected back 18 Oct",
             "importance": 0.127,
             "cost": 4.8
           },
@@ -328,21 +328,14 @@
           {
             "player": "Ferguson",
             "type": "Missing Fixture",
-            "reason": "Ankle injury - Expected back 10 Oct",
+            "reason": "Ankle injury - Expected back 18 Oct",
             "importance": 0.125,
             "cost": 5
           },
           {
-            "player": "Struijk",
-            "type": "Questionable",
-            "reason": "Hamstring injury - 75% chance of playing",
-            "importance": 0.185,
-            "cost": 4.9
-          },
-          {
             "player": "Azeez",
             "type": "Missing Fixture",
-            "reason": "Hamstring injury - Expected back 10 Oct",
+            "reason": "Hamstring injury - Expected back 18 Oct",
             "importance": 0.137,
             "cost": 5.5
           }
@@ -385,14 +378,14 @@
         "points": 3
       },
       "prediction": {
-        "homeXG": 4.35,
+        "homeXG": 4.34,
         "awayXG": 2.39,
         "predictedScore": "4-2",
         "predictedScoreProb": 5,
         "outcomes": {
           "homeWin": 56.4,
-          "draw": 11.9,
-          "awayWin": 15.7
+          "draw": 12,
+          "awayWin": 15.8
         },
         "topScores": [
           {
@@ -401,7 +394,7 @@
           },
           {
             "score": "3-2",
-            "probability": 4.6
+            "probability": 4.7
           },
           {
             "score": "5-2",
@@ -419,7 +412,8 @@
         "factors": [
           "Rest: home team well rested (22 days)",
           "Rest: away team well rested (20 days)",
-          "Home injuries: 2 out: Gittens (£5.8m, Ankle injury - Unknown return date), Emegha (£4.9m, Hamstring injury - Expected back 10 Oct)",
+          "Home injuries: 2 out: Gittens (£5.8m, Ankle injury - Unknown return date), Emegha (£4.9m, Hamstring injury - Expected back 17 Oct)",
+          "Home injuries: 1 doubtful: James (Hamstring injury - 50% chance of playing)",
           "Away injuries: 6 out: Scott (£6.1m, Thigh injury - Unknown return date), Kluivert (£5.9m, Unspecified injury - Unknown return date), Kroupi.Jr (£7.4m, Foot injury - Expected back 7 Nov) +3 more",
           "Weather: no weather data",
           "Home motivation: mid-table (10th)",
@@ -451,13 +445,20 @@
           "gamesSampled": 3
         },
         "away": {
-          "avgCardsPerGame": 2.3,
+          "avgCardsPerGame": 2.7,
           "gamesSampled": 3
         }
       },
       "weather": null,
       "injuries": {
         "home": [
+          {
+            "player": "James",
+            "type": "Questionable",
+            "reason": "Hamstring injury - 50% chance of playing",
+            "importance": 0.224,
+            "cost": 5.3
+          },
           {
             "player": "Gittens",
             "type": "Missing Fixture",
@@ -468,7 +469,7 @@
           {
             "player": "Emegha",
             "type": "Missing Fixture",
-            "reason": "Hamstring injury - Expected back 10 Oct",
+            "reason": "Hamstring injury - Expected back 17 Oct",
             "importance": 0.123,
             "cost": 4.9
           }
@@ -691,18 +692,18 @@
       },
       "prediction": {
         "homeXG": 0.79,
-        "awayXG": 1.7,
+        "awayXG": 1.76,
         "predictedScore": "0-1",
-        "predictedScoreProb": 14.1,
+        "predictedScoreProb": 13.7,
         "outcomes": {
-          "homeWin": 17.1,
-          "draw": 23.8,
-          "awayWin": 58.9
+          "homeWin": 16.6,
+          "draw": 23.1,
+          "awayWin": 60
         },
         "topScores": [
           {
             "score": "0-1",
-            "probability": 14.1
+            "probability": 13.7
           },
           {
             "score": "0-2",
@@ -710,23 +711,23 @@
           },
           {
             "score": "1-1",
-            "probability": 11.1
+            "probability": 10.9
           },
           {
             "score": "1-2",
-            "probability": 9.5
+            "probability": 9.6
           },
           {
             "score": "0-0",
-            "probability": 8.3
+            "probability": 7.8
           }
         ],
         "factors": [
           "Rest: home team well rested (21 days)",
           "Rest: away team well rested (22 days)",
           "Home injuries: 3 out: Maatsen (£4.4m, Ankle injury - Unknown return date), Goretzka (£5.9m, Knee injury - Expected back 17 Oct), Onana (£4.9m, Knee injury - Unknown return date)",
-          "Home injuries: 4 doubtful: M.Bizot (Back injury - 75% chance of playing), Pau (Hamstring injury - 75% chance of playing) +2 more",
-          "Away injuries: 6 out: Collins (£5.4m, Calf injury - Unknown return date), Jensen (£5.4m, Unspecified injury - Expected back 10 Oct), Milambo (£5m, Knee injury - Unknown return date) +3 more",
+          "Home injuries: 2 doubtful: Alysson (Unspecified injury - 75% chance of playing), Madjo (Unspecified injury - 75% chance of playing)",
+          "Away injuries: 4 out: Collins (£5.4m, Calf injury - Unknown return date), Milambo (£5m, Knee injury - Unknown return date), Dasilva (£4.9m, Hamstring injury - Expected back 10 Oct) +1 more",
           "Away injuries: 1 doubtful: Damsgaard (Unspecified injury - 75% chance of playing)",
           "Weather: no weather data",
           "Home motivation: close to relegation zone (16th)",
@@ -760,20 +761,6 @@
       "weather": null,
       "injuries": {
         "home": [
-          {
-            "player": "M.Bizot",
-            "type": "Questionable",
-            "reason": "Back injury - 75% chance of playing",
-            "importance": 0.132,
-            "cost": 4.5
-          },
-          {
-            "player": "Pau",
-            "type": "Questionable",
-            "reason": "Hamstring injury - 75% chance of playing",
-            "importance": 0.136,
-            "cost": 4.4
-          },
           {
             "player": "Maatsen",
             "type": "Missing Fixture",
@@ -819,24 +806,10 @@
             "cost": 5.4
           },
           {
-            "player": "Van den Berg",
-            "type": "Missing Fixture",
-            "reason": "Groin injury - Unknown return date",
-            "importance": 0.123,
-            "cost": 4.9
-          },
-          {
             "player": "Damsgaard",
             "type": "Questionable",
             "reason": "Unspecified injury - 75% chance of playing",
             "importance": 0.335,
-            "cost": 5.4
-          },
-          {
-            "player": "Jensen",
-            "type": "Missing Fixture",
-            "reason": "Unspecified injury - Expected back 10 Oct",
-            "importance": 0.207,
             "cost": 5.4
           },
           {
@@ -1910,7 +1883,7 @@
         "predictedScore": "3-0",
         "predictedScoreProb": 12.3,
         "outcomes": {
-          "homeWin": 83.3,
+          "homeWin": 83.4,
           "draw": 7.4,
           "awayWin": 3
         },
@@ -1925,11 +1898,11 @@
           },
           {
             "score": "4-0",
-            "probability": 10.6
+            "probability": 10.7
           },
           {
             "score": "5-0",
-            "probability": 7.3
+            "probability": 7.4
           },
           {
             "score": "3-1",
@@ -1941,7 +1914,8 @@
           "Rest: home team well rested (28 days)",
           "Rest: away team well rested (29 days)",
           "Home injuries: 3 doubtful: Nørgaard (Groin injury - 50% chance of playing), Mykolenko (Leg injury - 75% chance of playing) +1 more",
-          "Away injuries: 2 out: Gittens (£5.8m, Ankle injury - Unknown return date), Emegha (£4.9m, Hamstring injury - Expected back 10 Oct)",
+          "Away injuries: 2 out: Gittens (£5.8m, Ankle injury - Unknown return date), Emegha (£4.9m, Hamstring injury - Expected back 17 Oct)",
+          "Away injuries: 1 doubtful: James (Hamstring injury - 50% chance of playing)",
           "Weather: no weather data",
           "Home motivation: mid-table (7th)",
           "Away motivation: mid-table (10th)",
@@ -2002,6 +1976,13 @@
         ],
         "away": [
           {
+            "player": "James",
+            "type": "Questionable",
+            "reason": "Hamstring injury - 50% chance of playing",
+            "importance": 0.224,
+            "cost": 5.3
+          },
+          {
             "player": "Gittens",
             "type": "Missing Fixture",
             "reason": "Ankle injury - Unknown return date",
@@ -2011,7 +1992,7 @@
           {
             "player": "Emegha",
             "type": "Missing Fixture",
-            "reason": "Hamstring injury - Expected back 10 Oct",
+            "reason": "Hamstring injury - Expected back 17 Oct",
             "importance": 0.123,
             "cost": 4.9
           }
@@ -2365,27 +2346,27 @@
         "points": 9
       },
       "prediction": {
-        "homeXG": 1.12,
+        "homeXG": 1.16,
         "awayXG": 0.42,
         "predictedScore": "1-0",
-        "predictedScoreProb": 24,
+        "predictedScoreProb": 23.9,
         "outcomes": {
-          "homeWin": 53.3,
-          "draw": 32.8,
-          "awayWin": 13.9
+          "homeWin": 54.5,
+          "draw": 32,
+          "awayWin": 13.5
         },
         "topScores": [
           {
             "score": "1-0",
-            "probability": 24
+            "probability": 23.9
           },
           {
             "score": "0-0",
-            "probability": 21.4
+            "probability": 20.7
           },
           {
             "score": "2-0",
-            "probability": 13.4
+            "probability": 13.8
           },
           {
             "score": "1-1",
@@ -2393,14 +2374,14 @@
           },
           {
             "score": "0-1",
-            "probability": 9
+            "probability": 8.7
           }
         ],
         "factors": [
           "Venue: strong home fortress (67% win rate, 2.3 GPG at home)",
           "Rest: home team well rested (29 days)",
           "Rest: away team well rested (27 days)",
-          "Home injuries: 6 out: Collins (£5.4m, Calf injury - Unknown return date), Jensen (£5.4m, Unspecified injury - Expected back 10 Oct), Milambo (£5m, Knee injury - Unknown return date) +3 more",
+          "Home injuries: 4 out: Collins (£5.4m, Calf injury - Unknown return date), Milambo (£5m, Knee injury - Unknown return date), Dasilva (£4.9m, Hamstring injury - Expected back 10 Oct) +1 more",
           "Home injuries: 1 doubtful: Damsgaard (Unspecified injury - 75% chance of playing)",
           "Away injuries: 6 out: Isak (£9.1m, Thigh injury - Unknown return date), Gakpo (£7.2m, Ankle injury - Unknown return date), Ekitiké (£7.4m, Achilles injury - Unknown return date) +3 more",
           "Away injuries: 1 doubtful: Chiesa (Back injury - 25% chance of playing)",
@@ -2447,24 +2428,10 @@
             "cost": 5.4
           },
           {
-            "player": "Van den Berg",
-            "type": "Missing Fixture",
-            "reason": "Groin injury - Unknown return date",
-            "importance": 0.123,
-            "cost": 4.9
-          },
-          {
             "player": "Damsgaard",
             "type": "Questionable",
             "reason": "Unspecified injury - 75% chance of playing",
             "importance": 0.335,
-            "cost": 5.4
-          },
-          {
-            "player": "Jensen",
-            "type": "Missing Fixture",
-            "reason": "Unspecified injury - Expected back 10 Oct",
-            "importance": 0.207,
             "cost": 5.4
           },
           {
@@ -2579,13 +2546,13 @@
       },
       "prediction": {
         "homeXG": 2.82,
-        "awayXG": 1.33,
+        "awayXG": 1.34,
         "predictedScore": "2-1",
         "predictedScoreProb": 8.3,
         "outcomes": {
-          "homeWin": 65.8,
+          "homeWin": 65.6,
           "draw": 16,
-          "awayWin": 15.6
+          "awayWin": 15.8
         },
         "topScores": [
           {
@@ -2606,7 +2573,7 @@
           },
           {
             "score": "3-0",
-            "probability": 5.9
+            "probability": 5.8
           }
         ],
         "factors": [
@@ -2616,7 +2583,7 @@
           "Home injuries: 4 out: Elanga (£6.1m, Unspecified injury - Unknown return date), J.Ramsey (£4.8m, Thigh injury - Unknown return date), Burn (£4.8m, Ankle injury - Expected back 12 Oct) +1 more",
           "Home injuries: 5 doubtful: Livramento (Unspecified injury - 50% chance of playing), Joelinton (Unspecified injury - 75% chance of playing) +3 more",
           "Away injuries: 3 out: Maatsen (£4.4m, Ankle injury - Unknown return date), Goretzka (£5.9m, Knee injury - Expected back 17 Oct), Onana (£4.9m, Knee injury - Unknown return date)",
-          "Away injuries: 4 doubtful: M.Bizot (Back injury - 75% chance of playing), Pau (Hamstring injury - 75% chance of playing) +2 more",
+          "Away injuries: 2 doubtful: Alysson (Unspecified injury - 75% chance of playing), Madjo (Unspecified injury - 75% chance of playing)",
           "Weather: no weather data",
           "Home motivation: mid-table (9th)",
           "Away motivation: close to relegation zone (16th)",
@@ -2714,20 +2681,6 @@
           }
         ],
         "away": [
-          {
-            "player": "M.Bizot",
-            "type": "Questionable",
-            "reason": "Back injury - 75% chance of playing",
-            "importance": 0.132,
-            "cost": 4.5
-          },
-          {
-            "player": "Pau",
-            "type": "Questionable",
-            "reason": "Hamstring injury - 75% chance of playing",
-            "importance": 0.136,
-            "cost": 4.4
-          },
           {
             "player": "Maatsen",
             "type": "Missing Fixture",
@@ -2865,7 +2818,7 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 2.3,
+          "avgCardsPerGame": 2.7,
           "gamesSampled": 3
         },
         "away": {
@@ -3189,13 +3142,13 @@
         "points": 4
       },
       "prediction": {
-        "homeXG": 3.22,
+        "homeXG": 3.24,
         "awayXG": 0.28,
         "predictedScore": "3-0",
         "predictedScoreProb": 16.8,
         "outcomes": {
           "homeWin": 87.6,
-          "draw": 6.4,
+          "draw": 6.3,
           "awayWin": 1.4
         },
         "topScores": [
@@ -3205,7 +3158,7 @@
           },
           {
             "score": "2-0",
-            "probability": 15.7
+            "probability": 15.6
           },
           {
             "score": "4-0",
@@ -3213,7 +3166,7 @@
           },
           {
             "score": "1-0",
-            "probability": 9.7
+            "probability": 9.6
           },
           {
             "score": "5-0",
@@ -3224,8 +3177,8 @@
           "Venue: strong home fortress (67% win rate, 2.7 GPG at home)",
           "Rest: home team well rested (29 days)",
           "Rest: away team well rested (28 days)",
-          "Home injuries: 7 out: Wieffer (£4.9m, Knee injury - Unknown return date), Mitoma (£5.9m, Hamstring injury - Expected back 10 Oct), Minteh (£5.8m, Leg injury - Expected back 28 Nov) +4 more",
-          "Home injuries: 2 doubtful: Hinshelwood (Ankle injury - 50% chance of playing), Struijk (Hamstring injury - 75% chance of playing)",
+          "Home injuries: 7 out: Wieffer (£4.9m, Knee injury - Unknown return date), Mitoma (£5.9m, Hamstring injury - Expected back 18 Oct), Minteh (£5.8m, Leg injury - Expected back 28 Nov) +4 more",
+          "Home injuries: 1 doubtful: Hinshelwood (Ankle injury - 50% chance of playing)",
           "Away injuries: 5 out: Henderson (£4.9m, Foot injury - Expected back 18 Oct), Mateta (£6.3m, Hamstring injury - Expected back 18 Oct), Tomiyasu (£4.4m, Calf injury - Expected back 18 Oct) +2 more",
           "Weather: no weather data",
           "Home motivation: playoff/European contention (3th)",
@@ -3263,7 +3216,7 @@
           {
             "player": "Mitoma",
             "type": "Missing Fixture",
-            "reason": "Hamstring injury - Expected back 10 Oct",
+            "reason": "Hamstring injury - Expected back 18 Oct",
             "importance": 0.147,
             "cost": 5.9
           },
@@ -3291,7 +3244,7 @@
           {
             "player": "Yohanna",
             "type": "Missing Fixture",
-            "reason": "Unspecified injury - Expected back 10 Oct",
+            "reason": "Unspecified injury - Expected back 18 Oct",
             "importance": 0.127,
             "cost": 4.8
           },
@@ -3305,21 +3258,14 @@
           {
             "player": "Ferguson",
             "type": "Missing Fixture",
-            "reason": "Ankle injury - Expected back 10 Oct",
+            "reason": "Ankle injury - Expected back 18 Oct",
             "importance": 0.125,
             "cost": 5
           },
           {
-            "player": "Struijk",
-            "type": "Questionable",
-            "reason": "Hamstring injury - 75% chance of playing",
-            "importance": 0.185,
-            "cost": 4.9
-          },
-          {
             "player": "Azeez",
             "type": "Missing Fixture",
-            "reason": "Hamstring injury - Expected back 10 Oct",
+            "reason": "Hamstring injury - Expected back 18 Oct",
             "importance": 0.137,
             "cost": 5.5
           }
@@ -3896,7 +3842,7 @@
         "predictedScoreProb": 17.2,
         "outcomes": {
           "homeWin": 2.3,
-          "draw": 8.8,
+          "draw": 8.9,
           "awayWin": 86.2
         },
         "topScores": [
@@ -3925,7 +3871,7 @@
           "Rest: home team well rested (35 days)",
           "Rest: away team well rested (34 days)",
           "Home injuries: 3 out: Maatsen (£4.4m, Ankle injury - Unknown return date), Goretzka (£5.9m, Knee injury - Expected back 17 Oct), Onana (£4.9m, Knee injury - Unknown return date)",
-          "Home injuries: 4 doubtful: M.Bizot (Back injury - 75% chance of playing), Pau (Hamstring injury - 75% chance of playing) +2 more",
+          "Home injuries: 2 doubtful: Alysson (Unspecified injury - 75% chance of playing), Madjo (Unspecified injury - 75% chance of playing)",
           "Away injuries: 1 out: Foden (£6.9m, Suspended until 17 Oct)",
           "Away injuries: 2 doubtful: O'Reilly (Unspecified injury - 75% chance of playing), Semenyo (Ankle injury - 75% chance of playing)",
           "Weather: no weather data",
@@ -3961,20 +3907,6 @@
       "weather": null,
       "injuries": {
         "home": [
-          {
-            "player": "M.Bizot",
-            "type": "Questionable",
-            "reason": "Back injury - 75% chance of playing",
-            "importance": 0.132,
-            "cost": 4.5
-          },
-          {
-            "player": "Pau",
-            "type": "Questionable",
-            "reason": "Hamstring injury - 75% chance of playing",
-            "importance": 0.136,
-            "cost": 4.4
-          },
           {
             "player": "Maatsen",
             "type": "Missing Fixture",
@@ -4451,8 +4383,14 @@
         "away": null
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 2.7,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 3,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -4557,8 +4495,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 1.3,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -4663,8 +4607,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 1.7,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 0.3,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -4762,8 +4712,14 @@
         "away": null
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 1.7,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -4866,8 +4822,14 @@
         "away": null
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 3.5,
+          "gamesSampled": 2
+        },
+        "away": {
+          "avgCardsPerGame": 2.5,
+          "gamesSampled": 2
+        }
       },
       "weather": null,
       "injuries": {
@@ -4972,8 +4934,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 0.3,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -5074,8 +5042,14 @@
         "away": null
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 2
+        },
+        "away": {
+          "avgCardsPerGame": 3,
+          "gamesSampled": 2
+        }
       },
       "weather": null,
       "injuries": {
@@ -5180,8 +5154,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 1,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 1.3,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -5283,8 +5263,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 2.3,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 1,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -5389,8 +5375,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 1.7,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -5491,8 +5483,14 @@
         "away": null
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 1,
+          "gamesSampled": 2
+        },
+        "away": {
+          "avgCardsPerGame": 0.5,
+          "gamesSampled": 2
+        }
       },
       "weather": {
         "temp": 14,
@@ -5605,8 +5603,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 1.7,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 1,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -5710,8 +5714,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 0.3,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 2.7,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -5816,8 +5826,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 1,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 1.3,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -5919,8 +5935,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 3,
+          "gamesSampled": 2
+        },
+        "away": {
+          "avgCardsPerGame": 3.5,
+          "gamesSampled": 2
+        }
       },
       "weather": null,
       "injuries": {
@@ -6023,8 +6045,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 2.5,
+          "gamesSampled": 2
+        },
+        "away": {
+          "avgCardsPerGame": 1.7,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -6128,8 +6156,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 0.3,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 2
+        }
       },
       "weather": null,
       "injuries": {
@@ -6228,8 +6262,14 @@
         "away": null
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 3,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 2.3,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -6334,8 +6374,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 1.3,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -6433,8 +6479,14 @@
         "away": null
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 0.5,
+          "gamesSampled": 2
+        },
+        "away": {
+          "avgCardsPerGame": 1.7,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -6538,8 +6590,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 1,
+          "gamesSampled": 2
+        }
       },
       "weather": null,
       "injuries": {
@@ -6640,8 +6698,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 1,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -6741,8 +6805,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 1.7,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -6845,8 +6915,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 2.5,
+          "gamesSampled": 2
+        },
+        "away": {
+          "avgCardsPerGame": 1.7,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -6947,8 +7023,14 @@
         "away": null
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 1,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -7049,8 +7131,14 @@
         "away": null
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 3,
+          "gamesSampled": 2
+        }
       },
       "weather": null,
       "injuries": {
@@ -7156,8 +7244,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 3.5,
+          "gamesSampled": 2
+        },
+        "away": {
+          "avgCardsPerGame": 1.7,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -7258,8 +7352,14 @@
         "away": null
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 0.5,
+          "gamesSampled": 2
+        }
       },
       "weather": null,
       "injuries": {
@@ -7363,8 +7463,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 1,
+          "gamesSampled": 2
+        },
+        "away": {
+          "avgCardsPerGame": 1,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -7465,8 +7571,14 @@
         "away": null
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 0.3,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 1.7,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -7564,8 +7676,14 @@
         "away": null
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 3,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 1,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -7671,8 +7789,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 1.3,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -7777,8 +7901,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 1.3,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 1.7,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -7882,8 +8012,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 2.7,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 2
+        }
       },
       "weather": null,
       "injuries": {
@@ -7985,8 +8121,14 @@
         "away": null
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 0.3,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 2.3,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -8088,8 +8230,14 @@
         "away": null
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 1.7,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 0.5,
+          "gamesSampled": 2
+        }
       },
       "weather": null,
       "injuries": {
@@ -8193,8 +8341,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 1,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -8296,8 +8450,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 1.7,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -8402,8 +8562,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 1.7,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -8504,8 +8670,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 0.5,
+          "gamesSampled": 2
+        },
+        "away": {
+          "avgCardsPerGame": 1,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -8603,8 +8775,14 @@
         "away": null
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 3,
+          "gamesSampled": 2
+        },
+        "away": {
+          "avgCardsPerGame": 3,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -8706,8 +8884,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 1,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 1.3,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -8812,8 +8996,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 1.3,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 0.3,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -8915,8 +9105,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 2.3,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 2.7,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -9015,8 +9211,14 @@
         "away": null
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 2.5,
+          "gamesSampled": 2
+        }
       },
       "weather": null,
       "injuries": {
@@ -9120,8 +9322,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 1.7,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 1,
+          "gamesSampled": 2
+        }
       },
       "weather": null,
       "injuries": {
@@ -9225,8 +9433,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 2
+        },
+        "away": {
+          "avgCardsPerGame": 0.3,
+          "gamesSampled": 3
+        }
       },
       "weather": null,
       "injuries": {
@@ -9332,8 +9546,14 @@
         }
       },
       "discipline": {
-        "home": null,
-        "away": null
+        "home": {
+          "avgCardsPerGame": 1.7,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 3.5,
+          "gamesSampled": 2
+        }
       },
       "weather": null,
       "injuries": {
