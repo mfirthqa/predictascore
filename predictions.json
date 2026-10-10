@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-10T14:46:22.970Z",
+  "generated": "2026-10-10T15:11:20.084Z",
   "totalPredictions": 72,
-  "apiCalls": 16,
+  "apiCalls": 0,
   "predictions": [
     {
       "fixture": {
@@ -88,6 +88,10 @@
           "name": "Bukayo Saka",
           "goals": 3
         },
+        "away": null
+      },
+      "discipline": {
+        "home": null,
         "away": null
       },
       "weather": null,
@@ -229,6 +233,10 @@
           "name": "Pascal Groß",
           "goals": 3
         }
+      },
+      "discipline": {
+        "home": null,
+        "away": null
       },
       "weather": null,
       "injuries": {
@@ -425,6 +433,13 @@
           "goals": 3
         }
       },
+      "discipline": {
+        "home": null,
+        "away": {
+          "avgCardsPerGame": 2.3,
+          "gamesSampled": 3
+        }
+      },
       "weather": null,
       "injuries": {
         "home": [
@@ -585,6 +600,10 @@
           "goals": 2
         }
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [
@@ -706,6 +725,10 @@
           "name": "Kevin Schade",
           "goals": 3
         }
+      },
+      "discipline": {
+        "home": null,
+        "away": null
       },
       "weather": null,
       "injuries": {
@@ -904,6 +927,10 @@
           "name": "Bruno Fernandes",
           "goals": 3
         },
+        "away": null
+      },
+      "discipline": {
+        "home": null,
         "away": null
       },
       "weather": {
@@ -1118,6 +1145,10 @@
           "goals": 2
         }
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": {
         "temp": 14,
         "feelsLike": 13,
@@ -1283,6 +1314,10 @@
         }
       },
       "likelyScorers": {
+        "home": null,
+        "away": null
+      },
+      "discipline": {
         "home": null,
         "away": null
       },
@@ -1462,6 +1497,10 @@
           "goals": 5
         }
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": {
         "temp": 16,
         "feelsLike": 16,
@@ -1640,6 +1679,10 @@
           "name": "Anthony Elanga",
           "goals": 2
         }
+      },
+      "discipline": {
+        "home": null,
+        "away": null
       },
       "weather": {
         "temp": 17,
@@ -1865,6 +1908,10 @@
           "goals": 4
         }
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [
@@ -2000,6 +2047,10 @@
           "name": "Joshua King",
           "goals": 2
         },
+        "away": null
+      },
+      "discipline": {
+        "home": null,
         "away": null
       },
       "weather": null,
@@ -2163,6 +2214,10 @@
           "goals": 2
         }
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [
@@ -2295,6 +2350,10 @@
           "name": "Alexander Isak",
           "goals": 4
         }
+      },
+      "discipline": {
+        "home": null,
+        "away": null
       },
       "weather": null,
       "injuries": {
@@ -2494,6 +2553,10 @@
           "name": "Anthony Elanga",
           "goals": 2
         },
+        "away": null
+      },
+      "discipline": {
+        "home": null,
         "away": null
       },
       "weather": null,
@@ -2713,6 +2776,13 @@
           "goals": 3
         }
       },
+      "discipline": {
+        "home": {
+          "avgCardsPerGame": 2.3,
+          "gamesSampled": 3
+        },
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [
@@ -2883,6 +2953,10 @@
           "name": "Bruno Fernandes",
           "goals": 3
         }
+      },
+      "discipline": {
+        "home": null,
+        "away": null
       },
       "weather": null,
       "injuries": {
@@ -3075,6 +3149,10 @@
           "name": "Pascal Groß",
           "goals": 3
         },
+        "away": null
+      },
+      "discipline": {
+        "home": null,
         "away": null
       },
       "weather": null,
@@ -3276,6 +3354,10 @@
           "goals": 3
         }
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [
@@ -3414,6 +3496,10 @@
         }
       },
       "likelyScorers": {
+        "home": null,
+        "away": null
+      },
+      "discipline": {
         "home": null,
         "away": null
       },
@@ -3601,6 +3687,10 @@
         },
         "away": null
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [
@@ -3737,6 +3827,10 @@
           "name": "Erling Haaland",
           "goals": 5
         }
+      },
+      "discipline": {
+        "home": null,
+        "away": null
       },
       "weather": null,
       "injuries": {
@@ -3910,6 +4004,10 @@
           "goals": 2
         }
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [
@@ -4046,6 +4144,10 @@
           "name": "Joshua King",
           "goals": 2
         }
+      },
+      "discipline": {
+        "home": null,
+        "away": null
       },
       "weather": null,
       "injuries": {
@@ -4210,6 +4312,10 @@
         },
         "away": null
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [],
@@ -4311,6 +4417,10 @@
           "name": "Mohamed Toure",
           "goals": 5
         }
+      },
+      "discipline": {
+        "home": null,
+        "away": null
       },
       "weather": null,
       "injuries": {
@@ -4414,6 +4524,10 @@
           "goals": 3
         }
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [],
@@ -4506,6 +4620,10 @@
         }
       },
       "likelyScorers": {
+        "home": null,
+        "away": null
+      },
+      "discipline": {
         "home": null,
         "away": null
       },
@@ -4607,6 +4725,10 @@
           "name": "Amin Nabizada",
           "goals": 3
         },
+        "away": null
+      },
+      "discipline": {
+        "home": null,
         "away": null
       },
       "weather": null,
@@ -4711,6 +4833,10 @@
           "goals": 3
         }
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [],
@@ -4807,6 +4933,10 @@
           "name": "Andri Guðjohnsen",
           "goals": 4
         },
+        "away": null
+      },
+      "discipline": {
+        "home": null,
         "away": null
       },
       "weather": null,
@@ -4911,6 +5041,10 @@
           "goals": 4
         }
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [],
@@ -5009,6 +5143,10 @@
           "name": "Lyndon Dykes",
           "goals": 4
         }
+      },
+      "discipline": {
+        "home": null,
+        "away": null
       },
       "weather": null,
       "injuries": {
@@ -5112,6 +5250,10 @@
           "goals": 4
         }
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [],
@@ -5208,6 +5350,10 @@
           "name": "Cyle Larin",
           "goals": 7
         },
+        "away": null
+      },
+      "discipline": {
+        "home": null,
         "away": null
       },
       "weather": {
@@ -5320,6 +5466,10 @@
           "goals": 3
         }
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [],
@@ -5420,6 +5570,10 @@
           "name": "Jimmy Morgan",
           "goals": 3
         }
+      },
+      "discipline": {
+        "home": null,
+        "away": null
       },
       "weather": null,
       "injuries": {
@@ -5523,6 +5677,10 @@
           "goals": 4
         }
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [],
@@ -5621,6 +5779,10 @@
           "name": "Amin Nabizada",
           "goals": 3
         }
+      },
+      "discipline": {
+        "home": null,
+        "away": null
       },
       "weather": null,
       "injuries": {
@@ -5721,6 +5883,10 @@
           "name": "Tyreece Campbell",
           "goals": 4
         }
+      },
+      "discipline": {
+        "home": null,
+        "away": null
       },
       "weather": null,
       "injuries": {
@@ -5823,6 +5989,10 @@
           "goals": 4
         }
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [],
@@ -5916,6 +6086,10 @@
         }
       },
       "likelyScorers": {
+        "home": null,
+        "away": null
+      },
+      "discipline": {
         "home": null,
         "away": null
       },
@@ -6021,6 +6195,10 @@
           "goals": 6
         }
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [],
@@ -6113,6 +6291,10 @@
         }
       },
       "likelyScorers": {
+        "home": null,
+        "away": null
+      },
+      "discipline": {
         "home": null,
         "away": null
       },
@@ -6217,6 +6399,10 @@
           "goals": 7
         }
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [],
@@ -6315,6 +6501,10 @@
           "goals": 3
         }
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [],
@@ -6411,6 +6601,10 @@
           "name": "Jarrod Bowen",
           "goals": 5
         }
+      },
+      "discipline": {
+        "home": null,
+        "away": null
       },
       "weather": null,
       "injuries": {
@@ -6512,6 +6706,10 @@
           "goals": 4
         }
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [],
@@ -6610,6 +6808,10 @@
         },
         "away": null
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [],
@@ -6706,6 +6908,10 @@
           "name": "William Lankshear",
           "goals": 6
         },
+        "away": null
+      },
+      "discipline": {
+        "home": null,
         "away": null
       },
       "weather": null,
@@ -6811,6 +7017,10 @@
           "goals": 4
         }
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [],
@@ -6907,6 +7117,10 @@
           "name": "Mohamed Toure",
           "goals": 5
         },
+        "away": null
+      },
+      "discipline": {
+        "home": null,
         "away": null
       },
       "weather": null,
@@ -7010,6 +7224,10 @@
           "goals": 3
         }
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [],
@@ -7108,6 +7326,10 @@
         },
         "away": null
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [],
@@ -7200,6 +7422,10 @@
         }
       },
       "likelyScorers": {
+        "home": null,
+        "away": null
+      },
+      "discipline": {
         "home": null,
         "away": null
       },
@@ -7306,6 +7532,10 @@
           "goals": 4
         }
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [],
@@ -7408,6 +7638,10 @@
           "goals": 5
         }
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [],
@@ -7509,6 +7743,10 @@
           "goals": 4
         }
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [],
@@ -7608,6 +7846,10 @@
         },
         "away": null
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [],
@@ -7705,6 +7947,10 @@
           "name": "Fer López",
           "goals": 4
         },
+        "away": null
+      },
+      "discipline": {
+        "home": null,
         "away": null
       },
       "weather": null,
@@ -7808,6 +8054,10 @@
           "goals": 6
         }
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [],
@@ -7906,6 +8156,10 @@
           "name": "Samuel Szmodics",
           "goals": 3
         }
+      },
+      "discipline": {
+        "home": null,
+        "away": null
       },
       "weather": null,
       "injuries": {
@@ -8009,6 +8263,10 @@
           "goals": 5
         }
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [],
@@ -8107,6 +8365,10 @@
           "goals": 4
         }
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [],
@@ -8199,6 +8461,10 @@
         }
       },
       "likelyScorers": {
+        "home": null,
+        "away": null
+      },
+      "discipline": {
         "home": null,
         "away": null
       },
@@ -8300,6 +8566,10 @@
           "name": "Adam Idah",
           "goals": 4
         }
+      },
+      "discipline": {
+        "home": null,
+        "away": null
       },
       "weather": null,
       "injuries": {
@@ -8403,6 +8673,10 @@
           "goals": 3
         }
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [],
@@ -8502,6 +8776,10 @@
           "goals": 3
         }
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [],
@@ -8595,6 +8873,10 @@
         }
       },
       "likelyScorers": {
+        "home": null,
+        "away": null
+      },
+      "discipline": {
         "home": null,
         "away": null
       },
@@ -8699,6 +8981,10 @@
           "goals": 7
         }
       },
+      "discipline": {
+        "home": null,
+        "away": null
+      },
       "weather": null,
       "injuries": {
         "home": [],
@@ -8799,6 +9085,10 @@
           "name": "Kieffer Moore",
           "goals": 3
         }
+      },
+      "discipline": {
+        "home": null,
+        "away": null
       },
       "weather": null,
       "injuries": {
@@ -8902,6 +9192,10 @@
           "name": "Amin Nabizada",
           "goals": 3
         }
+      },
+      "discipline": {
+        "home": null,
+        "away": null
       },
       "weather": null,
       "injuries": {
