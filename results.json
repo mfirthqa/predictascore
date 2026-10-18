@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-17T06:05:45.257Z",
+  "generated": "2026-10-18T06:15:53.515Z",
   "results": [
     {
       "id": 560593,
@@ -100,6 +100,56 @@
       "homeScore": 4,
       "awayScore": 1,
       "winner": "home"
+    },
+    {
+      "id": 560603,
+      "date": "2026-10-17T11:30:00Z",
+      "league": "PL",
+      "homeTeam": "Everton",
+      "awayTeam": "Chelsea",
+      "homeScore": 0,
+      "awayScore": 2,
+      "winner": "away"
+    },
+    {
+      "id": 560602,
+      "date": "2026-10-17T14:00:00Z",
+      "league": "PL",
+      "homeTeam": "Fulham",
+      "awayTeam": "Hull City",
+      "homeScore": 1,
+      "awayScore": 0,
+      "winner": "home"
+    },
+    {
+      "id": 560610,
+      "date": "2026-10-17T14:00:00Z",
+      "league": "PL",
+      "homeTeam": "Man City",
+      "awayTeam": "Ipswich Town",
+      "homeScore": 3,
+      "awayScore": 2,
+      "winner": "home"
+    },
+    {
+      "id": 560611,
+      "date": "2026-10-17T14:00:00Z",
+      "league": "PL",
+      "homeTeam": "Brentford",
+      "awayTeam": "Liverpool",
+      "homeScore": 1,
+      "awayScore": 2,
+      "winner": "away"
+    },
+    {
+      "id": 560607,
+      "date": "2026-10-17T16:30:00Z",
+      "league": "PL",
+      "homeTeam": "Newcastle",
+      "awayTeam": "Aston Villa",
+      "homeScore": 0,
+      "awayScore": 1,
+      "winner": "away"
     },
     {
       "id": 561862,
@@ -350,6 +400,116 @@
       "homeScore": 1,
       "awayScore": 2,
       "winner": "away"
+    },
+    {
+      "id": 561884,
+      "date": "2026-10-17T11:30:00Z",
+      "league": "ELC",
+      "homeTeam": "Millwall",
+      "awayTeam": "Lincoln City",
+      "homeScore": 2,
+      "awayScore": 2,
+      "winner": "draw"
+    },
+    {
+      "id": 561887,
+      "date": "2026-10-17T11:30:00Z",
+      "league": "ELC",
+      "homeTeam": "Middlesbrough",
+      "awayTeam": "Cardiff",
+      "homeScore": 2,
+      "awayScore": 2,
+      "winner": "draw"
+    },
+    {
+      "id": 561889,
+      "date": "2026-10-17T11:30:00Z",
+      "league": "ELC",
+      "homeTeam": "Watford",
+      "awayTeam": "Charlton",
+      "homeScore": 2,
+      "awayScore": 0,
+      "winner": "home"
+    },
+    {
+      "id": 561881,
+      "date": "2026-10-17T14:00:00Z",
+      "league": "ELC",
+      "homeTeam": "Norwich",
+      "awayTeam": "Portsmouth",
+      "homeScore": 0,
+      "awayScore": 1,
+      "winner": "away"
+    },
+    {
+      "id": 561882,
+      "date": "2026-10-17T14:00:00Z",
+      "league": "ELC",
+      "homeTeam": "Southampton",
+      "awayTeam": "Bolton",
+      "homeScore": 0,
+      "awayScore": 0,
+      "winner": "draw"
+    },
+    {
+      "id": 561885,
+      "date": "2026-10-17T14:00:00Z",
+      "league": "ELC",
+      "homeTeam": "Bristol City",
+      "awayTeam": "Sheffield Utd",
+      "homeScore": 0,
+      "awayScore": 1,
+      "winner": "away"
+    },
+    {
+      "id": 561886,
+      "date": "2026-10-17T14:00:00Z",
+      "league": "ELC",
+      "homeTeam": "Birmingham",
+      "awayTeam": "QPR",
+      "homeScore": 3,
+      "awayScore": 0,
+      "winner": "home"
+    },
+    {
+      "id": 561888,
+      "date": "2026-10-17T14:00:00Z",
+      "league": "ELC",
+      "homeTeam": "Derby County",
+      "awayTeam": "Stoke",
+      "homeScore": 0,
+      "awayScore": 1,
+      "winner": "away"
+    },
+    {
+      "id": 561890,
+      "date": "2026-10-17T14:00:00Z",
+      "league": "ELC",
+      "homeTeam": "Swansea",
+      "awayTeam": "West Ham",
+      "homeScore": 0,
+      "awayScore": 1,
+      "winner": "away"
+    },
+    {
+      "id": 561891,
+      "date": "2026-10-17T14:00:00Z",
+      "league": "ELC",
+      "homeTeam": "West Brom",
+      "awayTeam": "Blackburn",
+      "homeScore": 3,
+      "awayScore": 2,
+      "winner": "home"
+    },
+    {
+      "id": 561892,
+      "date": "2026-10-17T14:00:00Z",
+      "league": "ELC",
+      "homeTeam": "Wrexham",
+      "awayTeam": "Preston NE",
+      "homeScore": 4,
+      "awayScore": 1,
+      "winner": "home"
     }
   ]
 }
