@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-18T06:15:53.515Z",
+  "generated": "2026-10-19T06:05:39.222Z",
   "results": [
     {
       "id": 560593,
@@ -147,6 +147,46 @@
       "league": "PL",
       "homeTeam": "Newcastle",
       "awayTeam": "Aston Villa",
+      "homeScore": 0,
+      "awayScore": 1,
+      "winner": "away"
+    },
+    {
+      "id": 560604,
+      "date": "2026-10-18T13:00:00Z",
+      "league": "PL",
+      "homeTeam": "Bournemouth",
+      "awayTeam": "Sunderland",
+      "homeScore": 2,
+      "awayScore": 0,
+      "winner": "home"
+    },
+    {
+      "id": 560605,
+      "date": "2026-10-18T13:00:00Z",
+      "league": "PL",
+      "homeTeam": "Leeds United",
+      "awayTeam": "Man United",
+      "homeScore": 1,
+      "awayScore": 1,
+      "winner": "draw"
+    },
+    {
+      "id": 560609,
+      "date": "2026-10-18T13:00:00Z",
+      "league": "PL",
+      "homeTeam": "Brighton Hove",
+      "awayTeam": "Crystal Palace",
+      "homeScore": 5,
+      "awayScore": 0,
+      "winner": "home"
+    },
+    {
+      "id": 560608,
+      "date": "2026-10-18T15:30:00Z",
+      "league": "PL",
+      "homeTeam": "Nottingham",
+      "awayTeam": "Arsenal",
       "homeScore": 0,
       "awayScore": 1,
       "winner": "away"
