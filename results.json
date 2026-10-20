@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-19T06:05:39.222Z",
+  "generated": "2026-10-20T06:15:24.399Z",
   "results": [
     {
       "id": 560593,
@@ -190,6 +190,16 @@
       "homeScore": 0,
       "awayScore": 1,
       "winner": "away"
+    },
+    {
+      "id": 560606,
+      "date": "2026-10-19T19:00:00Z",
+      "league": "PL",
+      "homeTeam": "Tottenham",
+      "awayTeam": "Coventry City",
+      "homeScore": 3,
+      "awayScore": 1,
+      "winner": "home"
     },
     {
       "id": 561862,
