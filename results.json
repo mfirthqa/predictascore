@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T06:15:24.399Z",
+  "generated": "2026-10-21T06:06:31.492Z",
   "results": [
     {
       "id": 560593,
@@ -560,6 +560,16 @@
       "homeScore": 4,
       "awayScore": 1,
       "winner": "home"
+    },
+    {
+      "id": 561826,
+      "date": "2026-10-20T18:45:00Z",
+      "league": "ELC",
+      "homeTeam": "Wolverhampton",
+      "awayTeam": "Portsmouth",
+      "homeScore": 1,
+      "awayScore": 1,
+      "winner": "draw"
     }
   ]
 }
