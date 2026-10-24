@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T06:06:50.748Z",
+  "generated": "2026-10-24T06:18:40.266Z",
   "results": [
     {
       "id": 560593,
@@ -202,11 +202,11 @@
       "winner": "home"
     },
     {
-      "id": 561862,
-      "date": "2026-10-09T19:00:00Z",
-      "league": "ELC",
-      "homeTeam": "West Ham",
-      "awayTeam": "QPR",
+      "id": 560620,
+      "date": "2026-10-23T19:00:00Z",
+      "league": "PL",
+      "homeTeam": "Ipswich Town",
+      "awayTeam": "Nottingham",
       "homeScore": 1,
       "awayScore": 1,
       "winner": "draw"
@@ -570,6 +570,16 @@
       "homeScore": 1,
       "awayScore": 1,
       "winner": "draw"
+    },
+    {
+      "id": 561894,
+      "date": "2026-10-23T19:00:00Z",
+      "league": "ELC",
+      "homeTeam": "Bolton",
+      "awayTeam": "Middlesbrough",
+      "homeScore": 1,
+      "awayScore": 5,
+      "winner": "away"
     }
   ]
 }
