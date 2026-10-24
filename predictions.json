@@ -1,143 +1,8 @@
 {
-  "generated": "2026-10-23T06:06:50.745Z",
+  "generated": "2026-10-24T06:18:40.258Z",
   "totalPredictions": 56,
   "apiCalls": 64,
   "predictions": [
-    {
-      "fixture": {
-        "id": 560620,
-        "date": "2026-10-23T19:00:00Z",
-        "venue": "TBC",
-        "matchday": 8,
-        "referee": null
-      },
-      "league": {
-        "code": "PL",
-        "name": "Premier League",
-        "shortName": "PL"
-      },
-      "homeTeam": {
-        "id": 349,
-        "name": "Ipswich Town",
-        "fullName": "Ipswich Town FC",
-        "crest": "https://crests.football-data.org/349.png",
-        "form": "LWLWLL",
-        "rank": 10,
-        "points": 9
-      },
-      "awayTeam": {
-        "id": 351,
-        "name": "Nottingham",
-        "fullName": "Nottingham Forest FC",
-        "crest": "https://crests.football-data.org/351.png",
-        "form": "LLLWDD",
-        "rank": 19,
-        "points": 5
-      },
-      "prediction": {
-        "homeXG": 2.32,
-        "awayXG": 1.49,
-        "predictedScore": "2-1",
-        "predictedScoreProb": 8.9,
-        "outcomes": {
-          "homeWin": 55.2,
-          "draw": 19.7,
-          "awayWin": 24.1
-        },
-        "topScores": [
-          {
-            "score": "2-1",
-            "probability": 8.9
-          },
-          {
-            "score": "1-1",
-            "probability": 7.7
-          },
-          {
-            "score": "3-1",
-            "probability": 6.9
-          },
-          {
-            "score": "2-2",
-            "probability": 6.6
-          },
-          {
-            "score": "2-0",
-            "probability": 6
-          }
-        ],
-        "factors": [
-          "Venue: strong home fortress (67% win rate, 1.3 GPG at home)",
-          "Home injuries: 1 out: Lukić (£4.9m, Groin injury - Expected back 23 Oct)",
-          "Away injuries: 2 out: Igor Jesus (£5.7m, Calf injury - Unknown return date), Savona (£4.5m, Knee injury - Unknown return date)",
-          "Weather: moderate wind (33 km/h)",
-          "Home motivation: mid-table (10th)",
-          "Away motivation: relegation battle (19th of 20)",
-          "Away motivation: poor recent form (LLLWDD)",
-          "H2H: h2h favours away team (away 2W/0D/0L from 2)"
-        ],
-        "model": {
-          "homeAttackStr": 0.882,
-          "homeDefenceStr": 1.06,
-          "awayAttackStr": 1.12,
-          "awayDefenceStr": 1.257
-        }
-      },
-      "likelyScorers": {
-        "home": null,
-        "away": null
-      },
-      "discipline": {
-        "home": {
-          "avgCardsPerGame": 2.3,
-          "gamesSampled": 3
-        },
-        "away": {
-          "avgCardsPerGame": 3,
-          "gamesSampled": 3
-        }
-      },
-      "weather": {
-        "temp": 9,
-        "feelsLike": 5,
-        "wind": 33,
-        "windGust": 67,
-        "rain": 0,
-        "humidity": 81,
-        "description": "Clear"
-      },
-      "injuries": {
-        "home": [
-          {
-            "player": "Lukić",
-            "type": "Missing Fixture",
-            "reason": "Groin injury - Expected back 23 Oct",
-            "importance": 0.319,
-            "cost": 4.9
-          }
-        ],
-        "away": [
-          {
-            "player": "Savona",
-            "type": "Missing Fixture",
-            "reason": "Knee injury - Unknown return date",
-            "importance": 0.112,
-            "cost": 4.5
-          },
-          {
-            "player": "Igor Jesus",
-            "type": "Missing Fixture",
-            "reason": "Calf injury - Unknown return date",
-            "importance": 0.313,
-            "cost": 5.7
-          }
-        ]
-      },
-      "daysRest": {
-        "home": 6,
-        "away": 5
-      }
-    },
     {
       "fixture": {
         "id": 560614,
@@ -171,7 +36,7 @@
       },
       "prediction": {
         "homeXG": 0.32,
-        "awayXG": 3.23,
+        "awayXG": 3.24,
         "predictedScore": "0-3",
         "predictedScoreProb": 16.1,
         "outcomes": {
@@ -186,7 +51,7 @@
           },
           {
             "score": "0-2",
-            "probability": 15
+            "probability": 14.9
           },
           {
             "score": "0-4",
@@ -194,7 +59,7 @@
           },
           {
             "score": "0-1",
-            "probability": 9.3
+            "probability": 9.2
           },
           {
             "score": "0-5",
@@ -207,19 +72,19 @@
           "Rest: away team well rested (7 days)",
           "Home injuries: 3 out: Wan-Bissaka (£4.5m, Hamstring injury - Expected back 21 Nov), Ruggeri (£4.4m, Hamstring injury - Expected back 2 Jan), Onana (£4.9m, Knee injury - Unknown return date)",
           "Home injuries: 1 doubtful: Manzambi (Calf injury - 75% chance of playing)",
-          "Away injuries: 1 out: Semenyo (£8.3m, Knee injury - Unknown return date)",
+          "Away injuries: 1 out: Semenyo (£8.2m, Knee injury - Unknown return date)",
           "Away injuries: 3 doubtful: O'Reilly (Back injury - 75% chance of playing), Matheus N. (Unspecified injury - 75% chance of playing) +1 more",
-          "Weather: good conditions (12°C, wind 19km/h)",
+          "Weather: good conditions (12°C, wind 17km/h)",
           "Home motivation: mid-table (12th)",
           "Away motivation: title/promotion contender (1st)",
           "Away motivation: strong recent form (WWWWWW)",
           "H2H: h2h balanced (home 4W/1D/5L, away 5W/1D/4L from 10)"
         ],
         "model": {
-          "homeAttackStr": 0.738,
-          "homeDefenceStr": 1.223,
-          "awayAttackStr": 1.995,
-          "awayDefenceStr": 0.273
+          "homeAttackStr": 0.742,
+          "homeDefenceStr": 1.227,
+          "awayAttackStr": 2.002,
+          "awayDefenceStr": 0.275
         }
       },
       "likelyScorers": {
@@ -231,21 +96,21 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 1.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 1.5,
+          "gamesSampled": 2
         },
         "away": {
           "avgCardsPerGame": 2,
-          "gamesSampled": 3
+          "gamesSampled": 2
         }
       },
       "weather": {
         "temp": 12,
         "feelsLike": 10,
-        "wind": 19,
-        "windGust": 38,
+        "wind": 17,
+        "windGust": 41,
         "rain": 0,
-        "humidity": 68,
+        "humidity": 71,
         "description": "Clear"
       },
       "injuries": {
@@ -298,8 +163,8 @@
             "player": "Semenyo",
             "type": "Missing Fixture",
             "reason": "Knee injury - Unknown return date",
-            "importance": 0.661,
-            "cost": 8.3
+            "importance": 0.658,
+            "cost": 8.2
           },
           {
             "player": "Kovačić",
@@ -348,53 +213,53 @@
       },
       "prediction": {
         "homeXG": 2.02,
-        "awayXG": 0.56,
+        "awayXG": 0.57,
         "predictedScore": "2-0",
-        "predictedScoreProb": 15.5,
+        "predictedScoreProb": 15.3,
         "outcomes": {
-          "homeWin": 71.5,
-          "draw": 18.9,
-          "awayWin": 9.1
+          "homeWin": 71.1,
+          "draw": 19,
+          "awayWin": 9.4
         },
         "topScores": [
           {
             "score": "2-0",
-            "probability": 15.5
+            "probability": 15.3
           },
           {
             "score": "1-0",
-            "probability": 15.4
+            "probability": 15.2
           },
           {
             "score": "3-0",
-            "probability": 10.4
+            "probability": 10.3
           },
           {
             "score": "2-1",
-            "probability": 8.6
+            "probability": 8.7
           },
           {
             "score": "1-1",
-            "probability": 8.6
+            "probability": 8.7
           }
         ],
         "factors": [
           "Venue: strong home fortress (100% win rate, 2.3 GPG at home)",
           "Rest: away team well rested (7 days)",
-          "Home injuries: 2 out: Tzolis (£6.2m, Hamstring injury - Expected back 1 Nov), Saliba (£5.9m, Back injury - Unknown return date)",
-          "Home injuries: 2 doubtful: Hincapie (Ankle injury - 75% chance of playing), Saka (Thigh injury - 50% chance of playing)",
+          "Home injuries: 3 out: Saka (£9.5m, Thigh injury - Unknown return date), Tzolis (£6.2m, Hamstring injury - Expected back 1 Nov), Saliba (£5.9m, Back injury - Unknown return date)",
+          "Home injuries: 1 doubtful: Hincapie (Ankle injury - 75% chance of playing)",
           "Away injuries: no injuries reported",
-          "Weather: moderate wind (28 km/h)",
+          "Weather: good conditions (12°C, wind 23km/h, rain 0.8mm)",
           "Home motivation: title/promotion contender (2nd)",
           "Home motivation: strong recent form (WWLWWW)",
           "Away motivation: mid-table (8th)",
           "H2H: h2h balanced (home 6W/2D/2L, away 2W/2D/6L from 10)"
         ],
         "model": {
-          "homeAttackStr": 1.353,
-          "homeDefenceStr": 0.569,
-          "awayAttackStr": 0.762,
-          "awayDefenceStr": 0.696
+          "homeAttackStr": 1.36,
+          "homeDefenceStr": 0.571,
+          "awayAttackStr": 0.765,
+          "awayDefenceStr": 0.699
         }
       },
       "likelyScorers": {
@@ -409,21 +274,21 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 1.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 1.5,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 2,
-          "gamesSampled": 3
+          "avgCardsPerGame": 2.5,
+          "gamesSampled": 2
         }
       },
       "weather": {
         "temp": 12,
         "feelsLike": 9,
-        "wind": 28,
-        "windGust": 61,
+        "wind": 23,
+        "windGust": 56,
         "rain": 0.8,
-        "humidity": 88,
+        "humidity": 87,
         "description": "Clear"
       },
       "injuries": {
@@ -444,10 +309,10 @@
           },
           {
             "player": "Saka",
-            "type": "Questionable",
-            "reason": "Thigh injury - 50% chance of playing",
-            "importance": 0.777,
-            "cost": 9.6
+            "type": "Missing Fixture",
+            "reason": "Thigh injury - Unknown return date",
+            "importance": 0.774,
+            "cost": 9.5
           },
           {
             "player": "Tzolis",
@@ -483,7 +348,7 @@
         "fullName": "Coventry City FC",
         "crest": "https://crests.football-data.org/1076.png",
         "form": "LWWLLL",
-        "rank": 17,
+        "rank": 18,
         "points": 6
       },
       "awayTeam": {
@@ -492,39 +357,39 @@
         "fullName": "Fulham FC",
         "crest": "https://crests.football-data.org/63.png",
         "form": "WLDDLL",
-        "rank": 18,
+        "rank": 19,
         "points": 5
       },
       "prediction": {
-        "homeXG": 1.2,
-        "awayXG": 0.72,
+        "homeXG": 1.24,
+        "awayXG": 0.74,
         "predictedScore": "1-0",
-        "predictedScoreProb": 17.6,
+        "predictedScoreProb": 17.2,
         "outcomes": {
-          "homeWin": 47.4,
-          "draw": 30.4,
-          "awayWin": 22.2
+          "homeWin": 48.3,
+          "draw": 29.7,
+          "awayWin": 22
         },
         "topScores": [
           {
             "score": "1-0",
-            "probability": 17.6
+            "probability": 17.2
           },
           {
             "score": "0-0",
-            "probability": 14.7
+            "probability": 13.8
           },
           {
             "score": "1-1",
-            "probability": 12.7
-          },
-          {
-            "score": "0-1",
-            "probability": 10.6
+            "probability": 12.6
           },
           {
             "score": "2-0",
-            "probability": 10.5
+            "probability": 10.7
+          },
+          {
+            "score": "0-1",
+            "probability": 10.2
           }
         ],
         "factors": [
@@ -532,17 +397,17 @@
           "Rest: away team well rested (7 days)",
           "Home injuries: 4 out: Amenda (£3.9m, Calf injury - Unknown return date), Wright (£5.3m, Thigh injury - Unknown return date), Eccles (£4.8m, Ankle injury - Unknown return date) +1 more",
           "Away injuries: 1 out: Sessegnon (£4.3m, Suspended until 7 Nov)",
-          "Away injuries: 1 doubtful: Larsson (Groin injury - 25% chance of playing)",
-          "Weather: moderate wind (28 km/h)",
-          "Home motivation: close to relegation zone (17th)",
-          "Away motivation: relegation battle (18th of 20)",
+          "Away injuries: 1 doubtful: Smith Rowe (Knock - 75% chance of playing)",
+          "Weather: good conditions (12°C, wind 23km/h, rain 0.8mm)",
+          "Home motivation: relegation battle (18th of 20)",
+          "Away motivation: relegation battle (19th of 20)",
           "H2H: h2h favours home team (home 2W/0D/0L from 2)"
         ],
         "model": {
-          "homeAttackStr": 0.964,
-          "homeDefenceStr": 1.706,
-          "awayAttackStr": 0.328,
-          "awayDefenceStr": 0.668
+          "homeAttackStr": 0.969,
+          "homeDefenceStr": 1.712,
+          "awayAttackStr": 0.33,
+          "awayDefenceStr": 0.672
         }
       },
       "likelyScorers": {
@@ -551,21 +416,21 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 2.5,
-          "gamesSampled": 2
+          "avgCardsPerGame": 2,
+          "gamesSampled": 1
         },
         "away": {
           "avgCardsPerGame": 1,
-          "gamesSampled": 2
+          "gamesSampled": 1
         }
       },
       "weather": {
         "temp": 12,
         "feelsLike": 9,
-        "wind": 28,
-        "windGust": 61,
+        "wind": 23,
+        "windGust": 56,
         "rain": 0.8,
-        "humidity": 88,
+        "humidity": 87,
         "description": "Clear"
       },
       "injuries": {
@@ -601,18 +466,18 @@
         ],
         "away": [
           {
+            "player": "Smith Rowe",
+            "type": "Questionable",
+            "reason": "Knock - 75% chance of playing",
+            "importance": 0.17,
+            "cost": 5.3
+          },
+          {
             "player": "Sessegnon",
             "type": "Suspended",
             "reason": "Suspended until 7 Nov",
             "importance": 0.226,
             "cost": 4.3
-          },
-          {
-            "player": "Larsson",
-            "type": "Questionable",
-            "reason": "Groin injury - 25% chance of playing",
-            "importance": 0.161,
-            "cost": 5
           }
         ]
       },
@@ -653,31 +518,31 @@
         "points": 6
       },
       "prediction": {
-        "homeXG": 3.6,
-        "awayXG": 0.62,
+        "homeXG": 3.65,
+        "awayXG": 0.65,
         "predictedScore": "3-0",
-        "predictedScoreProb": 11.4,
+        "predictedScoreProb": 11,
         "outcomes": {
-          "homeWin": 82.5,
+          "homeWin": 82,
           "draw": 7.1,
-          "awayWin": 3.1
+          "awayWin": 3.2
         },
         "topScores": [
           {
             "score": "3-0",
-            "probability": 11.4
+            "probability": 11
           },
           {
             "score": "4-0",
-            "probability": 10.2
+            "probability": 10
           },
           {
             "score": "2-0",
-            "probability": 9.5
+            "probability": 9
           },
           {
             "score": "5-0",
-            "probability": 7.4
+            "probability": 7.3
           },
           {
             "score": "3-1",
@@ -687,20 +552,19 @@
         "factors": [
           "Venue: strong home fortress (67% win rate, 3.7 GPG at home)",
           "Rest: home team well rested (7 days)",
-          "Home injuries: 4 out: Martinez (£5m, Head injury - Unknown return date), James (£5.3m, Knee injury - Unknown return date), Gittens (£5.8m, Ankle injury - Unknown return date) +1 more",
-          "Home injuries: 2 doubtful: Gusto (Illness - 75% chance of playing), Chavarria (Unspecified injury - 75% chance of playing)",
-          "Away injuries: 7 out: Sávio (£6.5m, Muscular injury - Expected back 7 Nov), Bentancur (£5.4m, Suspended until 7 Nov), Pedro Porro (£5.3m, Hamstring injury - Expected back 24 Oct) +4 more",
-          "Away injuries: 4 doubtful: Tosin (Calf injury - 75% chance of playing), Marmoush (Calf injury - 75% chance of playing) +2 more",
-          "Weather: moderate wind (28 km/h)",
+          "Home injuries: 5 out: Martinez (£5m, Head injury - Unknown return date), Chavarria (£4.9m, Unspecified injury - Expected back 31 Oct), James (£5.2m, Knee injury - Unknown return date) +2 more",
+          "Away injuries: 7 out: Sávio (£6.5m, Muscular injury - Expected back 7 Nov), Bentancur (£5.4m, Suspended until 7 Nov), Bergvall (£5.3m, Knee injury - Expected back 31 Oct) +4 more",
+          "Away injuries: 1 doubtful: Maddison (Unspecified injury - 75% chance of playing)",
+          "Weather: good conditions (12°C, wind 23km/h, rain 0.8mm)",
           "Home motivation: playoff/European contention (4th)",
           "Away motivation: close to relegation zone (16th)",
           "H2H: h2h favours home team (home 7W/1D/1L from 9)"
         ],
         "model": {
-          "homeAttackStr": 2.257,
-          "homeDefenceStr": 1.39,
-          "awayAttackStr": 0.408,
-          "awayDefenceStr": 0.748
+          "homeAttackStr": 2.268,
+          "homeDefenceStr": 1.395,
+          "awayAttackStr": 0.409,
+          "awayDefenceStr": 0.752
         }
       },
       "likelyScorers": {
@@ -712,21 +576,21 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 2,
-          "gamesSampled": 3
+          "avgCardsPerGame": 2.5,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 1.3,
-          "gamesSampled": 3
+          "avgCardsPerGame": 1,
+          "gamesSampled": 2
         }
       },
       "weather": {
         "temp": 12,
         "feelsLike": 9,
-        "wind": 28,
-        "windGust": 61,
+        "wind": 23,
+        "windGust": 56,
         "rain": 0.8,
-        "humidity": 88,
+        "humidity": 87,
         "description": "Clear"
       },
       "injuries": {
@@ -742,15 +606,8 @@
             "player": "James",
             "type": "Missing Fixture",
             "reason": "Knee injury - Unknown return date",
-            "importance": 0.224,
-            "cost": 5.3
-          },
-          {
-            "player": "Gusto",
-            "type": "Questionable",
-            "reason": "Illness - 75% chance of playing",
-            "importance": 0.194,
-            "cost": 4.9
+            "importance": 0.222,
+            "cost": 5.2
           },
           {
             "player": "Gittens",
@@ -768,27 +625,13 @@
           },
           {
             "player": "Chavarria",
-            "type": "Questionable",
-            "reason": "Unspecified injury - 75% chance of playing",
+            "type": "Missing Fixture",
+            "reason": "Unspecified injury - Expected back 31 Oct",
             "importance": 0.244,
             "cost": 4.9
           }
         ],
         "away": [
-          {
-            "player": "Tosin",
-            "type": "Questionable",
-            "reason": "Calf injury - 75% chance of playing",
-            "importance": 0.142,
-            "cost": 4.4
-          },
-          {
-            "player": "Marmoush",
-            "type": "Questionable",
-            "reason": "Calf injury - 75% chance of playing",
-            "importance": 0.385,
-            "cost": 7
-          },
           {
             "player": "Sávio",
             "type": "Missing Fixture",
@@ -797,23 +640,9 @@
             "cost": 6.5
           },
           {
-            "player": "Pedro Porro",
-            "type": "Missing Fixture",
-            "reason": "Hamstring injury - Expected back 24 Oct",
-            "importance": 0.235,
-            "cost": 5.3
-          },
-          {
-            "player": "Robertson",
-            "type": "Questionable",
-            "reason": "Foot injury - 75% chance of playing",
-            "importance": 0.388,
-            "cost": 4.4
-          },
-          {
             "player": "Udogie",
-            "type": "Questionable",
-            "reason": "Knee injury - 75% chance of playing",
+            "type": "Missing Fixture",
+            "reason": "Knee injury - Unknown return date",
             "importance": 0.183,
             "cost": 4.4
           },
@@ -823,6 +652,13 @@
             "reason": "Knee injury - Unknown return date",
             "importance": 0.147,
             "cost": 5.9
+          },
+          {
+            "player": "Maddison",
+            "type": "Questionable",
+            "reason": "Unspecified injury - 75% chance of playing",
+            "importance": 0.301,
+            "cost": 6.2
           },
           {
             "player": "Bentancur",
@@ -892,13 +728,13 @@
       },
       "prediction": {
         "homeXG": 0.42,
-        "awayXG": 3.69,
+        "awayXG": 3.72,
         "predictedScore": "0-3",
         "predictedScoreProb": 13.7,
         "outcomes": {
-          "homeWin": 1.7,
-          "draw": 5.4,
-          "awayWin": 84.9
+          "homeWin": 1.6,
+          "draw": 5.2,
+          "awayWin": 84.8
         },
         "topScores": [
           {
@@ -907,19 +743,19 @@
           },
           {
             "score": "0-4",
-            "probability": 12.6
+            "probability": 12.8
           },
           {
             "score": "0-2",
-            "probability": 11.2
+            "probability": 11.1
           },
           {
             "score": "0-5",
-            "probability": 9.3
+            "probability": 9.5
           },
           {
             "score": "0-1",
-            "probability": 6.1
+            "probability": 5.9
           }
         ],
         "factors": [
@@ -927,20 +763,20 @@
           "Rest: home team well rested (8 days)",
           "Rest: away team well rested (7 days)",
           "Home injuries: 6 out: Szoboszlai (£6.8m, Hamstring injury - Unknown return date), Frimpong (£5.2m, Hamstring injury - Unknown return date), Ekitiké (£7.4m, Achilles injury - Unknown return date) +3 more",
-          "Home injuries: 1 doubtful: Munoz (Knee injury - 75% chance of playing)",
-          "Away injuries: 7 out: Wieffer (£4.8m, Knee injury - Unknown return date), Mitoma (£5.9m, Hamstring injury - Expected back 31 Oct), Minteh (£5.8m, Leg injury - Expected back 28 Nov) +4 more",
-          "Away injuries: 1 doubtful: Struijk (Hamstring injury - 75% chance of playing)",
-          "Weather: good conditions (12°C, wind 25km/h)",
+          "Home injuries: 1 doubtful: Munoz (Knee injury - 25% chance of playing)",
+          "Away injuries: 5 out: Mitoma (£5.9m, Hamstring injury - Expected back 31 Oct), Azeez (£5.5m, Hamstring injury - Expected back 31 Oct), Tzimas (£5.4m, Knee injury - Unknown return date) +2 more",
+          "Away injuries: 3 doubtful: Minteh (Leg injury - 50% chance of playing), Wieffer (Knee injury - 25% chance of playing) +1 more",
+          "Weather: moderate wind (26 km/h)",
           "Home motivation: playoff/European contention (5th)",
           "Away motivation: playoff/European contention (3th)",
           "Away motivation: strong recent form (WWWWDL)",
           "H2H: h2h balanced (home 3W/1D/3L, away 3W/1D/3L from 7)"
         ],
         "model": {
-          "homeAttackStr": 0.418,
-          "homeDefenceStr": 1.214,
-          "awayAttackStr": 2.475,
-          "awayDefenceStr": 0.661
+          "homeAttackStr": 0.42,
+          "homeDefenceStr": 1.218,
+          "awayAttackStr": 2.484,
+          "awayDefenceStr": 0.664
         }
       },
       "likelyScorers": {
@@ -959,17 +795,17 @@
           "gamesSampled": 3
         },
         "away": {
-          "avgCardsPerGame": 3,
-          "gamesSampled": 1
+          "avgCardsPerGame": 3.5,
+          "gamesSampled": 2
         }
       },
       "weather": {
         "temp": 12,
         "feelsLike": 10,
-        "wind": 25,
-        "windGust": 58,
+        "wind": 26,
+        "windGust": 59,
         "rain": 0,
-        "humidity": 54,
+        "humidity": 52,
         "description": "Clear"
       },
       "injuries": {
@@ -999,8 +835,8 @@
             "player": "Leoni",
             "type": "Missing Fixture",
             "reason": "Knee injury - Unknown return date",
-            "importance": 0.1,
-            "cost": 4
+            "importance": 0.098,
+            "cost": 3.9
           },
           {
             "player": "Szoboszlai",
@@ -1012,7 +848,7 @@
           {
             "player": "Munoz",
             "type": "Questionable",
-            "reason": "Knee injury - 75% chance of playing",
+            "reason": "Knee injury - 25% chance of playing",
             "importance": 0.461,
             "cost": 6.5
           },
@@ -1034,15 +870,15 @@
           },
           {
             "player": "Minteh",
-            "type": "Missing Fixture",
-            "reason": "Leg injury - Expected back 28 Nov",
+            "type": "Questionable",
+            "reason": "Leg injury - 50% chance of playing",
             "importance": 0.145,
             "cost": 5.8
           },
           {
             "player": "Wieffer",
-            "type": "Missing Fixture",
-            "reason": "Knee injury - Unknown return date",
+            "type": "Questionable",
+            "reason": "Knee injury - 25% chance of playing",
             "importance": 0.204,
             "cost": 4.8
           },
@@ -1120,23 +956,23 @@
         "points": 8
       },
       "prediction": {
-        "homeXG": 4.23,
-        "awayXG": 2.14,
+        "homeXG": 4.14,
+        "awayXG": 2.13,
         "predictedScore": "4-2",
-        "predictedScoreProb": 5.2,
+        "predictedScoreProb": 5.3,
         "outcomes": {
-          "homeWin": 60.1,
-          "draw": 11.6,
-          "awayWin": 14.1
+          "homeWin": 60.2,
+          "draw": 12,
+          "awayWin": 14.7
         },
         "topScores": [
           {
             "score": "4-2",
-            "probability": 5.2
+            "probability": 5.3
           },
           {
             "score": "3-2",
-            "probability": 4.9
+            "probability": 5.1
           },
           {
             "score": "4-1",
@@ -1144,7 +980,7 @@
           },
           {
             "score": "3-1",
-            "probability": 4.6
+            "probability": 4.8
           },
           {
             "score": "5-2",
@@ -1156,19 +992,20 @@
           "Rest: home team well rested (7 days)",
           "Rest: away team well rested (8 days)",
           "Home injuries: 2 out: Tomiyasu (£4.4m, Calf injury - Expected back 8 Nov), Chadi Riad (£4.3m, Knee injury - Unknown return date)",
-          "Home injuries: 2 doubtful: Henderson (Foot injury - 50% chance of playing), Timber (Hamstring injury - 75% chance of playing)",
-          "Away injuries: 4 out: Elanga (£6m, Unspecified injury - Expected back 25 Oct), J.Ramsey (£4.8m, Thigh injury - Unknown return date), Livramento (£4.9m, Knee injury - Expected back 7 Nov) +1 more",
-          "Weather: good conditions (12°C, wind 25km/h)",
+          "Home injuries: 3 doubtful: Henderson (Foot injury - 50% chance of playing), Strand Larsen (Unspecified injury - 75% chance of playing) +1 more",
+          "Away injuries: 3 out: J.Ramsey (£4.8m, Thigh injury - Unknown return date), Livramento (£4.9m, Knee injury - Expected back 7 Nov), Jaouen (£4.4m, Hamstring injury - Unknown return date)",
+          "Away injuries: 2 doubtful: Elanga (Hamstring injury - 75% chance of playing), Fernandez-Pardo (Illness - 75% chance of playing)",
+          "Weather: moderate wind (26 km/h)",
           "Home motivation: mid-table (14th)",
           "Away motivation: mid-table (11th)",
           "Away motivation: poor recent form (LLWLDW)",
           "H2H: h2h balanced (home 2W/3D/4L, away 4W/3D/2L from 9)"
         ],
         "model": {
-          "homeAttackStr": 1.272,
-          "homeDefenceStr": 1.901,
-          "awayAttackStr": 0.944,
-          "awayDefenceStr": 1.768
+          "homeAttackStr": 1.278,
+          "homeDefenceStr": 1.908,
+          "awayAttackStr": 0.947,
+          "awayDefenceStr": 1.777
         }
       },
       "likelyScorers": {
@@ -1177,8 +1014,8 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 0,
-          "gamesSampled": 1
+          "avgCardsPerGame": 0.5,
+          "gamesSampled": 2
         },
         "away": {
           "avgCardsPerGame": 1.7,
@@ -1188,10 +1025,10 @@
       "weather": {
         "temp": 12,
         "feelsLike": 10,
-        "wind": 25,
-        "windGust": 58,
+        "wind": 26,
+        "windGust": 59,
         "rain": 0,
-        "humidity": 54,
+        "humidity": 52,
         "description": "Clear"
       },
       "injuries": {
@@ -1209,6 +1046,13 @@
             "reason": "Knee injury - Unknown return date",
             "importance": 0.12,
             "cost": 4.3
+          },
+          {
+            "player": "Strand Larsen",
+            "type": "Questionable",
+            "reason": "Unspecified injury - 75% chance of playing",
+            "importance": 0.388,
+            "cost": 6
           },
           {
             "player": "Tomiyasu",
@@ -1242,8 +1086,8 @@
           },
           {
             "player": "Elanga",
-            "type": "Missing Fixture",
-            "reason": "Unspecified injury - Expected back 25 Oct",
+            "type": "Questionable",
+            "reason": "Hamstring injury - 75% chance of playing",
             "importance": 0.355,
             "cost": 6
           },
@@ -1253,6 +1097,13 @@
             "reason": "Thigh injury - Unknown return date",
             "importance": 0.196,
             "cost": 4.8
+          },
+          {
+            "player": "Fernandez-Pardo",
+            "type": "Questionable",
+            "reason": "Illness - 75% chance of playing",
+            "importance": 0.236,
+            "cost": 6
           }
         ]
       },
@@ -1293,55 +1144,55 @@
         "points": 6
       },
       "prediction": {
-        "homeXG": 3.82,
-        "awayXG": 1.19,
+        "homeXG": 3.78,
+        "awayXG": 1.15,
         "predictedScore": "3-1",
-        "predictedScoreProb": 7.4,
+        "predictedScoreProb": 7.5,
         "outcomes": {
-          "homeWin": 74.2,
-          "draw": 9.4,
-          "awayWin": 7
+          "homeWin": 74.8,
+          "draw": 9.5,
+          "awayWin": 6.8
         },
         "topScores": [
           {
             "score": "3-1",
-            "probability": 7.4
+            "probability": 7.5
           },
           {
             "score": "4-1",
-            "probability": 7
+            "probability": 7.1
           },
           {
             "score": "3-0",
-            "probability": 6.2
+            "probability": 6.5
           },
           {
             "score": "4-0",
-            "probability": 5.9
+            "probability": 6.1
           },
           {
             "score": "2-1",
-            "probability": 5.8
+            "probability": 5.9
           }
         ],
         "factors": [
           "Venue: 33% home win rate",
           "Rest: home team well rested (7 days)",
           "Rest: away team well rested (7 days)",
-          "Home injuries: 5 out: Mainoo (£5.5m, Unspecified injury - Expected back 8 Nov), Shaw (£4.3m, Unspecified injury - Unknown return date), Dorgu (£5.7m, Hamstring injury - Expected back 25 Oct) +2 more",
-          "Home injuries: 3 doubtful: Martinez (Thigh injury - 75% chance of playing), Heaven (Illness - 75% chance of playing) +1 more",
-          "Away injuries: 3 out: Scott (£6m, Thigh injury - Expected back 8 Nov), Milosavljević (£4.9m, Thigh injury - Expected back 8 Nov), J.Araujo (£4.4m, Thigh injury - Unknown return date)",
-          "Away injuries: 1 doubtful: Kroupi.Jr (Foot injury - 50% chance of playing)",
-          "Weather: good conditions (12°C, wind 25km/h)",
+          "Home injuries: 5 out: Mainoo (£5.5m, Unspecified injury - Expected back 8 Nov), Shaw (£4.2m, Unspecified injury - Unknown return date), Dorgu (£5.7m, Hamstring injury - Expected back 25 Oct) +2 more",
+          "Home injuries: 2 doubtful: Martinez (Thigh injury - 75% chance of playing), Rashford (Hip injury - 75% chance of playing)",
+          "Away injuries: 4 out: Scott (£6m, Thigh injury - Expected back 8 Nov), Tóth.A (£4.9m, Hamstring injury - Unknown return date), Milosavljević (£4.9m, Thigh injury - Expected back 31 Oct) +1 more",
+          "Away injuries: 1 doubtful: Kroupi.Jr (Foot injury - 75% chance of playing)",
+          "Weather: moderate wind (26 km/h)",
           "Home motivation: mid-table (13th)",
           "Away motivation: close to relegation zone (15th)",
           "H2H: h2h balanced (home 3W/4D/2L, away 2W/4D/3L from 9)"
         ],
         "model": {
-          "homeAttackStr": 1.109,
-          "homeDefenceStr": 0.953,
-          "awayAttackStr": 0.996,
-          "awayDefenceStr": 1.971
+          "homeAttackStr": 1.114,
+          "homeDefenceStr": 0.957,
+          "awayAttackStr": 0.999,
+          "awayDefenceStr": 1.981
         }
       },
       "likelyScorers": {
@@ -1360,17 +1211,17 @@
           "gamesSampled": 3
         },
         "away": {
-          "avgCardsPerGame": 2.5,
-          "gamesSampled": 2
+          "avgCardsPerGame": 3.3,
+          "gamesSampled": 3
         }
       },
       "weather": {
         "temp": 12,
         "feelsLike": 10,
-        "wind": 25,
-        "windGust": 58,
+        "wind": 26,
+        "windGust": 59,
         "rain": 0,
-        "humidity": 54,
+        "humidity": 52,
         "description": "Clear"
       },
       "injuries": {
@@ -1390,18 +1241,11 @@
             "cost": 4.9
           },
           {
-            "player": "Heaven",
-            "type": "Questionable",
-            "reason": "Illness - 75% chance of playing",
-            "importance": 0.131,
-            "cost": 4.3
-          },
-          {
             "player": "Shaw",
             "type": "Missing Fixture",
             "reason": "Unspecified injury - Unknown return date",
-            "importance": 0.295,
-            "cost": 4.3
+            "importance": 0.292,
+            "cost": 4.2
           },
           {
             "player": "Rashford",
@@ -1436,7 +1280,7 @@
           {
             "player": "Milosavljević",
             "type": "Missing Fixture",
-            "reason": "Thigh injury - Expected back 8 Nov",
+            "reason": "Thigh injury - Expected back 31 Oct",
             "importance": 0.123,
             "cost": 4.9
           },
@@ -1455,9 +1299,16 @@
             "cost": 6
           },
           {
+            "player": "Tóth.A",
+            "type": "Missing Fixture",
+            "reason": "Hamstring injury - Unknown return date",
+            "importance": 0.136,
+            "cost": 4.9
+          },
+          {
             "player": "Kroupi.Jr",
             "type": "Questionable",
-            "reason": "Foot injury - 50% chance of playing",
+            "reason": "Foot injury - 75% chance of playing",
             "importance": 0.182,
             "cost": 7.3
           }
@@ -1487,7 +1338,7 @@
         "fullName": "Hull City AFC",
         "crest": "https://crests.football-data.org/322.png",
         "form": "LDLDDW",
-        "rank": 9,
+        "rank": 10,
         "points": 9
       },
       "awayTeam": {
@@ -1500,27 +1351,27 @@
         "points": 10
       },
       "prediction": {
-        "homeXG": 1.5,
-        "awayXG": 1.08,
+        "homeXG": 1.48,
+        "awayXG": 1.06,
         "predictedScore": "1-1",
-        "predictedScoreProb": 12.3,
+        "predictedScoreProb": 12.4,
         "outcomes": {
-          "homeWin": 46.9,
-          "draw": 25.8,
-          "awayWin": 27.2
+          "homeWin": 46.7,
+          "draw": 26.1,
+          "awayWin": 27.1
         },
         "topScores": [
           {
             "score": "1-1",
-            "probability": 12.3
+            "probability": 12.4
           },
           {
             "score": "1-0",
-            "probability": 11.4
+            "probability": 11.7
           },
           {
             "score": "2-1",
-            "probability": 9.2
+            "probability": 9.1
           },
           {
             "score": "2-0",
@@ -1528,7 +1379,7 @@
           },
           {
             "score": "0-1",
-            "probability": 8.2
+            "probability": 8.4
           }
         ],
         "factors": [
@@ -1536,20 +1387,20 @@
           "Rest: home team well rested (8 days)",
           "Rest: away team well rested (8 days)",
           "Home injuries: 7 out: Mendy (£4.1m, Groin injury - Expected back 31 Oct), Ansah (£4.9m, Back injury - Unknown return date), Matazo (£4.5m, Knee injury - Unknown return date) +4 more",
-          "Home injuries: 3 doubtful: Gourna-Douath (Calf injury - 50% chance of playing), Cho (Unspecified injury - 50% chance of playing) +1 more",
+          "Home injuries: 3 doubtful: Gourna-Douath (Calf injury - 75% chance of playing), Cho (Unspecified injury - 75% chance of playing) +1 more",
           "Away injuries: 5 out: Janelt (£5m, Suspended until 31 Oct), Yarmoliuk (£4.8m, Suspended until 8 Nov), Milambo (£5m, Knee injury - Unknown return date) +2 more",
           "Away injuries: 1 doubtful: Schuster (Ankle injury - 75% chance of playing)",
-          "Weather: good conditions (12°C, wind 25km/h)",
-          "Home motivation: mid-table (9th)",
+          "Weather: moderate wind (26 km/h)",
+          "Home motivation: mid-table (10th)",
           "Home motivation: poor recent form (LDLDDW)",
           "Away motivation: playoff/European contention (6th)",
           "H2H: h2h favours away team (away 1W/0D/0L from 1)"
         ],
         "model": {
-          "homeAttackStr": 0.827,
-          "homeDefenceStr": 0.668,
-          "awayAttackStr": 1.278,
-          "awayDefenceStr": 1.079
+          "homeAttackStr": 0.831,
+          "homeDefenceStr": 0.671,
+          "awayAttackStr": 1.283,
+          "awayDefenceStr": 1.085
         }
       },
       "likelyScorers": {
@@ -1575,10 +1426,10 @@
       "weather": {
         "temp": 12,
         "feelsLike": 10,
-        "wind": 25,
-        "windGust": 58,
+        "wind": 26,
+        "windGust": 59,
         "rain": 0,
-        "humidity": 54,
+        "humidity": 52,
         "description": "Clear"
       },
       "injuries": {
@@ -1628,14 +1479,14 @@
           {
             "player": "Gourna-Douath",
             "type": "Questionable",
-            "reason": "Calf injury - 50% chance of playing",
+            "reason": "Calf injury - 75% chance of playing",
             "importance": 0.179,
             "cost": 4.9
           },
           {
             "player": "Cho",
             "type": "Questionable",
-            "reason": "Unspecified injury - 50% chance of playing",
+            "reason": "Unspecified injury - 75% chance of playing",
             "importance": 0.254,
             "cost": 5
           },
@@ -1736,35 +1587,35 @@
         "points": 10
       },
       "prediction": {
-        "homeXG": 0.31,
-        "awayXG": 1.12,
+        "homeXG": 0.3,
+        "awayXG": 1.08,
         "predictedScore": "0-1",
-        "predictedScoreProb": 26.9,
+        "predictedScoreProb": 27.1,
         "outcomes": {
-          "homeWin": 10.1,
-          "draw": 33,
-          "awayWin": 56.9
+          "homeWin": 10.3,
+          "draw": 33.9,
+          "awayWin": 55.9
         },
         "topScores": [
           {
             "score": "0-1",
-            "probability": 26.9
+            "probability": 27.1
           },
           {
             "score": "0-0",
-            "probability": 24
+            "probability": 25
           },
           {
             "score": "0-2",
-            "probability": 15
+            "probability": 14.7
           },
           {
             "score": "1-1",
-            "probability": 8.3
+            "probability": 8.2
           },
           {
             "score": "1-0",
-            "probability": 7.4
+            "probability": 7.5
           }
         ],
         "factors": [
@@ -1774,18 +1625,18 @@
           "Home injuries: 3 out: Ballard (£4.8m, Hamstring injury - Unknown return date), Danso (£5m, Suspended until 31 Oct), Mundle (£4.8m, Knee injury - Unknown return date)",
           "Home injuries: 3 doubtful: Meunier (Groin injury - 75% chance of playing), Brobbey (Hamstring injury - 75% chance of playing) +1 more",
           "Away injuries: 2 out: Rodon (£4.3m, Hamstring injury - Expected back 21 Nov), Mateo Joseph (£4.5m, Knee injury - Unknown return date)",
-          "Away injuries: 1 doubtful: James (Back injury - 50% chance of playing)",
-          "Weather: good conditions (12°C, wind 25km/h)",
+          "Away injuries: 3 doubtful: Stach (Foot injury - 50% chance of playing), Okafor (Thigh injury - 50% chance of playing) +1 more",
+          "Weather: moderate wind (26 km/h)",
           "Home motivation: relegation battle (20th of 20)",
           "Home motivation: poor recent form (LLLLDW)",
           "Away motivation: mid-table (7th)",
           "H2H: h2h balanced (home 2W/3D/1L, away 1W/3D/2L from 6)"
         ],
         "model": {
-          "homeAttackStr": 0.227,
-          "homeDefenceStr": 1.145,
-          "awayAttackStr": 0.77,
-          "awayDefenceStr": 0.745
+          "homeAttackStr": 0.228,
+          "homeDefenceStr": 1.15,
+          "awayAttackStr": 0.773,
+          "awayDefenceStr": 0.749
         }
       },
       "likelyScorers": {
@@ -1800,8 +1651,8 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 1.5,
-          "gamesSampled": 2
+          "avgCardsPerGame": 2.3,
+          "gamesSampled": 3
         },
         "away": {
           "avgCardsPerGame": 1.3,
@@ -1811,10 +1662,10 @@
       "weather": {
         "temp": 12,
         "feelsLike": 10,
-        "wind": 25,
-        "windGust": 58,
+        "wind": 26,
+        "windGust": 59,
         "rain": 0,
-        "humidity": 54,
+        "humidity": 52,
         "description": "Clear"
       },
       "injuries": {
@@ -1858,8 +1709,8 @@
             "player": "Isidor",
             "type": "Questionable",
             "reason": "Knock - 50% chance of playing",
-            "importance": 0.28,
-            "cost": 5.5
+            "importance": 0.278,
+            "cost": 5.4
           }
         ],
         "away": [
@@ -1871,11 +1722,25 @@
             "cost": 4.3
           },
           {
-            "player": "James",
+            "player": "Stach",
             "type": "Questionable",
-            "reason": "Back injury - 50% chance of playing",
-            "importance": 0.15,
-            "cost": 4.9
+            "reason": "Foot injury - 50% chance of playing",
+            "importance": 0.527,
+            "cost": 6
+          },
+          {
+            "player": "Okafor",
+            "type": "Questionable",
+            "reason": "Thigh injury - 50% chance of playing",
+            "importance": 0.36,
+            "cost": 5.8
+          },
+          {
+            "player": "Calvert-Lewin",
+            "type": "Questionable",
+            "reason": "Foot injury - 50% chance of playing",
+            "importance": 0.535,
+            "cost": 6.1
           },
           {
             "player": "Mateo Joseph",
@@ -1923,14 +1788,14 @@
         "points": 7
       },
       "prediction": {
-        "homeXG": 4.17,
-        "awayXG": 1.28,
+        "homeXG": 4.14,
+        "awayXG": 1.29,
         "predictedScore": "4-1",
         "predictedScoreProb": 6.9,
         "outcomes": {
-          "homeWin": 72.4,
-          "draw": 8.4,
-          "awayWin": 6.3
+          "homeWin": 72.3,
+          "draw": 8.5,
+          "awayWin": 6.5
         },
         "topScores": [
           {
@@ -1943,7 +1808,7 @@
           },
           {
             "score": "5-1",
-            "probability": 5.8
+            "probability": 5.7
           },
           {
             "score": "4-0",
@@ -1958,20 +1823,19 @@
           "Venue: strong home fortress (67% win rate, 3.7 GPG at home)",
           "Rest: home team well rested (14 days)",
           "Rest: away team well rested (13 days)",
-          "Home injuries: 4 out: Martinez (£5m, Head injury - Unknown return date), James (£5.3m, Knee injury - Unknown return date), Gittens (£5.8m, Ankle injury - Unknown return date) +1 more",
-          "Home injuries: 2 doubtful: Gusto (Illness - 75% chance of playing), Chavarria (Unspecified injury - 75% chance of playing)",
-          "Away injuries: 5 out: Mainoo (£5.5m, Unspecified injury - Expected back 8 Nov), Shaw (£4.3m, Unspecified injury - Unknown return date), Dorgu (£5.7m, Hamstring injury - Expected back 25 Oct) +2 more",
-          "Away injuries: 3 doubtful: Martinez (Thigh injury - 75% chance of playing), Heaven (Illness - 75% chance of playing) +1 more",
+          "Home injuries: 5 out: Martinez (£5m, Head injury - Unknown return date), Chavarria (£4.9m, Unspecified injury - Expected back 31 Oct), James (£5.2m, Knee injury - Unknown return date) +2 more",
+          "Away injuries: 5 out: Mainoo (£5.5m, Unspecified injury - Expected back 8 Nov), Shaw (£4.2m, Unspecified injury - Unknown return date), Dorgu (£5.7m, Hamstring injury - Expected back 25 Oct) +2 more",
+          "Away injuries: 2 doubtful: Martinez (Thigh injury - 75% chance of playing), Rashford (Hip injury - 75% chance of playing)",
           "Weather: no weather data",
           "Home motivation: playoff/European contention (4th)",
           "Away motivation: mid-table (13th)",
           "H2H: h2h balanced (home 2W/4D/4L, away 4W/4D/2L from 10)"
         ],
         "model": {
-          "homeAttackStr": 2.257,
-          "homeDefenceStr": 1.39,
-          "awayAttackStr": 0.785,
-          "awayDefenceStr": 0.883
+          "homeAttackStr": 2.268,
+          "homeDefenceStr": 1.395,
+          "awayAttackStr": 0.788,
+          "awayDefenceStr": 0.888
         }
       },
       "likelyScorers": {
@@ -1986,8 +1850,8 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 2,
-          "gamesSampled": 3
+          "avgCardsPerGame": 2.5,
+          "gamesSampled": 2
         },
         "away": {
           "avgCardsPerGame": 1.7,
@@ -2008,15 +1872,8 @@
             "player": "James",
             "type": "Missing Fixture",
             "reason": "Knee injury - Unknown return date",
-            "importance": 0.224,
-            "cost": 5.3
-          },
-          {
-            "player": "Gusto",
-            "type": "Questionable",
-            "reason": "Illness - 75% chance of playing",
-            "importance": 0.194,
-            "cost": 4.9
+            "importance": 0.222,
+            "cost": 5.2
           },
           {
             "player": "Gittens",
@@ -2034,8 +1891,8 @@
           },
           {
             "player": "Chavarria",
-            "type": "Questionable",
-            "reason": "Unspecified injury - 75% chance of playing",
+            "type": "Missing Fixture",
+            "reason": "Unspecified injury - Expected back 31 Oct",
             "importance": 0.244,
             "cost": 4.9
           }
@@ -2056,18 +1913,11 @@
             "cost": 4.9
           },
           {
-            "player": "Heaven",
-            "type": "Questionable",
-            "reason": "Illness - 75% chance of playing",
-            "importance": 0.131,
-            "cost": 4.3
-          },
-          {
             "player": "Shaw",
             "type": "Missing Fixture",
             "reason": "Unspecified injury - Unknown return date",
-            "importance": 0.295,
-            "cost": 4.3
+            "importance": 0.292,
+            "cost": 4.2
           },
           {
             "player": "Rashford",
@@ -2136,34 +1986,34 @@
         "points": 16
       },
       "prediction": {
-        "homeXG": 2.78,
-        "awayXG": 3.53,
+        "homeXG": 2.79,
+        "awayXG": 3.64,
         "predictedScore": "2-3",
-        "predictedScoreProb": 5.2,
+        "predictedScoreProb": 5,
         "outcomes": {
-          "homeWin": 28.4,
-          "draw": 15.5,
-          "awayWin": 47.1
+          "homeWin": 27.3,
+          "draw": 15.2,
+          "awayWin": 47.7
         },
         "topScores": [
           {
             "score": "2-3",
-            "probability": 5.2
+            "probability": 5
           },
           {
             "score": "3-3",
-            "probability": 4.8
+            "probability": 4.7
           },
           {
             "score": "2-4",
-            "probability": 4.5
-          },
-          {
-            "score": "2-2",
-            "probability": 4.4
+            "probability": 4.6
           },
           {
             "score": "3-4",
+            "probability": 4.3
+          },
+          {
+            "score": "2-2",
             "probability": 4.2
           }
         ],
@@ -2171,10 +2021,10 @@
           "Venue: strong home fortress (100% win rate, 2.8 GPG at home)",
           "Rest: home team well rested (14 days)",
           "Rest: away team well rested (13 days)",
-          "Home injuries: 1 out: Semenyo (£8.3m, Knee injury - Unknown return date)",
+          "Home injuries: 1 out: Semenyo (£8.2m, Knee injury - Unknown return date)",
           "Home injuries: 3 doubtful: O'Reilly (Back injury - 75% chance of playing), Matheus N. (Unspecified injury - 75% chance of playing) +1 more",
-          "Away injuries: 7 out: Wieffer (£4.8m, Knee injury - Unknown return date), Mitoma (£5.9m, Hamstring injury - Expected back 31 Oct), Minteh (£5.8m, Leg injury - Expected back 28 Nov) +4 more",
-          "Away injuries: 1 doubtful: Struijk (Hamstring injury - 75% chance of playing)",
+          "Away injuries: 5 out: Mitoma (£5.9m, Hamstring injury - Expected back 31 Oct), Azeez (£5.5m, Hamstring injury - Expected back 31 Oct), Tzimas (£5.4m, Knee injury - Unknown return date) +2 more",
+          "Away injuries: 3 doubtful: Minteh (Leg injury - 50% chance of playing), Wieffer (Knee injury - 25% chance of playing) +1 more",
           "Weather: no weather data",
           "Home motivation: title/promotion contender (1st)",
           "Home motivation: strong recent form (WWWWWW)",
@@ -2183,10 +2033,10 @@
           "H2H: h2h balanced (home 5W/3D/2L, away 2W/3D/5L from 10)"
         ],
         "model": {
-          "homeAttackStr": 1.875,
-          "homeDefenceStr": 1.163,
-          "awayAttackStr": 2.475,
-          "awayDefenceStr": 0.661
+          "homeAttackStr": 1.884,
+          "homeDefenceStr": 1.167,
+          "awayAttackStr": 2.484,
+          "awayDefenceStr": 0.664
         }
       },
       "likelyScorers": {
@@ -2202,11 +2052,11 @@
       "discipline": {
         "home": {
           "avgCardsPerGame": 2,
-          "gamesSampled": 3
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 3,
-          "gamesSampled": 1
+          "avgCardsPerGame": 3.5,
+          "gamesSampled": 2
         }
       },
       "weather": null,
@@ -2230,8 +2080,8 @@
             "player": "Semenyo",
             "type": "Missing Fixture",
             "reason": "Knee injury - Unknown return date",
-            "importance": 0.661,
-            "cost": 8.3
+            "importance": 0.658,
+            "cost": 8.2
           },
           {
             "player": "Kovačić",
@@ -2251,15 +2101,15 @@
           },
           {
             "player": "Minteh",
-            "type": "Missing Fixture",
-            "reason": "Leg injury - Expected back 28 Nov",
+            "type": "Questionable",
+            "reason": "Leg injury - 50% chance of playing",
             "importance": 0.145,
             "cost": 5.8
           },
           {
             "player": "Wieffer",
-            "type": "Missing Fixture",
-            "reason": "Knee injury - Unknown return date",
+            "type": "Questionable",
+            "reason": "Knee injury - 25% chance of playing",
             "importance": 0.204,
             "cost": 4.8
           },
@@ -2337,23 +2187,23 @@
         "points": 10
       },
       "prediction": {
-        "homeXG": 1.1,
-        "awayXG": 0.79,
+        "homeXG": 1.09,
+        "awayXG": 0.78,
         "predictedScore": "1-0",
-        "predictedScoreProb": 16.7,
+        "predictedScoreProb": 16.8,
         "outcomes": {
-          "homeWin": 42.6,
-          "draw": 31.4,
-          "awayWin": 26
+          "homeWin": 42.4,
+          "draw": 31.6,
+          "awayWin": 25.9
         },
         "topScores": [
           {
             "score": "1-0",
-            "probability": 16.7
+            "probability": 16.8
           },
           {
             "score": "0-0",
-            "probability": 15.2
+            "probability": 15.5
           },
           {
             "score": "1-1",
@@ -2361,31 +2211,31 @@
           },
           {
             "score": "0-1",
-            "probability": 11.9
+            "probability": 12.1
           },
           {
             "score": "2-0",
-            "probability": 9.2
+            "probability": 9.1
           }
         ],
         "factors": [
           "Venue: weak home record (25% win rate at home)",
           "Rest: home team well rested (13 days)",
           "Rest: away team well rested (13 days)",
-          "Home injuries: 3 out: Scott (£6m, Thigh injury - Expected back 8 Nov), Milosavljević (£4.9m, Thigh injury - Expected back 8 Nov), J.Araujo (£4.4m, Thigh injury - Unknown return date)",
-          "Home injuries: 1 doubtful: Kroupi.Jr (Foot injury - 50% chance of playing)",
+          "Home injuries: 4 out: Scott (£6m, Thigh injury - Expected back 8 Nov), Tóth.A (£4.9m, Hamstring injury - Unknown return date), Milosavljević (£4.9m, Thigh injury - Expected back 31 Oct) +1 more",
+          "Home injuries: 1 doubtful: Kroupi.Jr (Foot injury - 75% chance of playing)",
           "Away injuries: 2 out: Rodon (£4.3m, Hamstring injury - Expected back 21 Nov), Mateo Joseph (£4.5m, Knee injury - Unknown return date)",
-          "Away injuries: 1 doubtful: James (Back injury - 50% chance of playing)",
+          "Away injuries: 3 doubtful: Stach (Foot injury - 50% chance of playing), Okafor (Thigh injury - 50% chance of playing) +1 more",
           "Weather: no weather data",
           "Home motivation: close to relegation zone (15th)",
           "Away motivation: mid-table (7th)",
           "H2H: h2h balanced (home 1W/2D/1L, away 1W/2D/1L from 4)"
         ],
         "model": {
-          "homeAttackStr": 0.82,
-          "homeDefenceStr": 0.805,
-          "awayAttackStr": 0.77,
-          "awayDefenceStr": 0.745
+          "homeAttackStr": 0.824,
+          "homeDefenceStr": 0.808,
+          "awayAttackStr": 0.773,
+          "awayDefenceStr": 0.749
         }
       },
       "likelyScorers": {
@@ -2400,8 +2250,8 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 2.5,
-          "gamesSampled": 2
+          "avgCardsPerGame": 3.3,
+          "gamesSampled": 3
         },
         "away": {
           "avgCardsPerGame": 1.3,
@@ -2414,7 +2264,7 @@
           {
             "player": "Milosavljević",
             "type": "Missing Fixture",
-            "reason": "Thigh injury - Expected back 8 Nov",
+            "reason": "Thigh injury - Expected back 31 Oct",
             "importance": 0.123,
             "cost": 4.9
           },
@@ -2433,9 +2283,16 @@
             "cost": 6
           },
           {
+            "player": "Tóth.A",
+            "type": "Missing Fixture",
+            "reason": "Hamstring injury - Unknown return date",
+            "importance": 0.136,
+            "cost": 4.9
+          },
+          {
             "player": "Kroupi.Jr",
             "type": "Questionable",
-            "reason": "Foot injury - 50% chance of playing",
+            "reason": "Foot injury - 75% chance of playing",
             "importance": 0.182,
             "cost": 7.3
           }
@@ -2449,11 +2306,25 @@
             "cost": 4.3
           },
           {
-            "player": "James",
+            "player": "Stach",
             "type": "Questionable",
-            "reason": "Back injury - 50% chance of playing",
-            "importance": 0.15,
-            "cost": 4.9
+            "reason": "Foot injury - 50% chance of playing",
+            "importance": 0.527,
+            "cost": 6
+          },
+          {
+            "player": "Okafor",
+            "type": "Questionable",
+            "reason": "Thigh injury - 50% chance of playing",
+            "importance": 0.36,
+            "cost": 5.8
+          },
+          {
+            "player": "Calvert-Lewin",
+            "type": "Questionable",
+            "reason": "Foot injury - 50% chance of playing",
+            "importance": 0.535,
+            "cost": 6.1
           },
           {
             "player": "Mateo Joseph",
@@ -2488,7 +2359,7 @@
         "fullName": "Coventry City FC",
         "crest": "https://crests.football-data.org/1076.png",
         "form": "LWWLLL",
-        "rank": 17,
+        "rank": 18,
         "points": 6
       },
       "awayTeam": {
@@ -2501,35 +2372,35 @@
         "points": 4
       },
       "prediction": {
-        "homeXG": 2.96,
+        "homeXG": 3.01,
         "awayXG": 1.81,
-        "predictedScore": "2-1",
-        "predictedScoreProb": 6.7,
+        "predictedScore": "3-1",
+        "predictedScoreProb": 6.6,
         "outcomes": {
-          "homeWin": 58.3,
-          "draw": 16.6,
-          "awayWin": 21.7
+          "homeWin": 58.7,
+          "draw": 16.4,
+          "awayWin": 21.2
         },
         "topScores": [
-          {
-            "score": "2-1",
-            "probability": 6.7
-          },
           {
             "score": "3-1",
             "probability": 6.6
           },
           {
-            "score": "2-2",
-            "probability": 6.1
+            "score": "2-1",
+            "probability": 6.6
           },
           {
             "score": "3-2",
             "probability": 6
           },
           {
+            "score": "2-2",
+            "probability": 6
+          },
+          {
             "score": "4-1",
-            "probability": 4.9
+            "probability": 5
           }
         ],
         "factors": [
@@ -2540,16 +2411,16 @@
           "Away injuries: 3 out: Ballard (£4.8m, Hamstring injury - Unknown return date), Danso (£5m, Suspended until 31 Oct), Mundle (£4.8m, Knee injury - Unknown return date)",
           "Away injuries: 3 doubtful: Meunier (Groin injury - 75% chance of playing), Brobbey (Hamstring injury - 75% chance of playing) +1 more",
           "Weather: no weather data",
-          "Home motivation: close to relegation zone (17th)",
+          "Home motivation: relegation battle (18th of 20)",
           "Away motivation: relegation battle (20th of 20)",
           "Away motivation: poor recent form (LLLLDW)",
           "H2H: h2h balanced (home 3W/4D/1L, away 1W/4D/3L from 8)"
         ],
         "model": {
-          "homeAttackStr": 0.964,
-          "homeDefenceStr": 1.706,
-          "awayAttackStr": 0.87,
-          "awayDefenceStr": 1.647
+          "homeAttackStr": 0.969,
+          "homeDefenceStr": 1.712,
+          "awayAttackStr": 0.873,
+          "awayDefenceStr": 1.655
         }
       },
       "likelyScorers": {
@@ -2561,12 +2432,12 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 2.5,
-          "gamesSampled": 2
+          "avgCardsPerGame": 2,
+          "gamesSampled": 1
         },
         "away": {
-          "avgCardsPerGame": 1.5,
-          "gamesSampled": 2
+          "avgCardsPerGame": 2.3,
+          "gamesSampled": 3
         }
       },
       "weather": null,
@@ -2641,8 +2512,8 @@
             "player": "Isidor",
             "type": "Questionable",
             "reason": "Knock - 50% chance of playing",
-            "importance": 0.28,
-            "cost": 5.5
+            "importance": 0.278,
+            "cost": 5.4
           }
         ]
       },
@@ -2670,7 +2541,7 @@
         "fullName": "Hull City AFC",
         "crest": "https://crests.football-data.org/322.png",
         "form": "LDLDDW",
-        "rank": 9,
+        "rank": 10,
         "points": 9
       },
       "awayTeam": {
@@ -2678,60 +2549,60 @@
         "name": "Ipswich Town",
         "fullName": "Ipswich Town FC",
         "crest": "https://crests.football-data.org/349.png",
-        "form": "LWLWLL",
-        "rank": 10,
-        "points": 9
+        "form": "DLWLWL",
+        "rank": 9,
+        "points": 10
       },
       "prediction": {
-        "homeXG": 2.29,
-        "awayXG": 1.13,
+        "homeXG": 2.2,
+        "awayXG": 1.11,
         "predictedScore": "2-1",
-        "predictedScoreProb": 9.7,
+        "predictedScoreProb": 9.8,
         "outcomes": {
-          "homeWin": 62.4,
-          "draw": 19.1,
-          "awayWin": 17.6
+          "homeWin": 61.4,
+          "draw": 19.7,
+          "awayWin": 18.2
         },
         "topScores": [
           {
             "score": "2-1",
-            "probability": 9.7
-          },
-          {
-            "score": "2-0",
-            "probability": 8.6
+            "probability": 9.8
           },
           {
             "score": "1-1",
-            "probability": 8.5
+            "probability": 8.9
+          },
+          {
+            "score": "2-0",
+            "probability": 8.8
           },
           {
             "score": "1-0",
-            "probability": 7.5
+            "probability": 8
           },
           {
             "score": "3-1",
-            "probability": 7.4
+            "probability": 7.2
           }
         ],
         "factors": [
           "Venue: 33% home win rate",
           "Rest: home team well rested (14 days)",
-          "Rest: away team well rested (14 days)",
+          "Rest: away team well rested (8 days)",
           "Home injuries: 7 out: Mendy (£4.1m, Groin injury - Expected back 31 Oct), Ansah (£4.9m, Back injury - Unknown return date), Matazo (£4.5m, Knee injury - Unknown return date) +4 more",
-          "Home injuries: 3 doubtful: Gourna-Douath (Calf injury - 50% chance of playing), Cho (Unspecified injury - 50% chance of playing) +1 more",
-          "Away injuries: 1 out: Lukić (£4.9m, Groin injury - Expected back 23 Oct)",
+          "Home injuries: 3 doubtful: Gourna-Douath (Calf injury - 75% chance of playing), Cho (Unspecified injury - 75% chance of playing) +1 more",
+          "Away injuries: 1 out: Lukić (£4.9m, Groin injury - Unknown return date)",
           "Weather: no weather data",
-          "Home motivation: mid-table (9th)",
+          "Home motivation: mid-table (10th)",
           "Home motivation: poor recent form (LDLDDW)",
-          "Away motivation: mid-table (10th)",
+          "Away motivation: mid-table (9th)",
           "H2H: h2h favours away team (away 3W/1D/0L from 4)"
         ],
         "model": {
-          "homeAttackStr": 0.827,
-          "homeDefenceStr": 0.668,
-          "awayAttackStr": 1.268,
-          "awayDefenceStr": 1.648
+          "homeAttackStr": 0.831,
+          "homeDefenceStr": 0.671,
+          "awayAttackStr": 1.244,
+          "awayDefenceStr": 1.585
         }
       },
       "likelyScorers": {
@@ -2799,14 +2670,14 @@
           {
             "player": "Gourna-Douath",
             "type": "Questionable",
-            "reason": "Calf injury - 50% chance of playing",
+            "reason": "Calf injury - 75% chance of playing",
             "importance": 0.179,
             "cost": 4.9
           },
           {
             "player": "Cho",
             "type": "Questionable",
-            "reason": "Unspecified injury - 50% chance of playing",
+            "reason": "Unspecified injury - 75% chance of playing",
             "importance": 0.254,
             "cost": 5
           },
@@ -2829,7 +2700,7 @@
           {
             "player": "Lukić",
             "type": "Missing Fixture",
-            "reason": "Groin injury - Expected back 23 Oct",
+            "reason": "Groin injury - Unknown return date",
             "importance": 0.319,
             "cost": 4.9
           }
@@ -2837,7 +2708,7 @@
       },
       "daysRest": {
         "home": 14,
-        "away": 14
+        "away": 8
       }
     },
     {
@@ -2867,60 +2738,61 @@
         "name": "Nottingham",
         "fullName": "Nottingham Forest FC",
         "crest": "https://crests.football-data.org/351.png",
-        "form": "LLLWDD",
-        "rank": 19,
-        "points": 5
+        "form": "DLLLWD",
+        "rank": 16,
+        "points": 6
       },
       "prediction": {
-        "homeXG": 2.96,
-        "awayXG": 0.97,
+        "homeXG": 2.54,
+        "awayXG": 0.85,
         "predictedScore": "2-0",
-        "predictedScoreProb": 8.6,
+        "predictedScoreProb": 10.9,
         "outcomes": {
-          "homeWin": 74.3,
-          "draw": 13.2,
-          "awayWin": 9.3
+          "homeWin": 72.5,
+          "draw": 15.6,
+          "awayWin": 10.3
         },
         "topScores": [
           {
             "score": "2-0",
-            "probability": 8.6
-          },
-          {
-            "score": "3-0",
-            "probability": 8.5
+            "probability": 10.9
           },
           {
             "score": "2-1",
-            "probability": 8.4
+            "probability": 9.2
+          },
+          {
+            "score": "3-0",
+            "probability": 9.2
+          },
+          {
+            "score": "1-0",
+            "probability": 8.6
           },
           {
             "score": "3-1",
-            "probability": 8.2
-          },
-          {
-            "score": "4-0",
-            "probability": 6.3
+            "probability": 7.8
           }
         ],
         "factors": [
           "Venue: 50% home win rate",
           "Rest: home team well rested (14 days)",
-          "Rest: away team well rested (13 days)",
+          "Rest: away team well rested (8 days)",
           "Home injuries: 5 out: Janelt (£5m, Suspended until 31 Oct), Yarmoliuk (£4.8m, Suspended until 8 Nov), Milambo (£5m, Knee injury - Unknown return date) +2 more",
           "Home injuries: 1 doubtful: Schuster (Ankle injury - 75% chance of playing)",
           "Away injuries: 2 out: Igor Jesus (£5.7m, Calf injury - Unknown return date), Savona (£4.5m, Knee injury - Unknown return date)",
+          "Away injuries: 1 doubtful: N.Williams (Arm injury - 75% chance of playing)",
           "Weather: no weather data",
           "Home motivation: playoff/European contention (6th)",
-          "Away motivation: relegation battle (19th of 20)",
-          "Away motivation: poor recent form (LLLWDD)",
+          "Away motivation: close to relegation zone (16th)",
+          "Away motivation: poor recent form (DLLLWD)",
           "H2H: h2h balanced (home 4W/3D/3L, away 3W/3D/4L from 10)"
         ],
         "model": {
-          "homeAttackStr": 1.217,
-          "homeDefenceStr": 0.691,
-          "awayAttackStr": 1.12,
-          "awayDefenceStr": 1.257
+          "homeAttackStr": 1.223,
+          "homeDefenceStr": 0.693,
+          "awayAttackStr": 0.995,
+          "awayDefenceStr": 1.08
         }
       },
       "likelyScorers": {
@@ -2988,6 +2860,13 @@
         ],
         "away": [
           {
+            "player": "N.Williams",
+            "type": "Questionable",
+            "reason": "Arm injury - 75% chance of playing",
+            "importance": 0.477,
+            "cost": 5
+          },
+          {
             "player": "Savona",
             "type": "Missing Fixture",
             "reason": "Knee injury - Unknown return date",
@@ -3005,7 +2884,7 @@
       },
       "daysRest": {
         "home": 14,
-        "away": 13
+        "away": 8
       }
     },
     {
@@ -3040,55 +2919,55 @@
         "points": 7
       },
       "prediction": {
-        "homeXG": 2.32,
+        "homeXG": 2.37,
         "awayXG": 0.8,
         "predictedScore": "2-0",
-        "predictedScoreProb": 11.9,
+        "predictedScoreProb": 11.8,
         "outcomes": {
-          "homeWin": 70.6,
-          "draw": 17.3,
-          "awayWin": 11.2
+          "homeWin": 71.4,
+          "draw": 16.8,
+          "awayWin": 10.8
         },
         "topScores": [
           {
             "score": "2-0",
-            "probability": 11.9
+            "probability": 11.8
           },
           {
             "score": "1-0",
-            "probability": 10.2
+            "probability": 9.9
           },
           {
             "score": "2-1",
-            "probability": 9.5
+            "probability": 9.4
           },
           {
             "score": "3-0",
-            "probability": 9.2
+            "probability": 9.4
           },
           {
             "score": "1-1",
-            "probability": 8.2
+            "probability": 7.9
           }
         ],
         "factors": [
           "Venue: weak home record (25% win rate at home)",
           "Rest: home team well rested (12 days)",
           "Rest: away team well rested (13 days)",
-          "Home injuries: 7 out: Sávio (£6.5m, Muscular injury - Expected back 7 Nov), Bentancur (£5.4m, Suspended until 7 Nov), Pedro Porro (£5.3m, Hamstring injury - Expected back 24 Oct) +4 more",
-          "Home injuries: 4 doubtful: Tosin (Calf injury - 75% chance of playing), Marmoush (Calf injury - 75% chance of playing) +2 more",
+          "Home injuries: 7 out: Sávio (£6.5m, Muscular injury - Expected back 7 Nov), Bentancur (£5.4m, Suspended until 7 Nov), Bergvall (£5.3m, Knee injury - Expected back 31 Oct) +4 more",
+          "Home injuries: 1 doubtful: Maddison (Unspecified injury - 75% chance of playing)",
           "Away injuries: 2 out: Tomiyasu (£4.4m, Calf injury - Expected back 8 Nov), Chadi Riad (£4.3m, Knee injury - Unknown return date)",
-          "Away injuries: 2 doubtful: Henderson (Foot injury - 50% chance of playing), Timber (Hamstring injury - 75% chance of playing)",
+          "Away injuries: 3 doubtful: Henderson (Foot injury - 50% chance of playing), Strand Larsen (Unspecified injury - 75% chance of playing) +1 more",
           "Weather: no weather data",
           "Home motivation: close to relegation zone (16th)",
           "Away motivation: mid-table (14th)",
           "H2H: h2h balanced (home 6W/0D/4L, away 4W/0D/6L from 10)"
         ],
         "model": {
-          "homeAttackStr": 0.907,
-          "homeDefenceStr": 1.091,
-          "awayAttackStr": 0.58,
-          "awayDefenceStr": 1.555
+          "homeAttackStr": 0.911,
+          "homeDefenceStr": 1.094,
+          "awayAttackStr": 0.582,
+          "awayDefenceStr": 1.563
         }
       },
       "likelyScorers": {
@@ -3097,31 +2976,17 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 1.3,
-          "gamesSampled": 3
+          "avgCardsPerGame": 1,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 0,
-          "gamesSampled": 1
+          "avgCardsPerGame": 0.5,
+          "gamesSampled": 2
         }
       },
       "weather": null,
       "injuries": {
         "home": [
-          {
-            "player": "Tosin",
-            "type": "Questionable",
-            "reason": "Calf injury - 75% chance of playing",
-            "importance": 0.142,
-            "cost": 4.4
-          },
-          {
-            "player": "Marmoush",
-            "type": "Questionable",
-            "reason": "Calf injury - 75% chance of playing",
-            "importance": 0.385,
-            "cost": 7
-          },
           {
             "player": "Sávio",
             "type": "Missing Fixture",
@@ -3130,23 +2995,9 @@
             "cost": 6.5
           },
           {
-            "player": "Pedro Porro",
-            "type": "Missing Fixture",
-            "reason": "Hamstring injury - Expected back 24 Oct",
-            "importance": 0.235,
-            "cost": 5.3
-          },
-          {
-            "player": "Robertson",
-            "type": "Questionable",
-            "reason": "Foot injury - 75% chance of playing",
-            "importance": 0.388,
-            "cost": 4.4
-          },
-          {
             "player": "Udogie",
-            "type": "Questionable",
-            "reason": "Knee injury - 75% chance of playing",
+            "type": "Missing Fixture",
+            "reason": "Knee injury - Unknown return date",
             "importance": 0.183,
             "cost": 4.4
           },
@@ -3156,6 +3007,13 @@
             "reason": "Knee injury - Unknown return date",
             "importance": 0.147,
             "cost": 5.9
+          },
+          {
+            "player": "Maddison",
+            "type": "Questionable",
+            "reason": "Unspecified injury - 75% chance of playing",
+            "importance": 0.301,
+            "cost": 6.2
           },
           {
             "player": "Bentancur",
@@ -3200,6 +3058,13 @@
             "reason": "Knee injury - Unknown return date",
             "importance": 0.12,
             "cost": 4.3
+          },
+          {
+            "player": "Strand Larsen",
+            "type": "Questionable",
+            "reason": "Unspecified injury - 75% chance of playing",
+            "importance": 0.388,
+            "cost": 6
           },
           {
             "player": "Tomiyasu",
@@ -3250,23 +3115,23 @@
         "fullName": "Fulham FC",
         "crest": "https://crests.football-data.org/63.png",
         "form": "WLDDLL",
-        "rank": 18,
+        "rank": 19,
         "points": 5
       },
       "prediction": {
         "homeXG": 0.82,
         "awayXG": 0.53,
         "predictedScore": "0-0",
-        "predictedScoreProb": 26.1,
+        "predictedScoreProb": 26,
         "outcomes": {
-          "homeWin": 39.5,
-          "draw": 38.6,
+          "homeWin": 39.6,
+          "draw": 38.5,
           "awayWin": 21.9
         },
         "topScores": [
           {
             "score": "0-0",
-            "probability": 26.1
+            "probability": 26
           },
           {
             "score": "1-0",
@@ -3278,7 +3143,7 @@
           },
           {
             "score": "1-1",
-            "probability": 11.2
+            "probability": 11.3
           },
           {
             "score": "2-0",
@@ -3292,17 +3157,17 @@
           "Home injuries: 3 out: Wan-Bissaka (£4.5m, Hamstring injury - Expected back 21 Nov), Ruggeri (£4.4m, Hamstring injury - Expected back 2 Jan), Onana (£4.9m, Knee injury - Unknown return date)",
           "Home injuries: 1 doubtful: Manzambi (Calf injury - 75% chance of playing)",
           "Away injuries: 1 out: Sessegnon (£4.3m, Suspended until 7 Nov)",
-          "Away injuries: 1 doubtful: Larsson (Groin injury - 25% chance of playing)",
+          "Away injuries: 1 doubtful: Smith Rowe (Knock - 75% chance of playing)",
           "Weather: no weather data",
           "Home motivation: mid-table (12th)",
-          "Away motivation: relegation battle (18th of 20)",
+          "Away motivation: relegation battle (19th of 20)",
           "H2H: h2h favours home team (home 8W/0D/2L from 10)"
         ],
         "model": {
-          "homeAttackStr": 0.738,
-          "homeDefenceStr": 1.223,
-          "awayAttackStr": 0.328,
-          "awayDefenceStr": 0.668
+          "homeAttackStr": 0.742,
+          "homeDefenceStr": 1.227,
+          "awayAttackStr": 0.33,
+          "awayDefenceStr": 0.672
         }
       },
       "likelyScorers": {
@@ -3311,12 +3176,12 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 1.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 1.5,
+          "gamesSampled": 2
         },
         "away": {
           "avgCardsPerGame": 1,
-          "gamesSampled": 2
+          "gamesSampled": 1
         }
       },
       "weather": null,
@@ -3353,18 +3218,18 @@
         ],
         "away": [
           {
+            "player": "Smith Rowe",
+            "type": "Questionable",
+            "reason": "Knock - 75% chance of playing",
+            "importance": 0.17,
+            "cost": 5.3
+          },
+          {
             "player": "Sessegnon",
             "type": "Suspended",
             "reason": "Suspended until 7 Nov",
             "importance": 0.226,
             "cost": 4.3
-          },
-          {
-            "player": "Larsson",
-            "type": "Questionable",
-            "reason": "Groin injury - 25% chance of playing",
-            "importance": 0.161,
-            "cost": 5
           }
         ]
       },
@@ -3406,13 +3271,13 @@
       },
       "prediction": {
         "homeXG": 0.33,
-        "awayXG": 1.22,
+        "awayXG": 1.19,
         "predictedScore": "0-1",
         "predictedScoreProb": 25.9,
         "outcomes": {
-          "homeWin": 10.1,
-          "draw": 30.8,
-          "awayWin": 59.1
+          "homeWin": 10.4,
+          "draw": 31.4,
+          "awayWin": 58.2
         },
         "topScores": [
           {
@@ -3421,19 +3286,19 @@
           },
           {
             "score": "0-0",
-            "probability": 21.3
+            "probability": 21.8
           },
           {
             "score": "0-2",
-            "probability": 15.7
+            "probability": 15.4
           },
           {
             "score": "1-1",
-            "probability": 8.6
+            "probability": 8.7
           },
           {
             "score": "1-0",
-            "probability": 7.1
+            "probability": 7.3
           }
         ],
         "factors": [
@@ -3441,9 +3306,9 @@
           "Rest: home team well rested (15 days)",
           "Rest: away team well rested (14 days)",
           "Home injuries: 6 out: Szoboszlai (£6.8m, Hamstring injury - Unknown return date), Frimpong (£5.2m, Hamstring injury - Unknown return date), Ekitiké (£7.4m, Achilles injury - Unknown return date) +3 more",
-          "Home injuries: 1 doubtful: Munoz (Knee injury - 75% chance of playing)",
-          "Away injuries: 2 out: Tzolis (£6.2m, Hamstring injury - Expected back 1 Nov), Saliba (£5.9m, Back injury - Unknown return date)",
-          "Away injuries: 2 doubtful: Hincapie (Ankle injury - 75% chance of playing), Saka (Thigh injury - 50% chance of playing)",
+          "Home injuries: 1 doubtful: Munoz (Knee injury - 25% chance of playing)",
+          "Away injuries: 3 out: Saka (£9.5m, Thigh injury - Unknown return date), Tzolis (£6.2m, Hamstring injury - Expected back 1 Nov), Saliba (£5.9m, Back injury - Unknown return date)",
+          "Away injuries: 1 doubtful: Hincapie (Ankle injury - 75% chance of playing)",
           "Weather: no weather data",
           "Home motivation: playoff/European contention (5th)",
           "Away motivation: title/promotion contender (2nd)",
@@ -3451,10 +3316,10 @@
           "H2H: h2h balanced (home 1W/5D/2L, away 2W/5D/1L from 8)"
         ],
         "model": {
-          "homeAttackStr": 0.418,
-          "homeDefenceStr": 1.214,
-          "awayAttackStr": 0.76,
-          "awayDefenceStr": 0.52
+          "homeAttackStr": 0.42,
+          "homeDefenceStr": 1.218,
+          "awayAttackStr": 0.763,
+          "awayDefenceStr": 0.522
         }
       },
       "likelyScorers": {
@@ -3473,8 +3338,8 @@
           "gamesSampled": 3
         },
         "away": {
-          "avgCardsPerGame": 1.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 1.5,
+          "gamesSampled": 2
         }
       },
       "weather": null,
@@ -3505,8 +3370,8 @@
             "player": "Leoni",
             "type": "Missing Fixture",
             "reason": "Knee injury - Unknown return date",
-            "importance": 0.1,
-            "cost": 4
+            "importance": 0.098,
+            "cost": 3.9
           },
           {
             "player": "Szoboszlai",
@@ -3518,7 +3383,7 @@
           {
             "player": "Munoz",
             "type": "Questionable",
-            "reason": "Knee injury - 75% chance of playing",
+            "reason": "Knee injury - 25% chance of playing",
             "importance": 0.461,
             "cost": 6.5
           },
@@ -3547,10 +3412,10 @@
           },
           {
             "player": "Saka",
-            "type": "Questionable",
-            "reason": "Thigh injury - 50% chance of playing",
-            "importance": 0.777,
-            "cost": 9.6
+            "type": "Missing Fixture",
+            "reason": "Thigh injury - Unknown return date",
+            "importance": 0.774,
+            "cost": 9.5
           },
           {
             "player": "Tzolis",
@@ -3598,14 +3463,14 @@
         "points": 10
       },
       "prediction": {
-        "homeXG": 1.01,
+        "homeXG": 1.03,
         "awayXG": 1.14,
         "predictedScore": "1-1",
         "predictedScoreProb": 13.4,
         "outcomes": {
-          "homeWin": 32.1,
-          "draw": 29.5,
-          "awayWin": 38.5
+          "homeWin": 32.5,
+          "draw": 29.3,
+          "awayWin": 38.2
         },
         "topScores": [
           {
@@ -3614,26 +3479,27 @@
           },
           {
             "score": "0-1",
-            "probability": 13.3
+            "probability": 13
           },
           {
             "score": "1-0",
-            "probability": 11.8
-          },
-          {
-            "score": "0-0",
             "probability": 11.7
           },
           {
+            "score": "0-0",
+            "probability": 11.4
+          },
+          {
             "score": "1-2",
-            "probability": 7.6
+            "probability": 7.7
           }
         ],
         "factors": [
           "Venue: weak home record (25% win rate at home)",
           "Rest: home team well rested (16 days)",
           "Rest: away team well rested (16 days)",
-          "Home injuries: 4 out: Elanga (£6m, Unspecified injury - Expected back 25 Oct), J.Ramsey (£4.8m, Thigh injury - Unknown return date), Livramento (£4.9m, Knee injury - Expected back 7 Nov) +1 more",
+          "Home injuries: 3 out: J.Ramsey (£4.8m, Thigh injury - Unknown return date), Livramento (£4.9m, Knee injury - Expected back 7 Nov), Jaouen (£4.4m, Hamstring injury - Unknown return date)",
+          "Home injuries: 2 doubtful: Elanga (Hamstring injury - 75% chance of playing), Fernandez-Pardo (Illness - 75% chance of playing)",
           "Away injuries: no injuries reported",
           "Weather: no weather data",
           "Home motivation: mid-table (11th)",
@@ -3642,10 +3508,10 @@
           "H2H: h2h balanced (home 4W/2D/4L, away 4W/2D/4L from 10)"
         ],
         "model": {
-          "homeAttackStr": 0.85,
-          "homeDefenceStr": 1.139,
-          "awayAttackStr": 0.762,
-          "awayDefenceStr": 0.696
+          "homeAttackStr": 0.854,
+          "homeDefenceStr": 1.143,
+          "awayAttackStr": 0.765,
+          "awayDefenceStr": 0.699
         }
       },
       "likelyScorers": {
@@ -3661,8 +3527,8 @@
           "gamesSampled": 3
         },
         "away": {
-          "avgCardsPerGame": 2,
-          "gamesSampled": 3
+          "avgCardsPerGame": 2.5,
+          "gamesSampled": 2
         }
       },
       "weather": null,
@@ -3684,8 +3550,8 @@
           },
           {
             "player": "Elanga",
-            "type": "Missing Fixture",
-            "reason": "Unspecified injury - Expected back 25 Oct",
+            "type": "Questionable",
+            "reason": "Hamstring injury - 75% chance of playing",
             "importance": 0.355,
             "cost": 6
           },
@@ -3695,6 +3561,13 @@
             "reason": "Thigh injury - Unknown return date",
             "importance": 0.196,
             "cost": 4.8
+          },
+          {
+            "player": "Fernandez-Pardo",
+            "type": "Questionable",
+            "reason": "Illness - 75% chance of playing",
+            "importance": 0.236,
+            "cost": 6
           }
         ],
         "away": []
@@ -3706,119 +3579,139 @@
     },
     {
       "fixture": {
-        "id": 561894,
-        "date": "2026-10-23T19:00:00Z",
+        "id": 560634,
+        "date": "2026-11-06T20:00:00Z",
         "venue": "TBC",
-        "matchday": 12,
+        "matchday": 10,
         "referee": null
       },
       "league": {
-        "code": "ELC",
-        "name": "Championship",
-        "shortName": "CH"
+        "code": "PL",
+        "name": "Premier League",
+        "shortName": "PL"
       },
       "homeTeam": {
-        "id": 60,
-        "name": "Bolton",
-        "fullName": "Bolton Wanderers FC",
-        "crest": "https://crests.football-data.org/60.png",
-        "form": "DWLWWL",
-        "rank": 15,
-        "points": 14
+        "id": 62,
+        "name": "Everton",
+        "fullName": "Everton FC",
+        "crest": "https://crests.football-data.org/62.png",
+        "form": "LDWDDD",
+        "rank": 8,
+        "points": 10
       },
       "awayTeam": {
-        "id": 343,
-        "name": "Middlesbrough",
-        "fullName": "Middlesbrough FC",
-        "crest": "https://crests.football-data.org/343.png",
-        "form": "DWWDDW",
-        "rank": 3,
-        "points": 22
+        "id": 1076,
+        "name": "Coventry City",
+        "fullName": "Coventry City FC",
+        "crest": "https://crests.football-data.org/1076.png",
+        "form": "LWWLLL",
+        "rank": 18,
+        "points": 6
       },
       "prediction": {
-        "homeXG": 1.61,
-        "awayXG": 1.87,
-        "predictedScore": "1-1",
-        "predictedScoreProb": 9.3,
+        "homeXG": 1.64,
+        "awayXG": 0.53,
+        "predictedScore": "1-0",
+        "predictedScoreProb": 18.7,
         "outcomes": {
-          "homeWin": 33.3,
-          "draw": 22.2,
-          "awayWin": 44
+          "homeWin": 64.3,
+          "draw": 23.8,
+          "awayWin": 11.7
         },
         "topScores": [
           {
+            "score": "1-0",
+            "probability": 18.7
+          },
+          {
+            "score": "2-0",
+            "probability": 15.3
+          },
+          {
+            "score": "0-0",
+            "probability": 11.4
+          },
+          {
             "score": "1-1",
-            "probability": 9.3
+            "probability": 10
           },
           {
-            "score": "1-2",
-            "probability": 8.7
-          },
-          {
-            "score": "2-1",
-            "probability": 7.5
-          },
-          {
-            "score": "2-2",
-            "probability": 7
-          },
-          {
-            "score": "0-1",
-            "probability": 5.8
+            "score": "3-0",
+            "probability": 8.3
           }
         ],
         "factors": [
-          "Venue: 40% home win rate",
+          "Venue: 50% home win rate",
+          "Rest: home team well rested (20 days)",
+          "Rest: away team well rested (18 days)",
           "Home injuries: no injuries reported",
-          "Away injuries: no injuries reported",
-          "Weather: moderate wind (33 km/h)",
-          "Home motivation: mid-table (15th)",
-          "Away motivation: playoff/European contention (3th)",
+          "Away injuries: 4 out: Amenda (£3.9m, Calf injury - Unknown return date), Wright (£5.3m, Thigh injury - Unknown return date), Eccles (£4.8m, Ankle injury - Unknown return date) +1 more",
+          "Weather: no weather data",
+          "Home motivation: mid-table (8th)",
+          "Away motivation: relegation battle (18th of 20)",
           "H2H: no h2h data"
         ],
         "model": {
-          "homeAttackStr": 0.825,
-          "homeDefenceStr": 1.037,
-          "awayAttackStr": 1.4,
-          "awayDefenceStr": 1.029
+          "homeAttackStr": 0.691,
+          "homeDefenceStr": 0.826,
+          "awayAttackStr": 0.513,
+          "awayDefenceStr": 1.14
         }
       },
       "likelyScorers": {
         "home": {
-          "name": "Sam Dalby",
-          "goals": 4
+          "name": "Thierno Barry",
+          "goals": 3
         },
-        "away": {
-          "name": "William Lankshear",
-          "goals": 9
-        }
+        "away": null
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 1.5,
+          "avgCardsPerGame": 2.5,
           "gamesSampled": 2
         },
         "away": {
           "avgCardsPerGame": 2,
-          "gamesSampled": 2
+          "gamesSampled": 1
         }
       },
-      "weather": {
-        "temp": 9,
-        "feelsLike": 5,
-        "wind": 33,
-        "windGust": 67,
-        "rain": 0,
-        "humidity": 81,
-        "description": "Clear"
-      },
+      "weather": null,
       "injuries": {
         "home": [],
-        "away": []
+        "away": [
+          {
+            "player": "Woolfenden",
+            "type": "Missing Fixture",
+            "reason": "Knee injury - Unknown return date",
+            "importance": 0.098,
+            "cost": 3.9
+          },
+          {
+            "player": "Amenda",
+            "type": "Missing Fixture",
+            "reason": "Calf injury - Unknown return date",
+            "importance": 0.169,
+            "cost": 3.9
+          },
+          {
+            "player": "Eccles",
+            "type": "Missing Fixture",
+            "reason": "Ankle injury - Unknown return date",
+            "importance": 0.12,
+            "cost": 4.8
+          },
+          {
+            "player": "Wright",
+            "type": "Missing Fixture",
+            "reason": "Thigh injury - Unknown return date",
+            "importance": 0.132,
+            "cost": 5.3
+          }
+        ]
       },
       "daysRest": {
-        "home": 6,
-        "away": 6
+        "home": 20,
+        "away": 18
       }
     },
     {
@@ -3853,27 +3746,27 @@
         "points": 6
       },
       "prediction": {
-        "homeXG": 3,
-        "awayXG": 0.71,
+        "homeXG": 2.98,
+        "awayXG": 0.7,
         "predictedScore": "2-0",
-        "predictedScoreProb": 11,
+        "predictedScoreProb": 11.2,
         "outcomes": {
           "homeWin": 79.6,
-          "draw": 11.2,
-          "awayWin": 5.9
+          "draw": 11.3,
+          "awayWin": 5.8
         },
         "topScores": [
           {
             "score": "2-0",
-            "probability": 11
+            "probability": 11.2
           },
           {
             "score": "3-0",
-            "probability": 11
+            "probability": 11.1
           },
           {
             "score": "4-0",
-            "probability": 8.2
+            "probability": 8.3
           },
           {
             "score": "2-1",
@@ -3890,17 +3783,17 @@
           "Rest: away team well rested (7 days)",
           "Home injuries: no injuries reported",
           "Away injuries: no injuries reported",
-          "Weather: good conditions (12°C, wind 19km/h)",
+          "Weather: good conditions (12°C, wind 17km/h)",
           "Home motivation: mid-table (11th)",
           "Away motivation: relegation battle (23th of 24)",
           "Away motivation: poor recent form (LLDDLL)",
           "H2H: h2h favours home team (home 4W/0D/2L from 6)"
         ],
         "model": {
-          "homeAttackStr": 1.019,
-          "homeDefenceStr": 0.762,
-          "awayAttackStr": 0.712,
-          "awayDefenceStr": 1.435
+          "homeAttackStr": 1.017,
+          "homeDefenceStr": 0.748,
+          "awayAttackStr": 0.7,
+          "awayDefenceStr": 1.432
         }
       },
       "likelyScorers": {
@@ -3912,21 +3805,21 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 1.3,
-          "gamesSampled": 3
+          "avgCardsPerGame": 1,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 1.3,
-          "gamesSampled": 3
+          "avgCardsPerGame": 2,
+          "gamesSampled": 2
         }
       },
       "weather": {
         "temp": 12,
         "feelsLike": 10,
-        "wind": 19,
-        "windGust": 38,
+        "wind": 17,
+        "windGust": 41,
         "rain": 0,
-        "humidity": 68,
+        "humidity": 71,
         "description": "Clear"
       },
       "injuries": {
@@ -3970,23 +3863,23 @@
         "points": 9
       },
       "prediction": {
-        "homeXG": 1.36,
+        "homeXG": 1.35,
         "awayXG": 0.61,
         "predictedScore": "1-0",
-        "predictedScoreProb": 19,
+        "predictedScoreProb": 19.1,
         "outcomes": {
           "homeWin": 54.9,
-          "draw": 28.2,
-          "awayWin": 16.8
+          "draw": 28.3,
+          "awayWin": 16.7
         },
         "topScores": [
           {
             "score": "1-0",
-            "probability": 19
+            "probability": 19.1
           },
           {
             "score": "0-0",
-            "probability": 14
+            "probability": 14.2
           },
           {
             "score": "2-0",
@@ -4007,7 +3900,7 @@
           "Rest: away team well rested (7 days)",
           "Home injuries: no injuries reported",
           "Away injuries: no injuries reported",
-          "Weather: good conditions (12°C, wind 19km/h)",
+          "Weather: good conditions (12°C, wind 17km/h)",
           "Home motivation: mid-table (17th)",
           "Home motivation: poor recent form (LDDLDD)",
           "Away motivation: close to relegation zone (21th)",
@@ -4016,9 +3909,9 @@
         ],
         "model": {
           "homeAttackStr": 0.48,
-          "homeDefenceStr": 0.436,
-          "awayAttackStr": 1.043,
-          "awayDefenceStr": 1.477
+          "homeDefenceStr": 0.43,
+          "awayAttackStr": 1.025,
+          "awayDefenceStr": 1.475
         }
       },
       "likelyScorers": {
@@ -4033,21 +3926,21 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 1,
-          "gamesSampled": 3
+          "avgCardsPerGame": 1.5,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 3.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 2.5,
+          "gamesSampled": 2
         }
       },
       "weather": {
         "temp": 12,
         "feelsLike": 10,
-        "wind": 19,
-        "windGust": 38,
+        "wind": 17,
+        "windGust": 41,
         "rain": 0,
-        "humidity": 68,
+        "humidity": 71,
         "description": "Clear"
       },
       "injuries": {
@@ -4091,19 +3984,19 @@
         "points": 15
       },
       "prediction": {
-        "homeXG": 2.56,
-        "awayXG": 1.75,
+        "homeXG": 2.54,
+        "awayXG": 1.72,
         "predictedScore": "2-1",
-        "predictedScoreProb": 7.7,
+        "predictedScoreProb": 7.8,
         "outcomes": {
-          "homeWin": 53.9,
+          "homeWin": 54.2,
           "draw": 18.6,
-          "awayWin": 25.7
+          "awayWin": 25.4
         },
         "topScores": [
           {
             "score": "2-1",
-            "probability": 7.7
+            "probability": 7.8
           },
           {
             "score": "2-2",
@@ -4115,7 +4008,7 @@
           },
           {
             "score": "1-1",
-            "probability": 6
+            "probability": 6.1
           },
           {
             "score": "3-2",
@@ -4127,15 +4020,15 @@
           "Rest: away team well rested (7 days)",
           "Home injuries: no injuries reported",
           "Away injuries: no injuries reported",
-          "Weather: good conditions (12°C, wind 19km/h)",
+          "Weather: good conditions (12°C, wind 17km/h)",
           "Home motivation: mid-table (13th)",
           "Away motivation: mid-table (12th)",
           "H2H: h2h balanced (home 2W/0D/2L, away 2W/0D/2L from 4)"
         ],
         "model": {
-          "homeAttackStr": 1.171,
-          "homeDefenceStr": 1.292,
-          "awayAttackStr": 1.022,
+          "homeAttackStr": 1.169,
+          "homeDefenceStr": 1.27,
+          "awayAttackStr": 1.005,
           "awayDefenceStr": 1.13
         }
       },
@@ -4148,21 +4041,21 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 0.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 0.5,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 1.3,
-          "gamesSampled": 3
+          "avgCardsPerGame": 1,
+          "gamesSampled": 2
         }
       },
       "weather": {
         "temp": 12,
         "feelsLike": 10,
-        "wind": 19,
-        "windGust": 38,
+        "wind": 17,
+        "windGust": 41,
         "rain": 0,
-        "humidity": 68,
+        "humidity": 71,
         "description": "Clear"
       },
       "injuries": {
@@ -4206,19 +4099,19 @@
         "points": 20
       },
       "prediction": {
-        "homeXG": 1.62,
-        "awayXG": 1.26,
+        "homeXG": 1.64,
+        "awayXG": 1.27,
         "predictedScore": "1-1",
-        "predictedScoreProb": 11.5,
+        "predictedScoreProb": 11.4,
         "outcomes": {
-          "homeWin": 45.6,
-          "draw": 24.5,
-          "awayWin": 29.7
+          "homeWin": 45.9,
+          "draw": 24.3,
+          "awayWin": 29.6
         },
         "topScores": [
           {
             "score": "1-1",
-            "probability": 11.5
+            "probability": 11.4
           },
           {
             "score": "2-1",
@@ -4226,11 +4119,11 @@
           },
           {
             "score": "1-0",
-            "probability": 9.1
+            "probability": 9
           },
           {
             "score": "2-0",
-            "probability": 7.4
+            "probability": 7.3
           },
           {
             "score": "1-2",
@@ -4243,16 +4136,16 @@
           "Rest: away team well rested (7 days)",
           "Home injuries: no injuries reported",
           "Away injuries: no injuries reported",
-          "Weather: moderate wind (28 km/h)",
+          "Weather: good conditions (12°C, wind 23km/h, rain 0.8mm)",
           "Home motivation: close to relegation zone (19th)",
           "Away motivation: playoff/European contention (4th)",
           "Away motivation: strong recent form (WWWDWL)",
           "H2H: h2h balanced (home 5W/3D/1L, away 1W/3D/5L from 9)"
         ],
         "model": {
-          "homeAttackStr": 1.756,
-          "homeDefenceStr": 0.892,
-          "awayAttackStr": 1.042,
+          "homeAttackStr": 1.753,
+          "homeDefenceStr": 0.877,
+          "awayAttackStr": 1.026,
           "awayDefenceStr": 0.472
         }
       },
@@ -4268,21 +4161,21 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 2.3,
-          "gamesSampled": 3
+          "avgCardsPerGame": 3,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 2.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 2.5,
+          "gamesSampled": 2
         }
       },
       "weather": {
         "temp": 12,
         "feelsLike": 9,
-        "wind": 28,
-        "windGust": 61,
+        "wind": 23,
+        "windGust": 56,
         "rain": 0.8,
-        "humidity": 88,
+        "humidity": 87,
         "description": "Clear"
       },
       "injuries": {
@@ -4326,19 +4219,19 @@
         "points": 23
       },
       "prediction": {
-        "homeXG": 1.53,
-        "awayXG": 1.39,
+        "homeXG": 1.56,
+        "awayXG": 1.4,
         "predictedScore": "1-1",
-        "predictedScoreProb": 11.5,
+        "predictedScoreProb": 11.3,
         "outcomes": {
-          "homeWin": 40.9,
-          "draw": 24.6,
-          "awayWin": 34.3
+          "homeWin": 41.2,
+          "draw": 24.4,
+          "awayWin": 34.2
         },
         "topScores": [
           {
             "score": "1-1",
-            "probability": 11.5
+            "probability": 11.3
           },
           {
             "score": "2-1",
@@ -4346,7 +4239,7 @@
           },
           {
             "score": "1-0",
-            "probability": 8.3
+            "probability": 8.1
           },
           {
             "score": "1-2",
@@ -4354,7 +4247,7 @@
           },
           {
             "score": "0-1",
-            "probability": 7.5
+            "probability": 7.3
           }
         ],
         "factors": [
@@ -4363,15 +4256,15 @@
           "Rest: away team well rested (7 days)",
           "Home injuries: no injuries reported",
           "Away injuries: no injuries reported",
-          "Weather: moderate wind (28 km/h)",
+          "Weather: good conditions (12°C, wind 23km/h, rain 0.8mm)",
           "Home motivation: mid-table (9th)",
           "Away motivation: title/promotion contender (1st)",
           "H2H: h2h balanced (home 3W/3D/4L, away 4W/3D/3L from 10)"
         ],
         "model": {
-          "homeAttackStr": 1.291,
-          "homeDefenceStr": 0.858,
-          "awayAttackStr": 1.218,
+          "homeAttackStr": 1.288,
+          "homeDefenceStr": 0.845,
+          "awayAttackStr": 1.197,
           "awayDefenceStr": 0.615
         }
       },
@@ -4384,21 +4277,21 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 1,
-          "gamesSampled": 3
+          "avgCardsPerGame": 0.5,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 1.3,
-          "gamesSampled": 3
+          "avgCardsPerGame": 1.5,
+          "gamesSampled": 2
         }
       },
       "weather": {
         "temp": 12,
         "feelsLike": 9,
-        "wind": 28,
-        "windGust": 61,
+        "wind": 23,
+        "windGust": 56,
         "rain": 0.8,
-        "humidity": 88,
+        "humidity": 87,
         "description": "Clear"
       },
       "injuries": {
@@ -4442,14 +4335,14 @@
         "points": 14
       },
       "prediction": {
-        "homeXG": 3.14,
-        "awayXG": 1.44,
+        "homeXG": 3.19,
+        "awayXG": 1.45,
         "predictedScore": "3-1",
         "predictedScoreProb": 7.6,
         "outcomes": {
-          "homeWin": 67,
-          "draw": 14.5,
-          "awayWin": 14.4
+          "homeWin": 67.2,
+          "draw": 14.2,
+          "awayWin": 14.1
         },
         "topScores": [
           {
@@ -4458,7 +4351,7 @@
           },
           {
             "score": "2-1",
-            "probability": 7.3
+            "probability": 7.1
           },
           {
             "score": "4-1",
@@ -4470,7 +4363,7 @@
           },
           {
             "score": "3-0",
-            "probability": 5.3
+            "probability": 5.2
           }
         ],
         "factors": [
@@ -4479,7 +4372,7 @@
           "Rest: away team well rested (7 days)",
           "Home injuries: no injuries reported",
           "Away injuries: no injuries reported",
-          "Weather: moderate wind (28 km/h)",
+          "Weather: good conditions (12°C, wind 23km/h, rain 0.8mm)",
           "Home motivation: playoff/European contention (6th)",
           "Home motivation: strong recent form (WLWWWD)",
           "Away motivation: mid-table (16th)",
@@ -4487,10 +4380,10 @@
           "H2H: h2h balanced (home 4W/1D/5L, away 5W/1D/4L from 10)"
         ],
         "model": {
-          "homeAttackStr": 1.275,
-          "homeDefenceStr": 1.058,
-          "awayAttackStr": 1.086,
-          "awayDefenceStr": 1.128
+          "homeAttackStr": 1.274,
+          "homeDefenceStr": 1.042,
+          "awayAttackStr": 1.066,
+          "awayDefenceStr": 1.127
         }
       },
       "likelyScorers": {
@@ -4502,21 +4395,21 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 1.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 1.5,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 1,
-          "gamesSampled": 3
+          "avgCardsPerGame": 0,
+          "gamesSampled": 2
         }
       },
       "weather": {
         "temp": 12,
         "feelsLike": 9,
-        "wind": 28,
-        "windGust": 61,
+        "wind": 23,
+        "windGust": 56,
         "rain": 0.8,
-        "humidity": 88,
+        "humidity": 87,
         "description": "Clear"
       },
       "injuries": {
@@ -4560,27 +4453,27 @@
         "points": 20
       },
       "prediction": {
-        "homeXG": 0.5,
-        "awayXG": 1.59,
+        "homeXG": 0.51,
+        "awayXG": 1.6,
         "predictedScore": "0-1",
-        "predictedScoreProb": 19.7,
+        "predictedScoreProb": 19.4,
         "outcomes": {
-          "homeWin": 11.4,
-          "draw": 24.4,
+          "homeWin": 11.5,
+          "draw": 24.3,
           "awayWin": 64.1
         },
         "topScores": [
           {
             "score": "0-1",
-            "probability": 19.7
+            "probability": 19.4
           },
           {
             "score": "0-2",
-            "probability": 15.6
+            "probability": 15.5
           },
           {
             "score": "0-0",
-            "probability": 12.4
+            "probability": 12.1
           },
           {
             "score": "1-1",
@@ -4588,7 +4481,7 @@
           },
           {
             "score": "0-3",
-            "probability": 8.2
+            "probability": 8.3
           }
         ],
         "factors": [
@@ -4597,7 +4490,7 @@
           "Rest: away team well rested (7 days)",
           "Home injuries: no injuries reported",
           "Away injuries: no injuries reported",
-          "Weather: moderate wind (28 km/h)",
+          "Weather: good conditions (12°C, wind 23km/h, rain 0.8mm)",
           "Home motivation: relegation battle (24th of 24)",
           "Home motivation: poor recent form (LLLDLL)",
           "Away motivation: playoff/European contention (5th)",
@@ -4605,9 +4498,9 @@
         ],
         "model": {
           "homeAttackStr": 0.389,
-          "homeDefenceStr": 1.318,
-          "awayAttackStr": 0.916,
-          "awayDefenceStr": 0.735
+          "homeDefenceStr": 1.295,
+          "awayAttackStr": 0.901,
+          "awayDefenceStr": 0.734
         }
       },
       "likelyScorers": {
@@ -4619,21 +4512,21 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 2.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 3,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 2.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 3,
+          "gamesSampled": 2
         }
       },
       "weather": {
         "temp": 12,
         "feelsLike": 9,
-        "wind": 28,
-        "windGust": 61,
+        "wind": 23,
+        "windGust": 56,
         "rain": 0.8,
-        "humidity": 88,
+        "humidity": 87,
         "description": "Clear"
       },
       "injuries": {
@@ -4677,27 +4570,27 @@
         "points": 8
       },
       "prediction": {
-        "homeXG": 0.72,
-        "awayXG": 3.84,
+        "homeXG": 0.74,
+        "awayXG": 3.88,
         "predictedScore": "0-3",
-        "predictedScoreProb": 9.8,
+        "predictedScoreProb": 9.6,
         "outcomes": {
           "homeWin": 3.2,
-          "draw": 6.7,
-          "awayWin": 80.6
+          "draw": 6.6,
+          "awayWin": 80.4
         },
         "topScores": [
           {
             "score": "0-3",
-            "probability": 9.8
+            "probability": 9.6
           },
           {
             "score": "0-4",
-            "probability": 9.4
+            "probability": 9.3
           },
           {
             "score": "0-2",
-            "probability": 7.7
+            "probability": 7.4
           },
           {
             "score": "0-5",
@@ -4714,7 +4607,7 @@
           "Rest: away team well rested (8 days)",
           "Home injuries: no injuries reported",
           "Away injuries: no injuries reported",
-          "Weather: moderate wind (28 km/h)",
+          "Weather: good conditions (12°C, wind 23km/h, rain 0.8mm)",
           "Home motivation: mid-table (18th)",
           "Home motivation: poor recent form (DLLLWW)",
           "Away motivation: relegation battle (22th of 24)",
@@ -4722,8 +4615,8 @@
         ],
         "model": {
           "homeAttackStr": 0.378,
-          "homeDefenceStr": 2.163,
-          "awayAttackStr": 1.344,
+          "homeDefenceStr": 2.13,
+          "awayAttackStr": 1.322,
           "awayDefenceStr": 1.222
         }
       },
@@ -4733,21 +4626,21 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 2.3,
-          "gamesSampled": 3
+          "avgCardsPerGame": 2,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 2.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 2.5,
+          "gamesSampled": 2
         }
       },
       "weather": {
         "temp": 12,
         "feelsLike": 9,
-        "wind": 28,
-        "windGust": 61,
+        "wind": 23,
+        "windGust": 56,
         "rain": 0.8,
-        "humidity": 88,
+        "humidity": 87,
         "description": "Clear"
       },
       "injuries": {
@@ -4791,19 +4684,19 @@
         "points": 17
       },
       "prediction": {
-        "homeXG": 2.65,
+        "homeXG": 2.69,
         "awayXG": 0.64,
         "predictedScore": "2-0",
-        "predictedScoreProb": 13.1,
+        "predictedScoreProb": 12.9,
         "outcomes": {
-          "homeWin": 78.2,
-          "draw": 13.3,
-          "awayWin": 6.7
+          "homeWin": 78.5,
+          "draw": 13,
+          "awayWin": 6.5
         },
         "topScores": [
           {
             "score": "2-0",
-            "probability": 13.1
+            "probability": 12.9
           },
           {
             "score": "3-0",
@@ -4811,15 +4704,15 @@
           },
           {
             "score": "1-0",
-            "probability": 9.9
+            "probability": 9.6
           },
           {
             "score": "2-1",
-            "probability": 8.4
+            "probability": 8.3
           },
           {
             "score": "4-0",
-            "probability": 7.6
+            "probability": 7.8
           }
         ],
         "factors": [
@@ -4828,16 +4721,16 @@
           "Rest: away team well rested (7 days)",
           "Home injuries: no injuries reported",
           "Away injuries: no injuries reported",
-          "Weather: moderate wind (28 km/h)",
+          "Weather: good conditions (12°C, wind 23km/h, rain 0.8mm)",
           "Home motivation: title/promotion contender (2nd)",
           "Home motivation: strong recent form (WWDDWW)",
           "Away motivation: mid-table (8th)",
           "H2H: h2h balanced (home 3W/4D/1L, away 1W/4D/3L from 8)"
         ],
         "model": {
-          "homeAttackStr": 1.903,
-          "homeDefenceStr": 0.655,
-          "awayAttackStr": 0.754,
+          "homeAttackStr": 1.901,
+          "homeDefenceStr": 0.643,
+          "awayAttackStr": 0.742,
           "awayDefenceStr": 0.632
         }
       },
@@ -4853,21 +4746,21 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 1.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 1,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 0.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 1,
+          "gamesSampled": 2
         }
       },
       "weather": {
         "temp": 12,
         "feelsLike": 9,
-        "wind": 28,
-        "windGust": 61,
+        "wind": 23,
+        "windGust": 56,
         "rain": 0.8,
-        "humidity": 88,
+        "humidity": 87,
         "description": "Clear"
       },
       "injuries": {
@@ -4911,14 +4804,14 @@
         "points": 14
       },
       "prediction": {
-        "homeXG": 3.12,
+        "homeXG": 3.16,
         "awayXG": 1.04,
         "predictedScore": "3-1",
         "predictedScoreProb": 8.2,
         "outcomes": {
-          "homeWin": 74.4,
-          "draw": 12.5,
-          "awayWin": 9.1
+          "homeWin": 74.5,
+          "draw": 12.3,
+          "awayWin": 8.9
         },
         "topScores": [
           {
@@ -4927,19 +4820,19 @@
           },
           {
             "score": "3-0",
-            "probability": 7.9
+            "probability": 7.8
           },
           {
             "score": "2-1",
-            "probability": 7.9
+            "probability": 7.8
           },
           {
             "score": "2-0",
-            "probability": 7.6
+            "probability": 7.4
           },
           {
             "score": "4-1",
-            "probability": 6.4
+            "probability": 6.5
           }
         ],
         "factors": [
@@ -4948,16 +4841,16 @@
           "Rest: away team well rested (7 days)",
           "Home injuries: no injuries reported",
           "Away injuries: no injuries reported",
-          "Weather: moderate wind (28 km/h)",
+          "Weather: good conditions (12°C, wind 23km/h, rain 0.8mm)",
           "Home motivation: mid-table (10th)",
           "Away motivation: mid-table (14th)",
           "H2H: h2h balanced (home 0W/1D/1L, away 1W/1D/0L from 2)"
         ],
         "model": {
-          "homeAttackStr": 1.231,
-          "homeDefenceStr": 1.021,
-          "awayAttackStr": 0.784,
-          "awayDefenceStr": 1.213
+          "homeAttackStr": 1.229,
+          "homeDefenceStr": 1.004,
+          "awayAttackStr": 0.771,
+          "awayDefenceStr": 1.21
         }
       },
       "likelyScorers": {
@@ -4972,21 +4865,21 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 1.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 2,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 1,
-          "gamesSampled": 3
+          "avgCardsPerGame": 0.5,
+          "gamesSampled": 2
         }
       },
       "weather": {
         "temp": 12,
         "feelsLike": 9,
-        "wind": 28,
-        "windGust": 61,
+        "wind": 23,
+        "windGust": 56,
         "rain": 0.8,
-        "humidity": 88,
+        "humidity": 87,
         "description": "Clear"
       },
       "injuries": {
@@ -5030,31 +4923,31 @@
         "points": 11
       },
       "prediction": {
-        "homeXG": 3.09,
+        "homeXG": 3.14,
         "awayXG": 0.54,
         "predictedScore": "3-0",
-        "predictedScoreProb": 13.1,
+        "predictedScoreProb": 13,
         "outcomes": {
-          "homeWin": 83.1,
-          "draw": 9.3,
-          "awayWin": 3.8
+          "homeWin": 83.2,
+          "draw": 9,
+          "awayWin": 3.7
         },
         "topScores": [
           {
             "score": "3-0",
-            "probability": 13.1
+            "probability": 13
           },
           {
             "score": "2-0",
-            "probability": 12.7
+            "probability": 12.4
           },
           {
             "score": "4-0",
-            "probability": 10.1
+            "probability": 10.2
           },
           {
             "score": "1-0",
-            "probability": 8.2
+            "probability": 7.9
           },
           {
             "score": "3-1",
@@ -5066,16 +4959,16 @@
           "Rest: away team well rested (7 days)",
           "Home injuries: no injuries reported",
           "Away injuries: no injuries reported",
-          "Weather: moderate wind (28 km/h)",
+          "Weather: good conditions (12°C, wind 23km/h, rain 0.8mm)",
           "Home motivation: mid-table (7th)",
           "Away motivation: close to relegation zone (20th)",
           "H2H: h2h favours home team (home 2W/0D/1L from 3)"
         ],
         "model": {
           "homeAttackStr": 0.991,
-          "homeDefenceStr": 1.042,
-          "awayAttackStr": 0.395,
-          "awayDefenceStr": 1.583
+          "homeDefenceStr": 1.024,
+          "awayAttackStr": 0.389,
+          "awayDefenceStr": 1.579
         }
       },
       "likelyScorers": {
@@ -5088,20 +4981,20 @@
       "discipline": {
         "home": {
           "avgCardsPerGame": 1,
-          "gamesSampled": 3
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 2.3,
-          "gamesSampled": 3
+          "avgCardsPerGame": 3.5,
+          "gamesSampled": 2
         }
       },
       "weather": {
         "temp": 12,
         "feelsLike": 9,
-        "wind": 28,
-        "windGust": 61,
+        "wind": 23,
+        "windGust": 56,
         "rain": 0.8,
-        "humidity": 88,
+        "humidity": 87,
         "description": "Clear"
       },
       "injuries": {
@@ -5145,23 +5038,23 @@
         "points": 14
       },
       "prediction": {
-        "homeXG": 2.44,
-        "awayXG": 0.82,
+        "homeXG": 2.42,
+        "awayXG": 0.81,
         "predictedScore": "2-0",
-        "predictedScoreProb": 11.4,
+        "predictedScoreProb": 11.6,
         "outcomes": {
           "homeWin": 71.7,
-          "draw": 16.4,
-          "awayWin": 10.7
+          "draw": 16.5,
+          "awayWin": 10.6
         },
         "topScores": [
           {
             "score": "2-0",
-            "probability": 11.4
+            "probability": 11.6
           },
           {
             "score": "1-0",
-            "probability": 9.4
+            "probability": 9.6
           },
           {
             "score": "2-1",
@@ -5173,7 +5066,7 @@
           },
           {
             "score": "1-1",
-            "probability": 7.7
+            "probability": 7.8
           }
         ],
         "factors": [
@@ -5188,10 +5081,10 @@
           "H2H: h2h favours away team (away 2W/0D/0L from 2)"
         ],
         "model": {
-          "homeAttackStr": 1.019,
-          "homeDefenceStr": 0.762,
-          "awayAttackStr": 0.784,
-          "awayDefenceStr": 1.213
+          "homeAttackStr": 1.017,
+          "homeDefenceStr": 0.748,
+          "awayAttackStr": 0.771,
+          "awayDefenceStr": 1.21
         }
       },
       "likelyScorers": {
@@ -5206,12 +5099,12 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 1.3,
-          "gamesSampled": 3
+          "avgCardsPerGame": 1,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 1,
-          "gamesSampled": 3
+          "avgCardsPerGame": 0.5,
+          "gamesSampled": 2
         }
       },
       "weather": null,
@@ -5261,7 +5154,7 @@
         "predictedScore": "4-0",
         "predictedScoreProb": 8.2,
         "outcomes": {
-          "homeWin": 75.7,
+          "homeWin": 75.8,
           "draw": 4.9,
           "awayWin": 2.5
         },
@@ -5272,11 +5165,11 @@
           },
           {
             "score": "5-0",
-            "probability": 7.3
+            "probability": 7.4
           },
           {
             "score": "3-0",
-            "probability": 7.2
+            "probability": 7.3
           },
           {
             "score": "4-1",
@@ -5301,10 +5194,10 @@
           "H2H: h2h balanced (home 2W/4D/4L, away 4W/4D/2L from 10)"
         ],
         "model": {
-          "homeAttackStr": 1.275,
-          "homeDefenceStr": 1.058,
-          "awayAttackStr": 0.61,
-          "awayDefenceStr": 1.791
+          "homeAttackStr": 1.274,
+          "homeDefenceStr": 1.042,
+          "awayAttackStr": 0.599,
+          "awayDefenceStr": 1.788
         }
       },
       "likelyScorers": {
@@ -5316,12 +5209,12 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 1.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 1.5,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 2.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 3,
+          "gamesSampled": 2
         }
       },
       "weather": null,
@@ -5366,27 +5259,27 @@
         "points": 11
       },
       "prediction": {
-        "homeXG": 2.67,
-        "awayXG": 0.66,
+        "homeXG": 2.65,
+        "awayXG": 0.65,
         "predictedScore": "2-0",
-        "predictedScoreProb": 12.7,
+        "predictedScoreProb": 12.9,
         "outcomes": {
           "homeWin": 77.9,
-          "draw": 13.3,
+          "draw": 13.4,
           "awayWin": 6.8
         },
         "topScores": [
           {
             "score": "2-0",
-            "probability": 12.7
+            "probability": 12.9
           },
           {
             "score": "3-0",
-            "probability": 11.3
+            "probability": 11.4
           },
           {
             "score": "1-0",
-            "probability": 9.6
+            "probability": 9.7
           },
           {
             "score": "2-1",
@@ -5411,9 +5304,9 @@
         ],
         "model": {
           "homeAttackStr": 0.898,
-          "homeDefenceStr": 1.255,
-          "awayAttackStr": 0.395,
-          "awayDefenceStr": 1.583
+          "homeDefenceStr": 1.234,
+          "awayAttackStr": 0.389,
+          "awayDefenceStr": 1.579
         }
       },
       "likelyScorers": {
@@ -5425,12 +5318,12 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 3.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 2.5,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 2.3,
-          "gamesSampled": 3
+          "avgCardsPerGame": 3.5,
+          "gamesSampled": 2
         }
       },
       "weather": null,
@@ -5476,12 +5369,12 @@
       },
       "prediction": {
         "homeXG": 0.3,
-        "awayXG": 3.11,
+        "awayXG": 3.08,
         "predictedScore": "0-3",
         "predictedScoreProb": 16.6,
         "outcomes": {
-          "homeWin": 1.7,
-          "draw": 7.2,
+          "homeWin": 1.8,
+          "draw": 7.3,
           "awayWin": 87.1
         },
         "topScores": [
@@ -5491,19 +5384,19 @@
           },
           {
             "score": "0-2",
-            "probability": 16
+            "probability": 16.1
           },
           {
             "score": "0-4",
-            "probability": 12.9
+            "probability": 12.8
           },
           {
             "score": "0-1",
-            "probability": 10.3
+            "probability": 10.5
           },
           {
             "score": "0-5",
-            "probability": 8
+            "probability": 7.9
           }
         ],
         "factors": [
@@ -5521,8 +5414,8 @@
         ],
         "model": {
           "homeAttackStr": 0.378,
-          "homeDefenceStr": 2.163,
-          "awayAttackStr": 1.042,
+          "homeDefenceStr": 2.13,
+          "awayAttackStr": 1.026,
           "awayDefenceStr": 0.472
         }
       },
@@ -5535,12 +5428,12 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 2.3,
-          "gamesSampled": 3
+          "avgCardsPerGame": 2,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 2.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 2.5,
+          "gamesSampled": 2
         }
       },
       "weather": null,
@@ -5585,27 +5478,27 @@
         "points": 11
       },
       "prediction": {
-        "homeXG": 2.27,
-        "awayXG": 1.3,
+        "homeXG": 2.26,
+        "awayXG": 1.28,
         "predictedScore": "2-1",
-        "predictedScoreProb": 9.4,
+        "predictedScoreProb": 9.5,
         "outcomes": {
-          "homeWin": 58.5,
-          "draw": 19.6,
-          "awayWin": 20.9
+          "homeWin": 58.7,
+          "draw": 19.7,
+          "awayWin": 20.7
         },
         "topScores": [
           {
             "score": "2-1",
-            "probability": 9.4
+            "probability": 9.5
           },
           {
             "score": "1-1",
-            "probability": 8.3
+            "probability": 8.4
           },
           {
             "score": "2-0",
-            "probability": 7.3
+            "probability": 7.4
           },
           {
             "score": "3-1",
@@ -5613,7 +5506,7 @@
           },
           {
             "score": "1-0",
-            "probability": 6.4
+            "probability": 6.5
           }
         ],
         "factors": [
@@ -5629,9 +5522,9 @@
         ],
         "model": {
           "homeAttackStr": 0.991,
-          "homeDefenceStr": 1.042,
-          "awayAttackStr": 0.932,
-          "awayDefenceStr": 1.164
+          "homeDefenceStr": 1.024,
+          "awayAttackStr": 0.918,
+          "awayDefenceStr": 1.162
         }
       },
       "likelyScorers": {
@@ -5647,11 +5540,11 @@
       "discipline": {
         "home": {
           "avgCardsPerGame": 1,
-          "gamesSampled": 3
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 2.3,
-          "gamesSampled": 3
+          "avgCardsPerGame": 3,
+          "gamesSampled": 2
         }
       },
       "weather": null,
@@ -5696,27 +5589,27 @@
         "points": 20
       },
       "prediction": {
-        "homeXG": 3.27,
-        "awayXG": 0.8,
+        "homeXG": 3.25,
+        "awayXG": 0.79,
         "predictedScore": "3-0",
-        "predictedScoreProb": 9.9,
+        "predictedScoreProb": 10,
         "outcomes": {
-          "homeWin": 79.3,
-          "draw": 10.1,
+          "homeWin": 79.4,
+          "draw": 10.2,
           "awayWin": 5.7
         },
         "topScores": [
           {
             "score": "3-0",
-            "probability": 9.9
+            "probability": 10
           },
           {
             "score": "2-0",
-            "probability": 9.1
+            "probability": 9.3
           },
           {
             "score": "4-0",
-            "probability": 8.1
+            "probability": 8.2
           },
           {
             "score": "3-1",
@@ -5740,10 +5633,10 @@
           "H2H: h2h favours home team (home 2W/0D/0L from 2)"
         ],
         "model": {
-          "homeAttackStr": 1.903,
-          "homeDefenceStr": 0.655,
-          "awayAttackStr": 0.916,
-          "awayDefenceStr": 0.735
+          "homeAttackStr": 1.901,
+          "homeDefenceStr": 0.643,
+          "awayAttackStr": 0.901,
+          "awayDefenceStr": 0.734
         }
       },
       "likelyScorers": {
@@ -5758,12 +5651,12 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 1.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 1,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 2.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 3,
+          "gamesSampled": 2
         }
       },
       "weather": null,
@@ -5808,19 +5701,19 @@
         "points": 15
       },
       "prediction": {
-        "homeXG": 1.67,
-        "awayXG": 0.69,
+        "homeXG": 1.66,
+        "awayXG": 0.68,
         "predictedScore": "1-0",
-        "predictedScoreProb": 15.8,
+        "predictedScoreProb": 15.9,
         "outcomes": {
           "homeWin": 60.7,
-          "draw": 23.9,
-          "awayWin": 15.2
+          "draw": 24,
+          "awayWin": 15.1
         },
         "topScores": [
           {
             "score": "1-0",
-            "probability": 15.8
+            "probability": 15.9
           },
           {
             "score": "2-0",
@@ -5832,11 +5725,11 @@
           },
           {
             "score": "0-0",
-            "probability": 9.5
+            "probability": 9.6
           },
           {
             "score": "2-1",
-            "probability": 9.1
+            "probability": 9
           }
         ],
         "factors": [
@@ -5851,10 +5744,10 @@
           "H2H: h2h balanced (home 6W/0D/4L, away 4W/0D/6L from 10)"
         ],
         "model": {
-          "homeAttackStr": 0.77,
-          "homeDefenceStr": 0.48,
-          "awayAttackStr": 1.088,
-          "awayDefenceStr": 1.031
+          "homeAttackStr": 0.769,
+          "homeDefenceStr": 0.473,
+          "awayAttackStr": 1.071,
+          "awayDefenceStr": 1.03
         }
       },
       "likelyScorers": {
@@ -5869,12 +5762,12 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 1.3,
-          "gamesSampled": 3
+          "avgCardsPerGame": 1.5,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 1.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 2,
+          "gamesSampled": 2
         }
       },
       "weather": null,
@@ -5905,7 +5798,7 @@
         "name": "Bolton",
         "fullName": "Bolton Wanderers FC",
         "crest": "https://crests.football-data.org/60.png",
-        "form": "DWLWWL",
+        "form": "LDWLWW",
         "rank": 15,
         "points": 14
       },
@@ -5919,40 +5812,40 @@
         "points": 14
       },
       "prediction": {
-        "homeXG": 1.83,
-        "awayXG": 1.44,
-        "predictedScore": "1-1",
-        "predictedScoreProb": 10,
+        "homeXG": 1.64,
+        "awayXG": 2.3,
+        "predictedScore": "1-2",
+        "predictedScoreProb": 8.4,
         "outcomes": {
-          "homeWin": 46.6,
-          "draw": 22.7,
-          "awayWin": 30.4
+          "homeWin": 27.2,
+          "draw": 19.9,
+          "awayWin": 51.8
         },
         "topScores": [
           {
-            "score": "1-1",
-            "probability": 10
-          },
-          {
-            "score": "2-1",
-            "probability": 9.2
-          },
-          {
             "score": "1-2",
-            "probability": 7.2
+            "probability": 8.4
           },
           {
-            "score": "1-0",
-            "probability": 6.9
+            "score": "1-1",
+            "probability": 7.3
           },
           {
             "score": "2-2",
-            "probability": 6.6
+            "probability": 6.9
+          },
+          {
+            "score": "1-3",
+            "probability": 6.5
+          },
+          {
+            "score": "2-1",
+            "probability": 6
           }
         ],
         "factors": [
-          "Venue: 40% home win rate",
-          "Rest: home team well rested (14 days)",
+          "Venue: 33% home win rate",
+          "Rest: home team well rested (8 days)",
           "Rest: away team well rested (14 days)",
           "Home injuries: no injuries reported",
           "Away injuries: no injuries reported",
@@ -5963,10 +5856,10 @@
           "H2H: no h2h data"
         ],
         "model": {
-          "homeAttackStr": 0.825,
-          "homeDefenceStr": 1.037,
-          "awayAttackStr": 1.086,
-          "awayDefenceStr": 1.128
+          "homeAttackStr": 0.763,
+          "homeDefenceStr": 1.652,
+          "awayAttackStr": 1.066,
+          "awayDefenceStr": 1.127
         }
       },
       "likelyScorers": {
@@ -5978,12 +5871,12 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 1.5,
-          "gamesSampled": 2
-        },
-        "away": {
           "avgCardsPerGame": 1,
           "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 0,
+          "gamesSampled": 2
         }
       },
       "weather": null,
@@ -5992,7 +5885,7 @@
         "away": []
       },
       "daysRest": {
-        "home": 14,
+        "home": 8,
         "away": 14
       }
     },
@@ -6014,7 +5907,7 @@
         "name": "Middlesbrough",
         "fullName": "Middlesbrough FC",
         "crest": "https://crests.football-data.org/343.png",
-        "form": "DWWDDW",
+        "form": "WDWWDD",
         "rank": 3,
         "points": 22
       },
@@ -6029,59 +5922,60 @@
       },
       "prediction": {
         "homeXG": 4.5,
-        "awayXG": 1.02,
-        "predictedScore": "4-1",
-        "predictedScoreProb": 7,
+        "awayXG": 0.96,
+        "predictedScore": "4-0",
+        "predictedScoreProb": 7.2,
         "outcomes": {
-          "homeWin": 73.9,
-          "draw": 5.8,
-          "awayWin": 3.4
+          "homeWin": 74.5,
+          "draw": 5.5,
+          "awayWin": 3.1
         },
         "topScores": [
+          {
+            "score": "4-0",
+            "probability": 7.2
+          },
           {
             "score": "4-1",
             "probability": 7
           },
           {
-            "score": "4-0",
-            "probability": 6.8
+            "score": "5-0",
+            "probability": 6.5
+          },
+          {
+            "score": "3-0",
+            "probability": 6.4
           },
           {
             "score": "5-1",
             "probability": 6.3
-          },
-          {
-            "score": "3-1",
-            "probability": 6.2
-          },
-          {
-            "score": "5-0",
-            "probability": 6.2
           }
         ],
         "factors": [
           "Venue: strong home fortress (67% win rate, 2.3 GPG at home)",
-          "Rest: home team well rested (14 days)",
+          "Rest: home team well rested (8 days)",
           "Rest: away team well rested (14 days)",
           "Home injuries: no injuries reported",
           "Away injuries: no injuries reported",
           "Weather: no weather data",
           "Home motivation: playoff/European contention (3th)",
+          "Home motivation: strong recent form (WDWWDD)",
           "Away motivation: mid-table (17th)",
           "Away motivation: poor recent form (LDDLDD)",
           "H2H: h2h favours home team (home 2W/0D/1L from 3)"
         ],
         "model": {
-          "homeAttackStr": 1.444,
-          "homeDefenceStr": 1.134,
-          "awayAttackStr": 0.702,
-          "awayDefenceStr": 1.368
+          "homeAttackStr": 1.482,
+          "homeDefenceStr": 1.068,
+          "awayAttackStr": 0.69,
+          "awayDefenceStr": 1.366
         }
       },
       "likelyScorers": {
         "home": {
           "name": "William Lankshear",
-          "goals": 9
+          "goals": 11
         },
         "away": {
           "name": "Tyreece Campbell",
@@ -6091,11 +5985,11 @@
       "discipline": {
         "home": {
           "avgCardsPerGame": 2,
-          "gamesSampled": 2
+          "gamesSampled": 3
         },
         "away": {
-          "avgCardsPerGame": 1,
-          "gamesSampled": 3
+          "avgCardsPerGame": 1.5,
+          "gamesSampled": 2
         }
       },
       "weather": null,
@@ -6104,7 +5998,7 @@
         "away": []
       },
       "daysRest": {
-        "home": 14,
+        "home": 8,
         "away": 14
       }
     },
@@ -6141,22 +6035,22 @@
       },
       "prediction": {
         "homeXG": 0.81,
-        "awayXG": 1.21,
+        "awayXG": 1.19,
         "predictedScore": "0-1",
-        "predictedScoreProb": 16,
+        "predictedScoreProb": 16.1,
         "outcomes": {
-          "homeWin": 24.9,
-          "draw": 29.9,
-          "awayWin": 45.2
+          "homeWin": 25,
+          "draw": 30.1,
+          "awayWin": 44.9
         },
         "topScores": [
           {
             "score": "0-1",
-            "probability": 16
+            "probability": 16.1
           },
           {
             "score": "0-0",
-            "probability": 13.3
+            "probability": 13.5
           },
           {
             "score": "1-1",
@@ -6164,11 +6058,11 @@
           },
           {
             "score": "1-0",
-            "probability": 10.8
+            "probability": 11
           },
           {
             "score": "0-2",
-            "probability": 9.7
+            "probability": 9.6
           }
         ],
         "factors": [
@@ -6183,10 +6077,10 @@
           "H2H: h2h balanced (home 1W/1D/0L, away 0W/1D/1L from 2)"
         ],
         "model": {
-          "homeAttackStr": 0.918,
-          "homeDefenceStr": 1.252,
-          "awayAttackStr": 0.729,
-          "awayDefenceStr": 0.527
+          "homeAttackStr": 0.916,
+          "homeDefenceStr": 1.231,
+          "awayAttackStr": 0.717,
+          "awayDefenceStr": 0.526
         }
       },
       "likelyScorers": {
@@ -6195,12 +6089,12 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 2.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 2.5,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 0.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 0.5,
+          "gamesSampled": 2
         }
       },
       "weather": null,
@@ -6245,23 +6139,23 @@
         "points": 6
       },
       "prediction": {
-        "homeXG": 2.95,
-        "awayXG": 0.98,
+        "homeXG": 2.93,
+        "awayXG": 0.97,
         "predictedScore": "2-0",
-        "predictedScoreProb": 8.5,
+        "predictedScoreProb": 8.7,
         "outcomes": {
-          "homeWin": 74.1,
+          "homeWin": 74.2,
           "draw": 13.4,
-          "awayWin": 9.5
+          "awayWin": 9.4
         },
         "topScores": [
           {
             "score": "2-0",
-            "probability": 8.5
+            "probability": 8.7
           },
           {
             "score": "3-0",
-            "probability": 8.4
+            "probability": 8.5
           },
           {
             "score": "2-1",
@@ -6290,9 +6184,9 @@
         ],
         "model": {
           "homeAttackStr": 1.072,
-          "homeDefenceStr": 1.051,
-          "awayAttackStr": 0.712,
-          "awayDefenceStr": 1.435
+          "homeDefenceStr": 1.034,
+          "awayAttackStr": 0.7,
+          "awayDefenceStr": 1.432
         }
       },
       "likelyScorers": {
@@ -6304,12 +6198,12 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 1.3,
-          "gamesSampled": 3
+          "avgCardsPerGame": 1,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 1.3,
-          "gamesSampled": 3
+          "avgCardsPerGame": 2,
+          "gamesSampled": 2
         }
       },
       "weather": null,
@@ -6354,19 +6248,19 @@
         "points": 17
       },
       "prediction": {
-        "homeXG": 2.83,
-        "awayXG": 0.45,
+        "homeXG": 2.82,
+        "awayXG": 0.44,
         "predictedScore": "2-0",
-        "predictedScoreProb": 15.1,
+        "predictedScoreProb": 15.2,
         "outcomes": {
-          "homeWin": 83.5,
+          "homeWin": 83.6,
           "draw": 10.3,
           "awayWin": 3.6
         },
         "topScores": [
           {
             "score": "2-0",
-            "probability": 15.1
+            "probability": 15.2
           },
           {
             "score": "3-0",
@@ -6374,7 +6268,7 @@
           },
           {
             "score": "1-0",
-            "probability": 10.7
+            "probability": 10.8
           },
           {
             "score": "4-0",
@@ -6382,7 +6276,7 @@
           },
           {
             "score": "2-1",
-            "probability": 6.8
+            "probability": 6.7
           }
         ],
         "factors": [
@@ -6398,9 +6292,9 @@
         ],
         "model": {
           "homeAttackStr": 1.406,
-          "homeDefenceStr": 0.42,
-          "awayAttackStr": 0.807,
-          "awayDefenceStr": 0.889
+          "homeDefenceStr": 0.412,
+          "awayAttackStr": 0.792,
+          "awayDefenceStr": 0.887
         }
       },
       "likelyScorers": {
@@ -6412,12 +6306,12 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 0.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 1,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 1,
-          "gamesSampled": 3
+          "avgCardsPerGame": 0.5,
+          "gamesSampled": 2
         }
       },
       "weather": null,
@@ -6462,30 +6356,30 @@
         "points": 8
       },
       "prediction": {
-        "homeXG": 3.11,
-        "awayXG": 1.56,
+        "homeXG": 3.09,
+        "awayXG": 1.54,
         "predictedScore": "3-1",
-        "predictedScoreProb": 7.3,
+        "predictedScoreProb": 7.4,
         "outcomes": {
-          "homeWin": 64.6,
+          "homeWin": 64.7,
           "draw": 15.1,
-          "awayWin": 16.3
+          "awayWin": 16.2
         },
         "topScores": [
           {
             "score": "3-1",
-            "probability": 7.3
+            "probability": 7.4
           },
           {
             "score": "2-1",
-            "probability": 7.1
-          },
-          {
-            "score": "3-2",
-            "probability": 5.7
+            "probability": 7.2
           },
           {
             "score": "4-1",
+            "probability": 5.7
+          },
+          {
+            "score": "3-2",
             "probability": 5.7
           },
           {
@@ -6505,9 +6399,9 @@
           "H2H: h2h balanced (home 1W/1D/2L, away 2W/1D/1L from 4)"
         ],
         "model": {
-          "homeAttackStr": 1.291,
-          "homeDefenceStr": 0.858,
-          "awayAttackStr": 1.344,
+          "homeAttackStr": 1.288,
+          "homeDefenceStr": 0.845,
+          "awayAttackStr": 1.322,
           "awayDefenceStr": 1.222
         }
       },
@@ -6517,12 +6411,12 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 1,
-          "gamesSampled": 3
+          "avgCardsPerGame": 0.5,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 2.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 2.5,
+          "gamesSampled": 2
         }
       },
       "weather": null,
@@ -6568,22 +6462,22 @@
       },
       "prediction": {
         "homeXG": 0.99,
-        "awayXG": 1.6,
+        "awayXG": 1.58,
         "predictedScore": "0-1",
-        "predictedScoreProb": 12,
+        "predictedScoreProb": 12.1,
         "outcomes": {
-          "homeWin": 23.4,
-          "draw": 25,
-          "awayWin": 51.4
+          "homeWin": 23.6,
+          "draw": 25.2,
+          "awayWin": 51
         },
         "topScores": [
           {
             "score": "0-1",
-            "probability": 12
+            "probability": 12.1
           },
           {
             "score": "1-1",
-            "probability": 11.9
+            "probability": 12
           },
           {
             "score": "0-2",
@@ -6595,7 +6489,7 @@
           },
           {
             "score": "0-0",
-            "probability": 7.5
+            "probability": 7.7
           }
         ],
         "factors": [
@@ -6613,9 +6507,9 @@
         ],
         "model": {
           "homeAttackStr": 0.411,
-          "homeDefenceStr": 1.187,
-          "awayAttackStr": 1.043,
-          "awayDefenceStr": 1.477
+          "homeDefenceStr": 1.167,
+          "awayAttackStr": 1.025,
+          "awayDefenceStr": 1.475
         }
       },
       "likelyScorers": {
@@ -6627,12 +6521,12 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 1.3,
-          "gamesSampled": 3
+          "avgCardsPerGame": 2,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 3.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 2.5,
+          "gamesSampled": 2
         }
       },
       "weather": null,
@@ -6677,23 +6571,23 @@
         "points": 19
       },
       "prediction": {
-        "homeXG": 2.33,
-        "awayXG": 1.48,
+        "homeXG": 2.32,
+        "awayXG": 1.46,
         "predictedScore": "2-1",
-        "predictedScoreProb": 8.9,
+        "predictedScoreProb": 9,
         "outcomes": {
-          "homeWin": 55.6,
+          "homeWin": 55.8,
           "draw": 19.6,
-          "awayWin": 23.8
+          "awayWin": 23.5
         },
         "topScores": [
           {
             "score": "2-1",
-            "probability": 8.9
+            "probability": 9
           },
           {
             "score": "1-1",
-            "probability": 7.6
+            "probability": 7.7
           },
           {
             "score": "3-1",
@@ -6705,7 +6599,7 @@
           },
           {
             "score": "2-0",
-            "probability": 6
+            "probability": 6.1
           }
         ],
         "factors": [
@@ -6721,9 +6615,9 @@
           "H2H: h2h balanced (home 3W/2D/5L, away 5W/2D/3L from 10)"
         ],
         "model": {
-          "homeAttackStr": 1.231,
-          "homeDefenceStr": 1.021,
-          "awayAttackStr": 1.05,
+          "homeAttackStr": 1.229,
+          "homeDefenceStr": 1.004,
+          "awayAttackStr": 1.033,
           "awayDefenceStr": 0.888
         }
       },
@@ -6739,12 +6633,12 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 1.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 2,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 1.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 1.5,
+          "gamesSampled": 2
         }
       },
       "weather": null,
@@ -6789,14 +6683,14 @@
         "points": 12
       },
       "prediction": {
-        "homeXG": 1.7,
-        "awayXG": 1.17,
+        "homeXG": 1.69,
+        "awayXG": 1.16,
         "predictedScore": "1-1",
         "predictedScoreProb": 11.3,
         "outcomes": {
-          "homeWin": 49.6,
-          "draw": 23.9,
-          "awayWin": 26.2
+          "homeWin": 49.7,
+          "draw": 24,
+          "awayWin": 26.1
         },
         "topScores": [
           {
@@ -6805,7 +6699,7 @@
           },
           {
             "score": "1-0",
-            "probability": 9.6
+            "probability": 9.8
           },
           {
             "score": "2-1",
@@ -6813,11 +6707,11 @@
           },
           {
             "score": "2-0",
-            "probability": 8.2
+            "probability": 8.3
           },
           {
             "score": "0-1",
-            "probability": 6.6
+            "probability": 6.7
           }
         ],
         "factors": [
@@ -6833,10 +6727,10 @@
           "H2H: no h2h data"
         ],
         "model": {
-          "homeAttackStr": 0.82,
-          "homeDefenceStr": 1.228,
-          "awayAttackStr": 0.746,
-          "awayDefenceStr": 1.005
+          "homeAttackStr": 0.819,
+          "homeDefenceStr": 1.208,
+          "awayAttackStr": 0.733,
+          "awayDefenceStr": 1.002
         }
       },
       "likelyScorers": {
@@ -6845,12 +6739,12 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 2.3,
-          "gamesSampled": 3
+          "avgCardsPerGame": 3.5,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 2.3,
-          "gamesSampled": 3
+          "avgCardsPerGame": 2,
+          "gamesSampled": 2
         }
       },
       "weather": null,
@@ -6890,32 +6784,32 @@
         "name": "Bolton",
         "fullName": "Bolton Wanderers FC",
         "crest": "https://crests.football-data.org/60.png",
-        "form": "DWLWWL",
+        "form": "LDWLWW",
         "rank": 15,
         "points": 14
       },
       "prediction": {
-        "homeXG": 0.91,
-        "awayXG": 0.67,
+        "homeXG": 0.99,
+        "awayXG": 0.65,
         "predictedScore": "0-0",
-        "predictedScoreProb": 20.7,
+        "predictedScoreProb": 19.4,
         "outcomes": {
-          "homeWin": 39.3,
-          "draw": 35.3,
-          "awayWin": 25.4
+          "homeWin": 42.8,
+          "draw": 34,
+          "awayWin": 23.2
         },
         "topScores": [
           {
             "score": "0-0",
-            "probability": 20.7
+            "probability": 19.4
           },
           {
             "score": "1-0",
-            "probability": 18.8
+            "probability": 19.3
           },
           {
             "score": "0-1",
-            "probability": 13.8
+            "probability": 12.5
           },
           {
             "score": "1-1",
@@ -6923,13 +6817,13 @@
           },
           {
             "score": "2-0",
-            "probability": 8.5
+            "probability": 9.6
           }
         ],
         "factors": [
           "Venue: 40% home win rate",
           "Rest: home team well rested (17 days)",
-          "Rest: away team well rested (17 days)",
+          "Rest: away team well rested (11 days)",
           "Home injuries: no injuries reported",
           "Away injuries: no injuries reported",
           "Weather: no weather data",
@@ -6940,9 +6834,9 @@
         ],
         "model": {
           "homeAttackStr": 0.48,
-          "homeDefenceStr": 0.436,
-          "awayAttackStr": 1.158,
-          "awayDefenceStr": 0.99
+          "homeDefenceStr": 0.43,
+          "awayAttackStr": 1.116,
+          "awayDefenceStr": 1.087
         }
       },
       "likelyScorers": {
@@ -6957,12 +6851,12 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 1,
-          "gamesSampled": 3
-        },
-        "away": {
           "avgCardsPerGame": 1.5,
           "gamesSampled": 2
+        },
+        "away": {
+          "avgCardsPerGame": 1,
+          "gamesSampled": 3
         }
       },
       "weather": null,
@@ -6972,7 +6866,7 @@
       },
       "daysRest": {
         "home": 17,
-        "away": 17
+        "away": 11
       }
     },
     {
@@ -7007,14 +6901,14 @@
         "points": 23
       },
       "prediction": {
-        "homeXG": 1.42,
-        "awayXG": 2.13,
+        "homeXG": 1.41,
+        "awayXG": 2.1,
         "predictedScore": "1-2",
         "predictedScoreProb": 9.3,
         "outcomes": {
-          "homeWin": 25.3,
-          "draw": 20.8,
-          "awayWin": 53.2
+          "homeWin": 25.6,
+          "draw": 21,
+          "awayWin": 52.8
         },
         "topScores": [
           {
@@ -7023,7 +6917,11 @@
           },
           {
             "score": "1-1",
-            "probability": 8.7
+            "probability": 8.8
+          },
+          {
+            "score": "0-2",
+            "probability": 6.6
           },
           {
             "score": "2-2",
@@ -7031,10 +6929,6 @@
           },
           {
             "score": "1-3",
-            "probability": 6.6
-          },
-          {
-            "score": "0-2",
             "probability": 6.5
           }
         ],
@@ -7050,9 +6944,9 @@
           "H2H: h2h balanced (home 1W/1D/2L, away 2W/1D/1L from 4)"
         ],
         "model": {
-          "homeAttackStr": 1.171,
-          "homeDefenceStr": 1.292,
-          "awayAttackStr": 1.218,
+          "homeAttackStr": 1.169,
+          "homeDefenceStr": 1.27,
+          "awayAttackStr": 1.197,
           "awayDefenceStr": 0.615
         }
       },
@@ -7065,12 +6959,12 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 0.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 0.5,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 1.3,
-          "gamesSampled": 3
+          "avgCardsPerGame": 1.5,
+          "gamesSampled": 2
         }
       },
       "weather": null,
@@ -7116,22 +7010,22 @@
       },
       "prediction": {
         "homeXG": 0.6,
-        "awayXG": 1.79,
+        "awayXG": 1.76,
         "predictedScore": "0-1",
-        "predictedScoreProb": 16.4,
+        "predictedScoreProb": 16.6,
         "outcomes": {
-          "homeWin": 11.9,
-          "draw": 22,
-          "awayWin": 65.8
+          "homeWin": 12.1,
+          "draw": 22.3,
+          "awayWin": 65.4
         },
         "topScores": [
           {
             "score": "0-1",
-            "probability": 16.4
+            "probability": 16.6
           },
           {
             "score": "0-2",
-            "probability": 14.7
+            "probability": 14.6
           },
           {
             "score": "1-1",
@@ -7139,7 +7033,7 @@
           },
           {
             "score": "0-0",
-            "probability": 9.2
+            "probability": 9.4
           },
           {
             "score": "1-2",
@@ -7160,9 +7054,9 @@
         ],
         "model": {
           "homeAttackStr": 0.389,
-          "homeDefenceStr": 1.318,
-          "awayAttackStr": 1.026,
-          "awayDefenceStr": 0.863
+          "homeDefenceStr": 1.295,
+          "awayAttackStr": 1.009,
+          "awayDefenceStr": 0.862
         }
       },
       "likelyScorers": {
@@ -7174,12 +7068,12 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 2.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 3,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 1.3,
-          "gamesSampled": 3
+          "avgCardsPerGame": 1,
+          "gamesSampled": 2
         }
       },
       "weather": null,
@@ -7224,19 +7118,19 @@
         "points": 17
       },
       "prediction": {
-        "homeXG": 1.32,
-        "awayXG": 0.87,
+        "homeXG": 1.31,
+        "awayXG": 0.86,
         "predictedScore": "1-0",
-        "predictedScoreProb": 14.8,
+        "predictedScoreProb": 14.9,
         "outcomes": {
-          "homeWin": 47,
+          "homeWin": 47.1,
           "draw": 28.3,
-          "awayWin": 24.7
+          "awayWin": 24.5
         },
         "topScores": [
           {
             "score": "1-0",
-            "probability": 14.8
+            "probability": 14.9
           },
           {
             "score": "1-1",
@@ -7244,15 +7138,15 @@
           },
           {
             "score": "0-0",
-            "probability": 11.2
+            "probability": 11.4
+          },
+          {
+            "score": "2-0",
+            "probability": 9.8
           },
           {
             "score": "0-1",
             "probability": 9.8
-          },
-          {
-            "score": "2-0",
-            "probability": 9.7
           }
         ],
         "factors": [
@@ -7267,9 +7161,9 @@
           "H2H: h2h favours away team (away 5W/2D/1L from 8)"
         ],
         "model": {
-          "homeAttackStr": 1.003,
-          "homeDefenceStr": 0.841,
-          "awayAttackStr": 0.754,
+          "homeAttackStr": 1.001,
+          "homeDefenceStr": 0.828,
+          "awayAttackStr": 0.742,
           "awayDefenceStr": 0.632
         }
       },
@@ -7285,12 +7179,12 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 2.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 3,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 0.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 1,
+          "gamesSampled": 2
         }
       },
       "weather": null,
@@ -7335,27 +7229,27 @@
         "points": 15
       },
       "prediction": {
-        "homeXG": 3.77,
-        "awayXG": 0.92,
+        "homeXG": 3.75,
+        "awayXG": 0.9,
         "predictedScore": "3-0",
-        "predictedScoreProb": 8.2,
+        "predictedScoreProb": 8.4,
         "outcomes": {
-          "homeWin": 78.1,
+          "homeWin": 78.4,
           "draw": 8.2,
-          "awayWin": 4.9
+          "awayWin": 4.8
         },
         "topScores": [
           {
             "score": "3-0",
-            "probability": 8.2
+            "probability": 8.4
           },
           {
             "score": "4-0",
-            "probability": 7.7
+            "probability": 7.8
           },
           {
             "score": "3-1",
-            "probability": 7.5
+            "probability": 7.6
           },
           {
             "score": "4-1",
@@ -7363,7 +7257,7 @@
           },
           {
             "score": "2-0",
-            "probability": 6.5
+            "probability": 6.7
           }
         ],
         "factors": [
@@ -7379,9 +7273,9 @@
           "H2H: h2h balanced (home 2W/4D/4L, away 4W/4D/2L from 10)"
         ],
         "model": {
-          "homeAttackStr": 1.665,
-          "homeDefenceStr": 0.68,
-          "awayAttackStr": 1.022,
+          "homeAttackStr": 1.662,
+          "homeDefenceStr": 0.667,
+          "awayAttackStr": 1.005,
           "awayDefenceStr": 1.13
         }
       },
@@ -7397,12 +7291,12 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 2.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 2.5,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 1.3,
-          "gamesSampled": 3
+          "avgCardsPerGame": 1,
+          "gamesSampled": 2
         }
       },
       "weather": null,
@@ -7447,14 +7341,14 @@
         "points": 22
       },
       "prediction": {
-        "homeXG": 2.17,
-        "awayXG": 2.43,
+        "homeXG": 2.16,
+        "awayXG": 2.4,
         "predictedScore": "2-2",
         "predictedScoreProb": 7,
         "outcomes": {
-          "homeWin": 35.1,
-          "draw": 19,
-          "awayWin": 44
+          "homeWin": 35.4,
+          "draw": 19.2,
+          "awayWin": 43.6
         },
         "topScores": [
           {
@@ -7463,19 +7357,19 @@
           },
           {
             "score": "1-2",
-            "probability": 6.4
+            "probability": 6.5
           },
           {
             "score": "2-1",
-            "probability": 5.7
+            "probability": 5.8
           },
           {
             "score": "2-3",
-            "probability": 5.7
+            "probability": 5.6
           },
           {
             "score": "1-1",
-            "probability": 5.3
+            "probability": 5.4
           }
         ],
         "factors": [
@@ -7491,9 +7385,9 @@
           "H2H: no h2h data"
         ],
         "model": {
-          "homeAttackStr": 1.756,
-          "homeDefenceStr": 0.892,
-          "awayAttackStr": 1.96,
+          "homeAttackStr": 1.753,
+          "homeDefenceStr": 0.877,
+          "awayAttackStr": 1.928,
           "awayDefenceStr": 0.622
         }
       },
@@ -7509,12 +7403,12 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 2.3,
-          "gamesSampled": 3
+          "avgCardsPerGame": 3,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 1.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 1,
+          "gamesSampled": 2
         }
       },
       "weather": null,
@@ -7554,58 +7448,59 @@
         "name": "Middlesbrough",
         "fullName": "Middlesbrough FC",
         "crest": "https://crests.football-data.org/343.png",
-        "form": "DWWDDW",
+        "form": "WDWWDD",
         "rank": 3,
         "points": 22
       },
       "prediction": {
-        "homeXG": 2.4,
-        "awayXG": 1.93,
-        "predictedScore": "2-1",
-        "predictedScoreProb": 7.3,
+        "homeXG": 2.1,
+        "awayXG": 2.7,
+        "predictedScore": "2-2",
+        "predictedScoreProb": 6.6,
         "outcomes": {
-          "homeWin": 48,
-          "draw": 19.4,
-          "awayWin": 31.1
+          "homeWin": 29.8,
+          "draw": 18.1,
+          "awayWin": 49.4
         },
         "topScores": [
           {
-            "score": "2-1",
-            "probability": 7.3
-          },
-          {
             "score": "2-2",
-            "probability": 7.1
-          },
-          {
-            "score": "1-1",
-            "probability": 6.1
-          },
-          {
-            "score": "3-1",
-            "probability": 5.9
+            "probability": 6.6
           },
           {
             "score": "1-2",
-            "probability": 5.9
+            "probability": 6.3
+          },
+          {
+            "score": "2-3",
+            "probability": 6
+          },
+          {
+            "score": "1-3",
+            "probability": 5.7
+          },
+          {
+            "score": "2-1",
+            "probability": 4.9
           }
         ],
         "factors": [
           "Venue: 33% home win rate",
           "Rest: home team well rested (18 days)",
-          "Rest: away team well rested (18 days)",
+          "Rest: away team well rested (12 days)",
           "Home injuries: no injuries reported",
           "Away injuries: no injuries reported",
           "Weather: no weather data",
           "Home motivation: mid-table (14th)",
           "Away motivation: playoff/European contention (3th)",
+          "Away motivation: strong recent form (WDWWDD)",
           "H2H: h2h balanced (home 0W/2D/0L, away 0W/2D/0L from 2)"
         ],
         "model": {
-          "homeAttackStr": 1.22,
-          "homeDefenceStr": 1.025,
-          "awayAttackStr": 1.4,
-          "awayDefenceStr": 1.029
+          "homeAttackStr": 1.217,
+          "homeDefenceStr": 1.008,
+          "awayAttackStr": 1.899,
+          "awayDefenceStr": 0.904
         }
       },
       "likelyScorers": {
@@ -7615,17 +7510,17 @@
         },
         "away": {
           "name": "William Lankshear",
-          "goals": 9
+          "goals": 11
         }
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 1,
-          "gamesSampled": 3
+          "avgCardsPerGame": 0.5,
+          "gamesSampled": 2
         },
         "away": {
           "avgCardsPerGame": 2,
-          "gamesSampled": 2
+          "gamesSampled": 3
         }
       },
       "weather": null,
@@ -7635,7 +7530,7 @@
       },
       "daysRest": {
         "home": 18,
-        "away": 18
+        "away": 12
       }
     },
     {
@@ -7671,26 +7566,26 @@
       },
       "prediction": {
         "homeXG": 0.43,
-        "awayXG": 1.05,
+        "awayXG": 1.04,
         "predictedScore": "0-1",
-        "predictedScoreProb": 23.8,
+        "predictedScoreProb": 23.9,
         "outcomes": {
-          "homeWin": 15.1,
-          "draw": 34.2,
-          "awayWin": 50.7
+          "homeWin": 15.2,
+          "draw": 34.5,
+          "awayWin": 50.3
         },
         "topScores": [
           {
             "score": "0-1",
-            "probability": 23.8
+            "probability": 23.9
           },
           {
             "score": "0-0",
-            "probability": 22.6
+            "probability": 23
           },
           {
             "score": "0-2",
-            "probability": 12.5
+            "probability": 12.4
           },
           {
             "score": "1-1",
@@ -7698,7 +7593,7 @@
           },
           {
             "score": "1-0",
-            "probability": 9.8
+            "probability": 9.9
           }
         ],
         "factors": [
@@ -7714,9 +7609,9 @@
           "H2H: no h2h data"
         ],
         "model": {
-          "homeAttackStr": 0.271,
-          "homeDefenceStr": 0.716,
-          "awayAttackStr": 1.113,
+          "homeAttackStr": 0.272,
+          "homeDefenceStr": 0.703,
+          "awayAttackStr": 1.093,
           "awayDefenceStr": 0.858
         }
       },
@@ -7729,8 +7624,117 @@
       },
       "discipline": {
         "home": {
+          "avgCardsPerGame": 0,
+          "gamesSampled": 2
+        },
+        "away": {
           "avgCardsPerGame": 1,
-          "gamesSampled": 3
+          "gamesSampled": 2
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      },
+      "daysRest": {
+        "home": 18,
+        "away": 15
+      }
+    },
+    {
+      "fixture": {
+        "id": 561932,
+        "date": "2026-11-06T20:00:00Z",
+        "venue": "TBC",
+        "matchday": 15,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 342,
+        "name": "Derby County",
+        "fullName": "Derby County FC",
+        "crest": "https://crests.football-data.org/342.png",
+        "form": "LLDDLL",
+        "rank": 23,
+        "points": 6
+      },
+      "awayTeam": {
+        "id": 60,
+        "name": "Bolton",
+        "fullName": "Bolton Wanderers FC",
+        "crest": "https://crests.football-data.org/60.png",
+        "form": "LDWLWW",
+        "rank": 15,
+        "points": 14
+      },
+      "prediction": {
+        "homeXG": 0.73,
+        "awayXG": 1.76,
+        "predictedScore": "0-1",
+        "predictedScoreProb": 14.6,
+        "outcomes": {
+          "homeWin": 15,
+          "draw": 22.9,
+          "awayWin": 61.8
+        },
+        "topScores": [
+          {
+            "score": "0-1",
+            "probability": 14.6
+          },
+          {
+            "score": "0-2",
+            "probability": 12.9
+          },
+          {
+            "score": "1-1",
+            "probability": 10.7
+          },
+          {
+            "score": "1-2",
+            "probability": 9.4
+          },
+          {
+            "score": "0-0",
+            "probability": 8.3
+          }
+        ],
+        "factors": [
+          "Venue: weak home record (0% win rate at home)",
+          "Rest: home team well rested (20 days)",
+          "Rest: away team well rested (14 days)",
+          "Home injuries: no injuries reported",
+          "Away injuries: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: relegation battle (23th of 24)",
+          "Home motivation: poor recent form (LLDDLL)",
+          "Away motivation: mid-table (15th)",
+          "H2H: no h2h data"
+        ],
+        "model": {
+          "homeAttackStr": 0.411,
+          "homeDefenceStr": 1.167,
+          "awayAttackStr": 1.116,
+          "awayDefenceStr": 1.087
+        }
+      },
+      "likelyScorers": {
+        "home": null,
+        "away": {
+          "name": "Sam Dalby",
+          "goals": 4
+        }
+      },
+      "discipline": {
+        "home": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 2
         },
         "away": {
           "avgCardsPerGame": 1,
@@ -7743,8 +7747,8 @@
         "away": []
       },
       "daysRest": {
-        "home": 18,
-        "away": 15
+        "home": 20,
+        "away": 14
       }
     }
   ],
@@ -7754,10 +7758,10 @@
       "shortName": "PL",
       "totalTeams": 20,
       "leagueAvg": {
-        "avgHomeGoals": 1.6142857142857143,
-        "avgAwayGoals": 1.2857142857142858,
-        "avgGoalsPerGame": 2.9,
-        "games": 70
+        "avgHomeGoals": 1.6056338028169015,
+        "avgAwayGoals": 1.2816901408450705,
+        "avgGoalsPerGame": 2.887323943661972,
+        "games": 71
       },
       "gamesRemaining": 31
     },
@@ -7766,10 +7770,10 @@
       "shortName": "CH",
       "totalTeams": 24,
       "leagueAvg": {
-        "avgHomeGoals": 1.5833333333333333,
-        "avgAwayGoals": 1.2954545454545454,
-        "avgGoalsPerGame": 2.878787878787879,
-        "games": 132
+        "avgHomeGoals": 1.5789473684210527,
+        "avgAwayGoals": 1.3233082706766917,
+        "avgGoalsPerGame": 2.9022556390977443,
+        "games": 133
       },
       "gamesRemaining": 35
     }
