@@ -1,16 +1,6 @@
 {
-  "generated": "2026-10-26T06:16:38.181Z",
+  "generated": "2026-10-27T06:06:52.784Z",
   "results": [
-    {
-      "id": 560597,
-      "date": "2026-10-12T19:00:00Z",
-      "league": "PL",
-      "homeTeam": "Coventry City",
-      "awayTeam": "Newcastle",
-      "homeScore": 4,
-      "awayScore": 1,
-      "winner": "home"
-    },
     {
       "id": 560603,
       "date": "2026-10-17T11:30:00Z",
@@ -160,6 +150,56 @@
       "homeScore": 0,
       "awayScore": 2,
       "winner": "away"
+    },
+    {
+      "id": 560612,
+      "date": "2026-10-25T14:00:00Z",
+      "league": "PL",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Brighton Hove",
+      "homeScore": 2,
+      "awayScore": 0,
+      "winner": "home"
+    },
+    {
+      "id": 560613,
+      "date": "2026-10-25T14:00:00Z",
+      "league": "PL",
+      "homeTeam": "Crystal Palace",
+      "awayTeam": "Newcastle",
+      "homeScore": 0,
+      "awayScore": 2,
+      "winner": "away"
+    },
+    {
+      "id": 560615,
+      "date": "2026-10-25T14:00:00Z",
+      "league": "PL",
+      "homeTeam": "Man United",
+      "awayTeam": "Bournemouth",
+      "homeScore": 0,
+      "awayScore": 3,
+      "winner": "away"
+    },
+    {
+      "id": 560619,
+      "date": "2026-10-25T14:00:00Z",
+      "league": "PL",
+      "homeTeam": "Hull City",
+      "awayTeam": "Brentford",
+      "homeScore": 1,
+      "awayScore": 1,
+      "winner": "draw"
+    },
+    {
+      "id": 560621,
+      "date": "2026-10-25T16:30:00Z",
+      "league": "PL",
+      "homeTeam": "Sunderland",
+      "awayTeam": "Leeds United",
+      "homeScore": 0,
+      "awayScore": 0,
+      "winner": "draw"
     },
     {
       "id": 561869,
