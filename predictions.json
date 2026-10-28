@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-27T06:06:52.773Z",
+  "generated": "2026-10-28T06:17:22.694Z",
   "totalPredictions": 56,
   "apiCalls": 64,
   "predictions": [
@@ -35,19 +35,19 @@
         "points": 7
       },
       "prediction": {
-        "homeXG": 2.94,
+        "homeXG": 2.91,
         "awayXG": 1.21,
         "predictedScore": "2-1",
-        "predictedScoreProb": 8.2,
+        "predictedScoreProb": 8.3,
         "outcomes": {
-          "homeWin": 69.5,
-          "draw": 14.7,
-          "awayWin": 12.7
+          "homeWin": 69.2,
+          "draw": 14.9,
+          "awayWin": 13
         },
         "topScores": [
           {
             "score": "2-1",
-            "probability": 8.2
+            "probability": 8.3
           },
           {
             "score": "3-1",
@@ -55,7 +55,7 @@
           },
           {
             "score": "2-0",
-            "probability": 6.8
+            "probability": 6.9
           },
           {
             "score": "3-0",
@@ -69,8 +69,7 @@
         "factors": [
           "Venue: 50% home win rate",
           "Rest: home team well rested (7 days)",
-          "Home injuries: 5 out: Martinez (£5m, Head injury - Unknown return date), Chavarria (£4.9m, Unspecified injury - Expected back 31 Oct), James (£5.2m, Knee injury - Unknown return date) +2 more",
-          "Home injuries: 1 doubtful: João Pedro (Unspecified injury - 75% chance of playing)",
+          "Home injuries: 5 out: João Pedro (£7.8m, Thigh injury - Unknown return date), Martinez (£5m, Head injury - Unknown return date), Chavarria (£4.9m, Unspecified injury - Expected back 31 Oct) +2 more",
           "Away injuries: 5 out: Mainoo (£5.5m, Unspecified injury - Expected back 8 Nov), Shaw (£4.2m, Unspecified injury - Unknown return date), Dorgu (£5.7m, Hamstring injury - Expected back 25 Oct) +2 more",
           "Away injuries: 1 doubtful: Rashford (Hip injury - 75% chance of playing)",
           "Weather: no weather data",
@@ -98,8 +97,8 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 2,
-          "gamesSampled": 3
+          "avgCardsPerGame": 2.5,
+          "gamesSampled": 2
         },
         "away": {
           "avgCardsPerGame": 1.7,
@@ -132,17 +131,10 @@
           },
           {
             "player": "João Pedro",
-            "type": "Questionable",
-            "reason": "Unspecified injury - 75% chance of playing",
-            "importance": 0.749,
-            "cost": 7.9
-          },
-          {
-            "player": "Emegha",
             "type": "Missing Fixture",
-            "reason": "Hamstring injury - Unknown return date",
-            "importance": 0.123,
-            "cost": 4.9
+            "reason": "Thigh injury - Unknown return date",
+            "importance": 0.746,
+            "cost": 7.8
           },
           {
             "player": "Chavarria",
@@ -171,8 +163,8 @@
             "player": "Rashford",
             "type": "Questionable",
             "reason": "Hip injury - 75% chance of playing",
-            "importance": 0.425,
-            "cost": 6.9
+            "importance": 0.423,
+            "cost": 6.8
           },
           {
             "player": "Mainoo",
@@ -271,7 +263,7 @@
           "Home injuries: 1 out: Semenyo (£8.2m, Knee injury - Unknown return date)",
           "Home injuries: 1 doubtful: Matheus N. (Unspecified injury - 75% chance of playing)",
           "Away injuries: 5 out: Mitoma (£5.9m, Hamstring injury - Expected back 31 Oct), Azeez (£5.5m, Hamstring injury - Expected back 31 Oct), Tzimas (£5.4m, Knee injury - Unknown return date) +2 more",
-          "Away injuries: 5 doubtful: F.Kadıoğlu (Hip injury - 75% chance of playing), Minteh (Leg injury - 50% chance of playing) +3 more",
+          "Away injuries: 5 doubtful: F.Kadıoğlu (Hip injury - 75% chance of playing), Minteh (Leg injury - 75% chance of playing) +3 more",
           "Weather: no weather data",
           "Home motivation: title/promotion contender (1st)",
           "Home motivation: strong recent form (LWWWWW)",
@@ -298,11 +290,11 @@
       "discipline": {
         "home": {
           "avgCardsPerGame": 2,
-          "gamesSampled": 3
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 3.5,
-          "gamesSampled": 2
+          "avgCardsPerGame": 3,
+          "gamesSampled": 1
         }
       },
       "weather": null,
@@ -341,14 +333,14 @@
           {
             "player": "Minteh",
             "type": "Questionable",
-            "reason": "Leg injury - 50% chance of playing",
+            "reason": "Leg injury - 75% chance of playing",
             "importance": 0.145,
             "cost": 5.8
           },
           {
             "player": "Wieffer",
             "type": "Questionable",
-            "reason": "Knee injury - 25% chance of playing",
+            "reason": "Knee injury - 75% chance of playing",
             "importance": 0.204,
             "cost": 4.8
           },
@@ -376,14 +368,14 @@
           {
             "player": "Struijk",
             "type": "Questionable",
-            "reason": "Hamstring injury - 75% chance of playing",
+            "reason": "Hamstring injury - 50% chance of playing",
             "importance": 0.177,
             "cost": 4.9
           },
           {
             "player": "Andrés",
             "type": "Questionable",
-            "reason": "Thigh injury - 75% chance of playing",
+            "reason": "Hip injury - 75% chance of playing",
             "importance": 0.322,
             "cost": 5.5
           },
@@ -493,8 +485,8 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 3.3,
-          "gamesSampled": 3
+          "avgCardsPerGame": 2.5,
+          "gamesSampled": 2
         },
         "away": {
           "avgCardsPerGame": 1.3,
@@ -658,8 +650,8 @@
           "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 2.3,
-          "gamesSampled": 3
+          "avgCardsPerGame": 1.5,
+          "gamesSampled": 2
         }
       },
       "weather": null,
@@ -943,41 +935,41 @@
         "points": 6
       },
       "prediction": {
-        "homeXG": 2.65,
+        "homeXG": 2.61,
         "awayXG": 0.87,
         "predictedScore": "2-0",
-        "predictedScoreProb": 10.4,
+        "predictedScoreProb": 10.5,
         "outcomes": {
-          "homeWin": 73.3,
-          "draw": 14.9,
-          "awayWin": 9.9
+          "homeWin": 72.9,
+          "draw": 15.2,
+          "awayWin": 10.2
         },
         "topScores": [
           {
             "score": "2-0",
-            "probability": 10.4
-          },
-          {
-            "score": "3-0",
-            "probability": 9.2
+            "probability": 10.5
           },
           {
             "score": "2-1",
-            "probability": 9
+            "probability": 9.1
           },
           {
-            "score": "3-1",
-            "probability": 8
+            "score": "3-0",
+            "probability": 9.1
           },
           {
             "score": "1-0",
-            "probability": 7.8
+            "probability": 8
+          },
+          {
+            "score": "3-1",
+            "probability": 7.9
           }
         ],
         "factors": [
           "Venue: 50% home win rate",
           "Rest: away team well rested (8 days)",
-          "Home injuries: 4 out: Yarmoliuk (£4.8m, Suspended until 8 Nov), Milambo (£5m, Knee injury - Unknown return date), Dasilva (£4.8m, Hamstring injury - Unknown return date) +1 more",
+          "Home injuries: 5 out: Yarmoliuk (£4.8m, Suspended until 8 Nov), Milambo (£5m, Knee injury - Unknown return date), Dasilva (£4.8m, Hamstring injury - Unknown return date) +2 more",
           "Away injuries: 2 out: Igor Jesus (£5.7m, Calf injury - Unknown return date), Savona (£4.5m, Knee injury - Unknown return date)",
           "Away injuries: 2 doubtful: N.Williams (Arm injury - 75% chance of playing), Dominguez (Muscular injury - 75% chance of playing)",
           "Weather: no weather data",
@@ -1013,6 +1005,13 @@
       "weather": null,
       "injuries": {
         "home": [
+          {
+            "player": "Henry",
+            "type": "Missing Fixture",
+            "reason": "Hip injury - Unknown return date",
+            "importance": 0.116,
+            "cost": 4.4
+          },
           {
             "player": "Milambo",
             "type": "Missing Fixture",
@@ -1147,7 +1146,7 @@
           "Home injuries: 7 out: Sávio (£6.5m, Muscular injury - Expected back 7 Nov), Bentancur (£5.4m, Suspended until 7 Nov), Bergvall (£5.3m, Knee injury - Expected back 31 Oct) +4 more",
           "Home injuries: 1 doubtful: Maddison (Unspecified injury - 75% chance of playing)",
           "Away injuries: 2 out: Tomiyasu (£4.4m, Calf injury - Expected back 8 Nov), Chadi Riad (£4.3m, Knee injury - Unknown return date)",
-          "Away injuries: 3 doubtful: Henderson (Foot injury - 50% chance of playing), Strand Larsen (Unspecified injury - 75% chance of playing) +1 more",
+          "Away injuries: 4 doubtful: Henderson (Foot injury - 75% chance of playing), Sarr (Groin injury - 75% chance of playing) +2 more",
           "Weather: no weather data",
           "Home motivation: mid-table (14th)",
           "Away motivation: close to relegation zone (17th)",
@@ -1171,8 +1170,8 @@
           "gamesSampled": 3
         },
         "away": {
-          "avgCardsPerGame": 0.5,
-          "gamesSampled": 2
+          "avgCardsPerGame": 0,
+          "gamesSampled": 1
         }
       },
       "weather": null,
@@ -1239,7 +1238,7 @@
           {
             "player": "Henderson",
             "type": "Questionable",
-            "reason": "Foot injury - 50% chance of playing",
+            "reason": "Foot injury - 75% chance of playing",
             "importance": 0.201,
             "cost": 4.9
           },
@@ -1251,9 +1250,16 @@
             "cost": 4.3
           },
           {
+            "player": "Sarr",
+            "type": "Questionable",
+            "reason": "Groin injury - 75% chance of playing",
+            "importance": 0.169,
+            "cost": 6.2
+          },
+          {
             "player": "Strand Larsen",
             "type": "Questionable",
-            "reason": "Unspecified injury - 75% chance of playing",
+            "reason": "Ankle injury - 75% chance of playing",
             "importance": 0.388,
             "cost": 6
           },
@@ -1370,12 +1376,12 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 1.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 1.5,
+          "gamesSampled": 2
         },
         "away": {
           "avgCardsPerGame": 1,
-          "gamesSampled": 2
+          "gamesSampled": 1
         }
       },
       "weather": null,
@@ -1458,26 +1464,26 @@
       },
       "prediction": {
         "homeXG": 0.63,
-        "awayXG": 0.87,
+        "awayXG": 0.84,
         "predictedScore": "0-0",
-        "predictedScoreProb": 22.3,
+        "predictedScoreProb": 22.9,
         "outcomes": {
-          "homeWin": 24.9,
-          "draw": 36.3,
-          "awayWin": 38.8
+          "homeWin": 25.4,
+          "draw": 36.8,
+          "awayWin": 37.8
         },
         "topScores": [
           {
             "score": "0-0",
-            "probability": 22.3
+            "probability": 22.9
           },
           {
             "score": "0-1",
-            "probability": 19.4
+            "probability": 19.3
           },
           {
             "score": "1-0",
-            "probability": 14.1
+            "probability": 14.5
           },
           {
             "score": "1-1",
@@ -1485,7 +1491,7 @@
           },
           {
             "score": "0-2",
-            "probability": 8.4
+            "probability": 8.1
           }
         ],
         "factors": [
@@ -1494,8 +1500,8 @@
           "Rest: away team well rested (8 days)",
           "Home injuries: 6 out: Szoboszlai (£6.7m, Hamstring injury - Unknown return date), Frimpong (£5.2m, Hamstring injury - Unknown return date), Ekitiké (£7.4m, Achilles injury - Unknown return date) +3 more",
           "Home injuries: 2 doubtful: Wirtz (Ankle injury - 75% chance of playing), Munoz (Knee injury - 25% chance of playing)",
-          "Away injuries: 3 out: Saka (£9.5m, Thigh injury - Unknown return date), Tzolis (£6.2m, Hamstring injury - Expected back 1 Nov), Saliba (£5.9m, Back injury - Unknown return date)",
-          "Away injuries: 1 doubtful: Calafiori (Hip injury - 75% chance of playing)",
+          "Away injuries: 4 out: Saka (£9.5m, Thigh injury - Unknown return date), Tzolis (£6.2m, Hamstring injury - Expected back 1 Nov), Dowman (£5.3m, Suspended until 29 Nov) +1 more",
+          "Away injuries: 3 doubtful: Calafiori (Hip injury - 75% chance of playing), Rice (Unspecified injury - 75% chance of playing) +1 more",
           "Weather: no weather data",
           "Home motivation: playoff/European contention (4th)",
           "Home motivation: strong recent form (WWLWDW)",
@@ -1522,12 +1528,12 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 1.3,
-          "gamesSampled": 3
+          "avgCardsPerGame": 2,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 1.5,
-          "gamesSampled": 2
+          "avgCardsPerGame": 1.3,
+          "gamesSampled": 3
         }
       },
       "weather": null,
@@ -1613,6 +1619,27 @@
             "cost": 9.5
           },
           {
+            "player": "Rice",
+            "type": "Questionable",
+            "reason": "Unspecified injury - 75% chance of playing",
+            "importance": 0.649,
+            "cost": 7.4
+          },
+          {
+            "player": "Madueke",
+            "type": "Questionable",
+            "reason": "Ankle injury - 75% chance of playing",
+            "importance": 0.355,
+            "cost": 6.2
+          },
+          {
+            "player": "Dowman",
+            "type": "Suspended",
+            "reason": "Suspended until 29 Nov",
+            "importance": 0.153,
+            "cost": 5.3
+          },
+          {
             "player": "Tzolis",
             "type": "Missing Fixture",
             "reason": "Hamstring injury - Expected back 1 Nov",
@@ -1658,14 +1685,14 @@
         "points": 10
       },
       "prediction": {
-        "homeXG": 1.49,
+        "homeXG": 1.48,
         "awayXG": 0.76,
         "predictedScore": "1-0",
         "predictedScoreProb": 15.8,
         "outcomes": {
-          "homeWin": 54.5,
-          "draw": 26.4,
-          "awayWin": 19
+          "homeWin": 54.3,
+          "draw": 26.5,
+          "awayWin": 19.1
         },
         "topScores": [
           {
@@ -1674,7 +1701,7 @@
           },
           {
             "score": "1-1",
-            "probability": 11.9
+            "probability": 12
           },
           {
             "score": "2-0",
@@ -1682,11 +1709,11 @@
           },
           {
             "score": "0-0",
-            "probability": 10.6
+            "probability": 10.7
           },
           {
             "score": "2-1",
-            "probability": 8.9
+            "probability": 8.8
           }
         ],
         "factors": [
@@ -1694,7 +1721,7 @@
           "Rest: home team well rested (8 days)",
           "Rest: away team well rested (9 days)",
           "Home injuries: 2 out: Livramento (£4.8m, Knee injury - Expected back 7 Nov), Jaouen (£4.4m, Hamstring injury - Unknown return date)",
-          "Home injuries: 1 doubtful: Fernandez-Pardo (Illness - 75% chance of playing)",
+          "Home injuries: 2 doubtful: L.Miley (Muscular injury - 75% chance of playing), Fernandez-Pardo (Illness - 75% chance of playing)",
           "Away injuries: 2 doubtful: Mykolenko (Unspecified injury - 75% chance of playing), Grealish (Illness - 75% chance of playing)",
           "Weather: no weather data",
           "Home motivation: mid-table (8th)",
@@ -1718,12 +1745,12 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 1.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 1.5,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 2,
-          "gamesSampled": 3
+          "avgCardsPerGame": 2.5,
+          "gamesSampled": 2
         }
       },
       "weather": null,
@@ -1742,6 +1769,13 @@
             "reason": "Knee injury - Expected back 7 Nov",
             "importance": 0.15,
             "cost": 4.8
+          },
+          {
+            "player": "L.Miley",
+            "type": "Questionable",
+            "reason": "Muscular injury - 75% chance of playing",
+            "importance": 0.325,
+            "cost": 5.5
           },
           {
             "player": "Fernandez-Pardo",
@@ -1865,8 +1899,8 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 2,
-          "gamesSampled": 3
+          "avgCardsPerGame": 2.5,
+          "gamesSampled": 2
         },
         "away": {
           "avgCardsPerGame": 2.5,
@@ -2155,43 +2189,43 @@
         "points": 10
       },
       "prediction": {
-        "homeXG": 2.6,
+        "homeXG": 2.53,
         "awayXG": 0.32,
         "predictedScore": "2-0",
-        "predictedScoreProb": 18.2,
+        "predictedScoreProb": 18.5,
         "outcomes": {
-          "homeWin": 84.4,
-          "draw": 10.9,
-          "awayWin": 3
+          "homeWin": 83.8,
+          "draw": 11.6,
+          "awayWin": 3.2
         },
         "topScores": [
           {
             "score": "2-0",
-            "probability": 18.2
+            "probability": 18.5
           },
           {
             "score": "3-0",
-            "probability": 15.8
+            "probability": 15.6
           },
           {
             "score": "1-0",
-            "probability": 14
+            "probability": 14.7
           },
           {
             "score": "4-0",
-            "probability": 10.3
+            "probability": 9.8
           },
           {
             "score": "2-1",
-            "probability": 5.8
+            "probability": 5.9
           }
         ],
         "factors": [
           "Venue: strong home fortress (100% win rate, 2.3 GPG at home)",
           "Rest: home team well rested (14 days)",
           "Rest: away team well rested (13 days)",
-          "Home injuries: 3 out: Saka (£9.5m, Thigh injury - Unknown return date), Tzolis (£6.2m, Hamstring injury - Expected back 1 Nov), Saliba (£5.9m, Back injury - Unknown return date)",
-          "Home injuries: 1 doubtful: Calafiori (Hip injury - 75% chance of playing)",
+          "Home injuries: 4 out: Saka (£9.5m, Thigh injury - Unknown return date), Tzolis (£6.2m, Hamstring injury - Expected back 1 Nov), Dowman (£5.3m, Suspended until 29 Nov) +1 more",
+          "Home injuries: 3 doubtful: Calafiori (Hip injury - 75% chance of playing), Rice (Unspecified injury - 75% chance of playing) +1 more",
           "Away injuries: 7 out: Mendy (£4.1m, Groin injury - Expected back 31 Oct), Ansah (£4.9m, Back injury - Unknown return date), Matazo (£4.5m, Knee injury - Unknown return date) +4 more",
           "Away injuries: 1 doubtful: Gourna-Douath (Calf injury - 75% chance of playing)",
           "Weather: no weather data",
@@ -2220,8 +2254,8 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 1.5,
-          "gamesSampled": 2
+          "avgCardsPerGame": 1.3,
+          "gamesSampled": 3
         },
         "away": {
           "avgCardsPerGame": 3.3,
@@ -2251,6 +2285,27 @@
             "reason": "Thigh injury - Unknown return date",
             "importance": 0.774,
             "cost": 9.5
+          },
+          {
+            "player": "Rice",
+            "type": "Questionable",
+            "reason": "Unspecified injury - 75% chance of playing",
+            "importance": 0.649,
+            "cost": 7.4
+          },
+          {
+            "player": "Madueke",
+            "type": "Questionable",
+            "reason": "Ankle injury - 75% chance of playing",
+            "importance": 0.355,
+            "cost": 6.2
+          },
+          {
+            "player": "Dowman",
+            "type": "Suspended",
+            "reason": "Suspended until 29 Nov",
+            "importance": 0.153,
+            "cost": 5.3
           },
           {
             "player": "Tzolis",
@@ -2359,16 +2414,16 @@
         "homeXG": 2.12,
         "awayXG": 1.59,
         "predictedScore": "2-1",
-        "predictedScoreProb": 8.7,
+        "predictedScoreProb": 8.8,
         "outcomes": {
-          "homeWin": 49.4,
+          "homeWin": 49.5,
           "draw": 20.9,
-          "awayWin": 29
+          "awayWin": 28.8
         },
         "topScores": [
           {
             "score": "2-1",
-            "probability": 8.7
+            "probability": 8.8
           },
           {
             "score": "1-1",
@@ -2376,11 +2431,11 @@
           },
           {
             "score": "2-2",
-            "probability": 7
+            "probability": 6.9
           },
           {
             "score": "1-2",
-            "probability": 6.6
+            "probability": 6.5
           },
           {
             "score": "3-1",
@@ -2394,7 +2449,7 @@
           "Home injuries: 1 out: Sessegnon (£4.3m, Suspended until 7 Nov)",
           "Home injuries: 1 doubtful: Smith Rowe (Knock - 75% chance of playing)",
           "Away injuries: 2 out: Livramento (£4.8m, Knee injury - Expected back 7 Nov), Jaouen (£4.4m, Hamstring injury - Unknown return date)",
-          "Away injuries: 1 doubtful: Fernandez-Pardo (Illness - 75% chance of playing)",
+          "Away injuries: 2 doubtful: L.Miley (Muscular injury - 75% chance of playing), Fernandez-Pardo (Illness - 75% chance of playing)",
           "Weather: no weather data",
           "Home motivation: close to relegation zone (15th)",
           "Away motivation: mid-table (8th)",
@@ -2414,11 +2469,11 @@
       "discipline": {
         "home": {
           "avgCardsPerGame": 1,
-          "gamesSampled": 2
+          "gamesSampled": 1
         },
         "away": {
-          "avgCardsPerGame": 1.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 1.5,
+          "gamesSampled": 2
         }
       },
       "weather": null,
@@ -2453,6 +2508,13 @@
             "reason": "Knee injury - Expected back 7 Nov",
             "importance": 0.15,
             "cost": 4.8
+          },
+          {
+            "player": "L.Miley",
+            "type": "Questionable",
+            "reason": "Muscular injury - 75% chance of playing",
+            "importance": 0.325,
+            "cost": 5.5
           },
           {
             "player": "Fernandez-Pardo",
@@ -2567,7 +2629,7 @@
         },
         "away": {
           "avgCardsPerGame": 2,
-          "gamesSampled": 3
+          "gamesSampled": 2
         }
       },
       "weather": null,
@@ -2659,7 +2721,7 @@
         "homeXG": 0.74,
         "awayXG": 2.77,
         "predictedScore": "0-2",
-        "predictedScoreProb": 11.4,
+        "predictedScoreProb": 11.5,
         "outcomes": {
           "homeWin": 7.4,
           "draw": 13.1,
@@ -2668,11 +2730,11 @@
         "topScores": [
           {
             "score": "0-2",
-            "probability": 11.4
+            "probability": 11.5
           },
           {
             "score": "0-3",
-            "probability": 10.5
+            "probability": 10.6
           },
           {
             "score": "1-2",
@@ -2692,7 +2754,7 @@
           "Rest: home team well rested (14 days)",
           "Rest: away team well rested (14 days)",
           "Home injuries: 2 out: Tomiyasu (£4.4m, Calf injury - Expected back 8 Nov), Chadi Riad (£4.3m, Knee injury - Unknown return date)",
-          "Home injuries: 3 doubtful: Henderson (Foot injury - 50% chance of playing), Strand Larsen (Unspecified injury - 75% chance of playing) +1 more",
+          "Home injuries: 4 doubtful: Henderson (Foot injury - 75% chance of playing), Sarr (Groin injury - 75% chance of playing) +2 more",
           "Away injuries: 6 out: Szoboszlai (£6.7m, Hamstring injury - Unknown return date), Frimpong (£5.2m, Hamstring injury - Unknown return date), Ekitiké (£7.4m, Achilles injury - Unknown return date) +3 more",
           "Away injuries: 2 doubtful: Wirtz (Ankle injury - 75% chance of playing), Munoz (Knee injury - 25% chance of playing)",
           "Weather: no weather data",
@@ -2718,12 +2780,12 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 0.5,
-          "gamesSampled": 2
+          "avgCardsPerGame": 0,
+          "gamesSampled": 1
         },
         "away": {
-          "avgCardsPerGame": 1.3,
-          "gamesSampled": 3
+          "avgCardsPerGame": 2,
+          "gamesSampled": 2
         }
       },
       "weather": null,
@@ -2732,7 +2794,7 @@
           {
             "player": "Henderson",
             "type": "Questionable",
-            "reason": "Foot injury - 50% chance of playing",
+            "reason": "Foot injury - 75% chance of playing",
             "importance": 0.201,
             "cost": 4.9
           },
@@ -2744,9 +2806,16 @@
             "cost": 4.3
           },
           {
+            "player": "Sarr",
+            "type": "Questionable",
+            "reason": "Groin injury - 75% chance of playing",
+            "importance": 0.169,
+            "cost": 6.2
+          },
+          {
             "player": "Strand Larsen",
             "type": "Questionable",
-            "reason": "Unspecified injury - 75% chance of playing",
+            "reason": "Ankle injury - 75% chance of playing",
             "importance": 0.388,
             "cost": 6
           },
@@ -2862,13 +2931,13 @@
       },
       "prediction": {
         "homeXG": 0.3,
-        "awayXG": 1.13,
+        "awayXG": 1.11,
         "predictedScore": "0-1",
         "predictedScoreProb": 27.1,
         "outcomes": {
-          "homeWin": 9.8,
-          "draw": 32.8,
-          "awayWin": 57.3
+          "homeWin": 9.9,
+          "draw": 33.2,
+          "awayWin": 56.9
         },
         "topScores": [
           {
@@ -2877,11 +2946,11 @@
           },
           {
             "score": "0-0",
-            "probability": 24
+            "probability": 24.3
           },
           {
             "score": "0-2",
-            "probability": 15.2
+            "probability": 15.1
           },
           {
             "score": "1-1",
@@ -2889,7 +2958,7 @@
           },
           {
             "score": "1-0",
-            "probability": 7.2
+            "probability": 7.3
           }
         ],
         "factors": [
@@ -2898,8 +2967,7 @@
           "Rest: away team well rested (15 days)",
           "Home injuries: 2 out: Ballard (£4.8m, Hamstring injury - Unknown return date), Mundle (£4.8m, Knee injury - Unknown return date)",
           "Home injuries: 2 doubtful: Meunier (Groin injury - 75% chance of playing), Isidor (Knock - 50% chance of playing)",
-          "Away injuries: 5 out: Martinez (£5m, Head injury - Unknown return date), Chavarria (£4.9m, Unspecified injury - Expected back 31 Oct), James (£5.2m, Knee injury - Unknown return date) +2 more",
-          "Away injuries: 1 doubtful: João Pedro (Unspecified injury - 75% chance of playing)",
+          "Away injuries: 5 out: João Pedro (£7.8m, Thigh injury - Unknown return date), Martinez (£5m, Head injury - Unknown return date), Chavarria (£4.9m, Unspecified injury - Expected back 31 Oct) +2 more",
           "Weather: no weather data",
           "Home motivation: relegation battle (20th of 20)",
           "Home motivation: poor recent form (DLLLLD)",
@@ -2925,12 +2993,12 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 2.3,
-          "gamesSampled": 3
+          "avgCardsPerGame": 1.5,
+          "gamesSampled": 2
         },
         "away": {
-          "avgCardsPerGame": 2,
-          "gamesSampled": 3
+          "avgCardsPerGame": 2.5,
+          "gamesSampled": 2
         }
       },
       "weather": null,
@@ -2989,17 +3057,10 @@
           },
           {
             "player": "João Pedro",
-            "type": "Questionable",
-            "reason": "Unspecified injury - 75% chance of playing",
-            "importance": 0.749,
-            "cost": 7.9
-          },
-          {
-            "player": "Emegha",
             "type": "Missing Fixture",
-            "reason": "Hamstring injury - Unknown return date",
-            "importance": 0.123,
-            "cost": 4.9
+            "reason": "Thigh injury - Unknown return date",
+            "importance": 0.746,
+            "cost": 7.8
           },
           {
             "player": "Chavarria",
@@ -3109,8 +3170,8 @@
           "gamesSampled": 3
         },
         "away": {
-          "avgCardsPerGame": 3.3,
-          "gamesSampled": 3
+          "avgCardsPerGame": 2.5,
+          "gamesSampled": 2
         }
       },
       "weather": null,
@@ -3193,18 +3254,18 @@
       },
       "prediction": {
         "homeXG": 4.28,
-        "awayXG": 0.31,
+        "awayXG": 0.3,
         "predictedScore": "4-0",
-        "predictedScoreProb": 14.2,
+        "predictedScoreProb": 14.3,
         "outcomes": {
           "homeWin": 82.3,
-          "draw": 2.9,
+          "draw": 2.8,
           "awayWin": 0.6
         },
         "topScores": [
           {
             "score": "4-0",
-            "probability": 14.2
+            "probability": 14.3
           },
           {
             "score": "3-0",
@@ -3228,8 +3289,8 @@
           "Rest: home team well rested (14 days)",
           "Rest: away team well rested (14 days)",
           "Home injuries: 5 out: Mitoma (£5.9m, Hamstring injury - Expected back 31 Oct), Azeez (£5.5m, Hamstring injury - Expected back 31 Oct), Tzimas (£5.4m, Knee injury - Unknown return date) +2 more",
-          "Home injuries: 5 doubtful: F.Kadıoğlu (Hip injury - 75% chance of playing), Minteh (Leg injury - 50% chance of playing) +3 more",
-          "Away injuries: 4 out: Yarmoliuk (£4.8m, Suspended until 8 Nov), Milambo (£5m, Knee injury - Unknown return date), Dasilva (£4.8m, Hamstring injury - Unknown return date) +1 more",
+          "Home injuries: 5 doubtful: F.Kadıoğlu (Hip injury - 75% chance of playing), Minteh (Leg injury - 75% chance of playing) +3 more",
+          "Away injuries: 5 out: Yarmoliuk (£4.8m, Suspended until 8 Nov), Milambo (£5m, Knee injury - Unknown return date), Dasilva (£4.8m, Hamstring injury - Unknown return date) +2 more",
           "Weather: no weather data",
           "Home motivation: playoff/European contention (3th)",
           "Away motivation: playoff/European contention (6th)",
@@ -3254,8 +3315,8 @@
       },
       "discipline": {
         "home": {
-          "avgCardsPerGame": 3.5,
-          "gamesSampled": 2
+          "avgCardsPerGame": 3,
+          "gamesSampled": 1
         },
         "away": {
           "avgCardsPerGame": 2,
@@ -3282,14 +3343,14 @@
           {
             "player": "Minteh",
             "type": "Questionable",
-            "reason": "Leg injury - 50% chance of playing",
+            "reason": "Leg injury - 75% chance of playing",
             "importance": 0.145,
             "cost": 5.8
           },
           {
             "player": "Wieffer",
             "type": "Questionable",
-            "reason": "Knee injury - 25% chance of playing",
+            "reason": "Knee injury - 75% chance of playing",
             "importance": 0.204,
             "cost": 4.8
           },
@@ -3317,14 +3378,14 @@
           {
             "player": "Struijk",
             "type": "Questionable",
-            "reason": "Hamstring injury - 75% chance of playing",
+            "reason": "Hamstring injury - 50% chance of playing",
             "importance": 0.177,
             "cost": 4.9
           },
           {
             "player": "Andrés",
             "type": "Questionable",
-            "reason": "Thigh injury - 75% chance of playing",
+            "reason": "Hip injury - 75% chance of playing",
             "importance": 0.322,
             "cost": 5.5
           },
@@ -3337,6 +3398,13 @@
           }
         ],
         "away": [
+          {
+            "player": "Henry",
+            "type": "Missing Fixture",
+            "reason": "Hip injury - Unknown return date",
+            "importance": 0.116,
+            "cost": 4.4
+          },
           {
             "player": "Milambo",
             "type": "Missing Fixture",
@@ -3472,8 +3540,8 @@
           "gamesSampled": 3
         },
         "away": {
-          "avgCardsPerGame": 1.7,
-          "gamesSampled": 3
+          "avgCardsPerGame": 1.5,
+          "gamesSampled": 2
         }
       },
       "weather": null,
@@ -3497,8 +3565,8 @@
             "player": "Rashford",
             "type": "Questionable",
             "reason": "Hip injury - 75% chance of playing",
-            "importance": 0.425,
-            "cost": 6.9
+            "importance": 0.423,
+            "cost": 6.8
           },
           {
             "player": "Mainoo",
@@ -3618,7 +3686,7 @@
           "Venue: 33% home win rate",
           "Home injuries: no injuries reported",
           "Away injuries: no injuries reported",
-          "Weather: no weather data",
+          "Weather: good conditions (10°C, wind 6km/h)",
           "Home motivation: mid-table (12th)",
           "Away motivation: mid-table (17th)",
           "H2H: h2h favours away team (away 2W/0D/0L from 2)"
@@ -3650,7 +3718,15 @@
           "gamesSampled": 3
         }
       },
-      "weather": null,
+      "weather": {
+        "temp": 10,
+        "feelsLike": 9,
+        "wind": 6,
+        "windGust": 16,
+        "rain": 0,
+        "humidity": 92,
+        "description": "Clear"
+      },
       "injuries": {
         "home": [],
         "away": []
