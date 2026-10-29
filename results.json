@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-28T06:17:22.703Z",
+  "generated": "2026-10-29T06:06:54.627Z",
   "results": [
     {
       "id": 560603,
@@ -200,46 +200,6 @@
       "homeScore": 0,
       "awayScore": 0,
       "winner": "draw"
-    },
-    {
-      "id": 561877,
-      "date": "2026-10-14T18:45:00Z",
-      "league": "ELC",
-      "homeTeam": "Portsmouth",
-      "awayTeam": "Sheffield Utd",
-      "homeScore": 3,
-      "awayScore": 2,
-      "winner": "home"
-    },
-    {
-      "id": 561879,
-      "date": "2026-10-14T18:45:00Z",
-      "league": "ELC",
-      "homeTeam": "Norwich",
-      "awayTeam": "Southampton",
-      "homeScore": 0,
-      "awayScore": 1,
-      "winner": "away"
-    },
-    {
-      "id": 561880,
-      "date": "2026-10-14T18:45:00Z",
-      "league": "ELC",
-      "homeTeam": "QPR",
-      "awayTeam": "Derby County",
-      "homeScore": 4,
-      "awayScore": 1,
-      "winner": "home"
-    },
-    {
-      "id": 561878,
-      "date": "2026-10-14T19:00:00Z",
-      "league": "ELC",
-      "homeTeam": "Lincoln City",
-      "awayTeam": "West Ham",
-      "homeScore": 0,
-      "awayScore": 6,
-      "winner": "away"
     },
     {
       "id": 561883,
