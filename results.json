@@ -1,46 +1,6 @@
 {
-  "generated": "2026-11-01T06:14:45.467Z",
+  "generated": "2026-11-02T06:04:42.506Z",
   "results": [
-    {
-      "id": 560604,
-      "date": "2026-10-18T13:00:00Z",
-      "league": "PL",
-      "homeTeam": "Bournemouth",
-      "awayTeam": "Sunderland",
-      "homeScore": 2,
-      "awayScore": 0,
-      "winner": "home"
-    },
-    {
-      "id": 560605,
-      "date": "2026-10-18T13:00:00Z",
-      "league": "PL",
-      "homeTeam": "Leeds United",
-      "awayTeam": "Man United",
-      "homeScore": 1,
-      "awayScore": 1,
-      "winner": "draw"
-    },
-    {
-      "id": 560609,
-      "date": "2026-10-18T13:00:00Z",
-      "league": "PL",
-      "homeTeam": "Brighton Hove",
-      "awayTeam": "Crystal Palace",
-      "homeScore": 5,
-      "awayScore": 0,
-      "winner": "home"
-    },
-    {
-      "id": 560608,
-      "date": "2026-10-18T15:30:00Z",
-      "league": "PL",
-      "homeTeam": "Nottingham",
-      "awayTeam": "Arsenal",
-      "homeScore": 0,
-      "awayScore": 1,
-      "winner": "away"
-    },
     {
       "id": 560606,
       "date": "2026-10-19T19:00:00Z",
@@ -230,6 +190,16 @@
       "homeScore": 1,
       "awayScore": 1,
       "winner": "draw"
+    },
+    {
+      "id": 560631,
+      "date": "2026-11-01T16:30:00Z",
+      "league": "PL",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Arsenal",
+      "homeScore": 0,
+      "awayScore": 1,
+      "winner": "away"
     },
     {
       "id": 561826,
