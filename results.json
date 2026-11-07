@@ -1,16 +1,6 @@
 {
-  "generated": "2026-11-06T06:03:19.568Z",
+  "generated": "2026-11-07T06:14:06.140Z",
   "results": [
-    {
-      "id": 560620,
-      "date": "2026-10-23T19:00:00Z",
-      "league": "PL",
-      "homeTeam": "Ipswich Town",
-      "awayTeam": "Nottingham",
-      "homeScore": 1,
-      "awayScore": 1,
-      "winner": "draw"
-    },
     {
       "id": 560614,
       "date": "2026-10-24T11:30:00Z",
@@ -202,14 +192,14 @@
       "winner": "away"
     },
     {
-      "id": 561894,
-      "date": "2026-10-23T19:00:00Z",
-      "league": "ELC",
-      "homeTeam": "Bolton",
-      "awayTeam": "Middlesbrough",
-      "homeScore": 1,
-      "awayScore": 5,
-      "winner": "away"
+      "id": 560634,
+      "date": "2026-11-06T20:00:00Z",
+      "league": "PL",
+      "homeTeam": "Everton",
+      "awayTeam": "Coventry City",
+      "homeScore": 3,
+      "awayScore": 1,
+      "winner": "home"
     },
     {
       "id": 561895,
@@ -560,6 +550,16 @@
       "homeScore": 1,
       "awayScore": 2,
       "winner": "away"
+    },
+    {
+      "id": 561932,
+      "date": "2026-11-06T20:00:00Z",
+      "league": "ELC",
+      "homeTeam": "Derby County",
+      "awayTeam": "Bolton",
+      "homeScore": 3,
+      "awayScore": 1,
+      "winner": "home"
     }
   ]
 }
