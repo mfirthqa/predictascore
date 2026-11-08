@@ -1,46 +1,6 @@
 {
-  "generated": "2026-11-07T06:14:06.140Z",
+  "generated": "2026-11-08T06:04:05.185Z",
   "results": [
-    {
-      "id": 560614,
-      "date": "2026-10-24T11:30:00Z",
-      "league": "PL",
-      "homeTeam": "Aston Villa",
-      "awayTeam": "Man City",
-      "homeScore": 2,
-      "awayScore": 1,
-      "winner": "home"
-    },
-    {
-      "id": 560616,
-      "date": "2026-10-24T14:00:00Z",
-      "league": "PL",
-      "homeTeam": "Arsenal",
-      "awayTeam": "Everton",
-      "homeScore": 2,
-      "awayScore": 0,
-      "winner": "home"
-    },
-    {
-      "id": 560618,
-      "date": "2026-10-24T14:00:00Z",
-      "league": "PL",
-      "homeTeam": "Coventry City",
-      "awayTeam": "Fulham",
-      "homeScore": 0,
-      "awayScore": 1,
-      "winner": "away"
-    },
-    {
-      "id": 560617,
-      "date": "2026-10-24T16:30:00Z",
-      "league": "PL",
-      "homeTeam": "Chelsea",
-      "awayTeam": "Tottenham",
-      "homeScore": 0,
-      "awayScore": 2,
-      "winner": "away"
-    },
     {
       "id": 560612,
       "date": "2026-10-25T14:00:00Z",
@@ -202,113 +162,43 @@
       "winner": "home"
     },
     {
-      "id": 561895,
-      "date": "2026-10-24T11:30:00Z",
-      "league": "ELC",
-      "homeTeam": "Sheffield Utd",
-      "awayTeam": "Derby County",
+      "id": 560632,
+      "date": "2026-11-07T12:30:00Z",
+      "league": "PL",
+      "homeTeam": "Leeds United",
+      "awayTeam": "Tottenham",
+      "homeScore": 1,
+      "awayScore": 0,
+      "winner": "home"
+    },
+    {
+      "id": 560640,
+      "date": "2026-11-07T15:00:00Z",
+      "league": "PL",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Hull City",
+      "homeScore": 1,
+      "awayScore": 0,
+      "winner": "home"
+    },
+    {
+      "id": 560633,
+      "date": "2026-11-07T15:00:00Z",
+      "league": "PL",
+      "homeTeam": "Fulham",
+      "awayTeam": "Newcastle",
       "homeScore": 1,
       "awayScore": 1,
       "winner": "draw"
     },
     {
-      "id": 561901,
-      "date": "2026-10-24T11:30:00Z",
-      "league": "ELC",
-      "homeTeam": "Charlton",
-      "awayTeam": "Norwich",
-      "homeScore": 1,
-      "awayScore": 3,
-      "winner": "away"
-    },
-    {
-      "id": 561904,
-      "date": "2026-10-24T11:30:00Z",
-      "league": "ELC",
-      "homeTeam": "Portsmouth",
-      "awayTeam": "Millwall",
-      "homeScore": 2,
+      "id": 560641,
+      "date": "2026-11-07T17:30:00Z",
+      "league": "PL",
+      "homeTeam": "Nottingham",
+      "awayTeam": "Man City",
+      "homeScore": 3,
       "awayScore": 1,
-      "winner": "home"
-    },
-    {
-      "id": 561893,
-      "date": "2026-10-24T14:00:00Z",
-      "league": "ELC",
-      "homeTeam": "Cardiff",
-      "awayTeam": "Birmingham",
-      "homeScore": 1,
-      "awayScore": 0,
-      "winner": "home"
-    },
-    {
-      "id": 561896,
-      "date": "2026-10-24T14:00:00Z",
-      "league": "ELC",
-      "homeTeam": "QPR",
-      "awayTeam": "Swansea",
-      "homeScore": 5,
-      "awayScore": 0,
-      "winner": "home"
-    },
-    {
-      "id": 561897,
-      "date": "2026-10-24T14:00:00Z",
-      "league": "ELC",
-      "homeTeam": "Stoke",
-      "awayTeam": "Bristol City",
-      "homeScore": 0,
-      "awayScore": 0,
-      "winner": "draw"
-    },
-    {
-      "id": 561898,
-      "date": "2026-10-24T14:00:00Z",
-      "league": "ELC",
-      "homeTeam": "Preston NE",
-      "awayTeam": "West Brom",
-      "homeScore": 1,
-      "awayScore": 1,
-      "winner": "draw"
-    },
-    {
-      "id": 561899,
-      "date": "2026-10-24T14:00:00Z",
-      "league": "ELC",
-      "homeTeam": "Lincoln City",
-      "awayTeam": "Burnley",
-      "homeScore": 4,
-      "awayScore": 1,
-      "winner": "home"
-    },
-    {
-      "id": 561900,
-      "date": "2026-10-24T14:00:00Z",
-      "league": "ELC",
-      "homeTeam": "West Ham",
-      "awayTeam": "Southampton",
-      "homeScore": 2,
-      "awayScore": 3,
-      "winner": "away"
-    },
-    {
-      "id": 561902,
-      "date": "2026-10-24T14:00:00Z",
-      "league": "ELC",
-      "homeTeam": "Blackburn",
-      "awayTeam": "Wrexham",
-      "homeScore": 2,
-      "awayScore": 0,
-      "winner": "home"
-    },
-    {
-      "id": 561903,
-      "date": "2026-10-24T14:00:00Z",
-      "league": "ELC",
-      "homeTeam": "Wolverhampton",
-      "awayTeam": "Watford",
-      "homeScore": 1,
-      "awayScore": 0,
       "winner": "home"
     },
     {
@@ -558,6 +448,116 @@
       "homeTeam": "Derby County",
       "awayTeam": "Bolton",
       "homeScore": 3,
+      "awayScore": 1,
+      "winner": "home"
+    },
+    {
+      "id": 561933,
+      "date": "2026-11-07T12:30:00Z",
+      "league": "ELC",
+      "homeTeam": "Wrexham",
+      "awayTeam": "Wolverhampton",
+      "homeScore": 1,
+      "awayScore": 1,
+      "winner": "draw"
+    },
+    {
+      "id": 561938,
+      "date": "2026-11-07T12:30:00Z",
+      "league": "ELC",
+      "homeTeam": "Portsmouth",
+      "awayTeam": "Stoke",
+      "homeScore": 1,
+      "awayScore": 2,
+      "winner": "away"
+    },
+    {
+      "id": 561939,
+      "date": "2026-11-07T12:30:00Z",
+      "league": "ELC",
+      "homeTeam": "Bristol City",
+      "awayTeam": "Norwich",
+      "homeScore": 0,
+      "awayScore": 5,
+      "winner": "away"
+    },
+    {
+      "id": 561929,
+      "date": "2026-11-07T15:00:00Z",
+      "league": "ELC",
+      "homeTeam": "QPR",
+      "awayTeam": "Lincoln City",
+      "homeScore": 2,
+      "awayScore": 1,
+      "winner": "home"
+    },
+    {
+      "id": 561930,
+      "date": "2026-11-07T15:00:00Z",
+      "league": "ELC",
+      "homeTeam": "Cardiff",
+      "awayTeam": "Burnley",
+      "homeScore": 5,
+      "awayScore": 4,
+      "winner": "home"
+    },
+    {
+      "id": 561931,
+      "date": "2026-11-07T15:00:00Z",
+      "league": "ELC",
+      "homeTeam": "Charlton",
+      "awayTeam": "Sheffield Utd",
+      "homeScore": 2,
+      "awayScore": 1,
+      "winner": "home"
+    },
+    {
+      "id": 561934,
+      "date": "2026-11-07T15:00:00Z",
+      "league": "ELC",
+      "homeTeam": "Watford",
+      "awayTeam": "Middlesbrough",
+      "homeScore": 0,
+      "awayScore": 0,
+      "winner": "draw"
+    },
+    {
+      "id": 561935,
+      "date": "2026-11-07T15:00:00Z",
+      "league": "ELC",
+      "homeTeam": "Blackburn",
+      "awayTeam": "West Ham",
+      "homeScore": 2,
+      "awayScore": 1,
+      "winner": "home"
+    },
+    {
+      "id": 561936,
+      "date": "2026-11-07T15:00:00Z",
+      "league": "ELC",
+      "homeTeam": "West Brom",
+      "awayTeam": "Millwall",
+      "homeScore": 3,
+      "awayScore": 0,
+      "winner": "home"
+    },
+    {
+      "id": 561937,
+      "date": "2026-11-07T15:00:00Z",
+      "league": "ELC",
+      "homeTeam": "Preston NE",
+      "awayTeam": "Southampton",
+      "homeScore": 1,
+      "awayScore": 0,
+      "winner": "home"
+    },
+    {
+      "id": 561940,
+      "date": "2026-11-07T15:00:00Z",
+      "league": "ELC",
+      "homeTeam": "Birmingham",
+      "awayTeam": "Swansea",
+      "homeScore": 2,
       "awayScore": 1,
       "winner": "home"
     }
