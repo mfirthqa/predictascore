@@ -1,56 +1,6 @@
 {
-  "generated": "2026-11-08T06:04:05.185Z",
+  "generated": "2026-11-09T06:12:31.838Z",
   "results": [
-    {
-      "id": 560612,
-      "date": "2026-10-25T14:00:00Z",
-      "league": "PL",
-      "homeTeam": "Liverpool",
-      "awayTeam": "Brighton Hove",
-      "homeScore": 2,
-      "awayScore": 0,
-      "winner": "home"
-    },
-    {
-      "id": 560613,
-      "date": "2026-10-25T14:00:00Z",
-      "league": "PL",
-      "homeTeam": "Crystal Palace",
-      "awayTeam": "Newcastle",
-      "homeScore": 0,
-      "awayScore": 2,
-      "winner": "away"
-    },
-    {
-      "id": 560615,
-      "date": "2026-10-25T14:00:00Z",
-      "league": "PL",
-      "homeTeam": "Man United",
-      "awayTeam": "Bournemouth",
-      "homeScore": 0,
-      "awayScore": 3,
-      "winner": "away"
-    },
-    {
-      "id": 560619,
-      "date": "2026-10-25T14:00:00Z",
-      "league": "PL",
-      "homeTeam": "Hull City",
-      "awayTeam": "Brentford",
-      "homeScore": 1,
-      "awayScore": 1,
-      "winner": "draw"
-    },
-    {
-      "id": 560621,
-      "date": "2026-10-25T16:30:00Z",
-      "league": "PL",
-      "homeTeam": "Sunderland",
-      "awayTeam": "Leeds United",
-      "homeScore": 0,
-      "awayScore": 0,
-      "winner": "draw"
-    },
     {
       "id": 560626,
       "date": "2026-10-31T12:30:00Z",
@@ -200,6 +150,56 @@
       "homeScore": 3,
       "awayScore": 1,
       "winner": "home"
+    },
+    {
+      "id": 560635,
+      "date": "2026-11-08T14:00:00Z",
+      "league": "PL",
+      "homeTeam": "Crystal Palace",
+      "awayTeam": "Liverpool",
+      "homeScore": 1,
+      "awayScore": 3,
+      "winner": "away"
+    },
+    {
+      "id": 560636,
+      "date": "2026-11-08T14:00:00Z",
+      "league": "PL",
+      "homeTeam": "Sunderland",
+      "awayTeam": "Chelsea",
+      "homeScore": 1,
+      "awayScore": 0,
+      "winner": "home"
+    },
+    {
+      "id": 560637,
+      "date": "2026-11-08T14:00:00Z",
+      "league": "PL",
+      "homeTeam": "Ipswich Town",
+      "awayTeam": "Bournemouth",
+      "homeScore": 1,
+      "awayScore": 2,
+      "winner": "away"
+    },
+    {
+      "id": 560638,
+      "date": "2026-11-08T14:00:00Z",
+      "league": "PL",
+      "homeTeam": "Brighton Hove",
+      "awayTeam": "Brentford",
+      "homeScore": 2,
+      "awayScore": 0,
+      "winner": "home"
+    },
+    {
+      "id": 560639,
+      "date": "2026-11-08T16:30:00Z",
+      "league": "PL",
+      "homeTeam": "Man United",
+      "awayTeam": "Aston Villa",
+      "homeScore": 4,
+      "awayScore": 4,
+      "winner": "draw"
     },
     {
       "id": 561916,
