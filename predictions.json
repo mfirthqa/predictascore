@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-09T06:12:31.834Z",
-  "totalPredictions": 21,
-  "apiCalls": 28,
+  "generated": "2026-11-10T06:03:48.004Z",
+  "totalPredictions": 22,
+  "apiCalls": 30,
   "predictions": [
     {
       "fixture": {
@@ -36,18 +36,18 @@
       },
       "prediction": {
         "homeXG": 1.54,
-        "awayXG": 0.85,
+        "awayXG": 0.86,
         "predictedScore": "1-0",
-        "predictedScoreProb": 14.1,
+        "predictedScoreProb": 14,
         "outcomes": {
-          "homeWin": 53.4,
+          "homeWin": 53.2,
           "draw": 25.7,
-          "awayWin": 20.8
+          "awayWin": 20.9
         },
         "topScores": [
           {
             "score": "1-0",
-            "probability": 14.1
+            "probability": 14
           },
           {
             "score": "1-1",
@@ -55,7 +55,7 @@
           },
           {
             "score": "2-0",
-            "probability": 10.9
+            "probability": 10.8
           },
           {
             "score": "2-1",
@@ -63,7 +63,7 @@
           },
           {
             "score": "0-0",
-            "probability": 9.2
+            "probability": 9.1
           }
         ],
         "factors": [
@@ -73,7 +73,6 @@
           "Home injuries: 1 out: Semenyo (£8.2m, Knee injury - Unknown return date)",
           "Home injuries: 2 doubtful: Guéhi (Unspecified injury - 75% chance of playing), Gvardiol (Unspecified injury - 75% chance of playing)",
           "Away injuries: 1 out: Cairney (£4.9m, Knee injury - Expected back 21 Nov)",
-          "Away injuries: 1 doubtful: King (Groin injury - 75% chance of playing)",
           "Weather: no weather data",
           "Home motivation: playoff/European contention (3th)",
           "Home motivation: poor recent form (LLLWWW)",
@@ -88,7 +87,10 @@
         }
       },
       "likelyScorers": {
-        "home": null,
+        "home": {
+          "name": "Erling Haaland",
+          "goals": 9
+        },
         "away": null
       },
       "discipline": {
@@ -108,7 +110,7 @@
             "player": "Guéhi",
             "type": "Questionable",
             "reason": "Unspecified injury - 75% chance of playing",
-            "importance": 0.528,
+            "importance": 0.547,
             "cost": 6
           },
           {
@@ -133,13 +135,6 @@
             "reason": "Knee injury - Expected back 21 Nov",
             "importance": 0.155,
             "cost": 4.9
-          },
-          {
-            "player": "King",
-            "type": "Questionable",
-            "reason": "Groin injury - 75% chance of playing",
-            "importance": 0.678,
-            "cost": 5.5
           }
         ]
       },
@@ -186,7 +181,7 @@
         "predictedScoreProb": 16.1,
         "outcomes": {
           "homeWin": 71.9,
-          "draw": 19,
+          "draw": 18.9,
           "awayWin": 8.7
         },
         "topScores": [
@@ -232,7 +227,10 @@
         }
       },
       "likelyScorers": {
-        "home": null,
+        "home": {
+          "name": "João Pedro",
+          "goals": 5
+        },
         "away": null
       },
       "discipline": {
@@ -303,7 +301,7 @@
             "player": "Gudmundsson",
             "type": "Questionable",
             "reason": "Hamstring injury - 75% chance of playing",
-            "importance": 0.375,
+            "importance": 0.384,
             "cost": 4.5
           },
           {
@@ -411,7 +409,10 @@
         }
       },
       "likelyScorers": {
-        "home": null,
+        "home": {
+          "name": "Nicolas Jackson",
+          "goals": 6
+        },
         "away": null
       },
       "discipline": {
@@ -568,7 +569,10 @@
         }
       },
       "likelyScorers": {
-        "home": null,
+        "home": {
+          "name": "Marcus Tavernier",
+          "goals": 5
+        },
         "away": null
       },
       "discipline": {
@@ -753,7 +757,7 @@
             "player": "Tel",
             "type": "Questionable",
             "reason": "Ankle injury - 75% chance of playing",
-            "importance": 0.46,
+            "importance": 0.468,
             "cost": 5.6
           },
           {
@@ -1048,7 +1052,10 @@
       },
       "likelyScorers": {
         "home": null,
-        "away": null
+        "away": {
+          "name": "Kai Havertz",
+          "goals": 3
+        }
       },
       "discipline": {
         "home": {
@@ -1186,7 +1193,10 @@
       },
       "likelyScorers": {
         "home": null,
-        "away": null
+        "away": {
+          "name": "Pascal Groß",
+          "goals": 4
+        }
       },
       "discipline": {
         "home": {
@@ -1326,14 +1336,14 @@
         "points": 8
       },
       "prediction": {
-        "homeXG": 1.15,
+        "homeXG": 1.14,
         "awayXG": 0.65,
         "predictedScore": "1-0",
         "predictedScoreProb": 18.9,
         "outcomes": {
-          "homeWin": 47.7,
-          "draw": 31.4,
-          "awayWin": 20.9
+          "homeWin": 47.4,
+          "draw": 31.5,
+          "awayWin": 21.1
         },
         "topScores": [
           {
@@ -1342,18 +1352,18 @@
           },
           {
             "score": "0-0",
-            "probability": 16.4
+            "probability": 16.6
           },
           {
             "score": "1-1",
             "probability": 12.4
           },
           {
-            "score": "2-0",
-            "probability": 10.9
+            "score": "0-1",
+            "probability": 10.8
           },
           {
-            "score": "0-1",
+            "score": "2-0",
             "probability": 10.8
           }
         ],
@@ -1362,7 +1372,7 @@
           "Rest: home team well rested (14 days)",
           "Rest: away team well rested (14 days)",
           "Home injuries: 5 out: Frimpong (£5.2m, Hamstring injury - Unknown return date), Ekitiké (£7.4m, Achilles injury - Unknown return date), Bradley (£4.9m, Knee injury - Unknown return date) +2 more",
-          "Home injuries: 1 doubtful: Gravenberch (Foot injury - 75% chance of playing)",
+          "Home injuries: 2 doubtful: Virgil (Unspecified injury - 75% chance of playing), Gravenberch (Foot injury - 75% chance of playing)",
           "Away injuries: 5 out: Rashford (£6.8m, Hip injury - Unknown return date), Shaw (£4.2m, Unspecified injury - Unknown return date), Šeško (£6.9m, Shin injury - Unknown return date) +2 more",
           "Weather: no weather data",
           "Home motivation: playoff/European contention (4th)",
@@ -1378,8 +1388,14 @@
         }
       },
       "likelyScorers": {
-        "home": null,
-        "away": null
+        "home": {
+          "name": "Alexander Isak",
+          "goals": 7
+        },
+        "away": {
+          "name": "Bruno Fernandes",
+          "goals": 4
+        }
       },
       "discipline": {
         "home": {
@@ -1400,6 +1416,13 @@
             "reason": "Knee injury - Unknown return date",
             "importance": 0.1,
             "cost": 4
+          },
+          {
+            "player": "Virgil",
+            "type": "Questionable",
+            "reason": "Unspecified injury - 75% chance of playing",
+            "importance": 0.602,
+            "cost": 6.4
           },
           {
             "player": "Frimpong",
@@ -1478,6 +1501,161 @@
       "daysRest": {
         "home": 14,
         "away": 14
+      }
+    },
+    {
+      "fixture": {
+        "id": 560649,
+        "date": "2026-11-23T20:00:00Z",
+        "venue": "TBC",
+        "matchday": 11,
+        "referee": null
+      },
+      "league": {
+        "code": "PL",
+        "name": "Premier League",
+        "shortName": "PL"
+      },
+      "homeTeam": {
+        "id": 402,
+        "name": "Brentford",
+        "fullName": "Brentford FC",
+        "crest": "https://crests.football-data.org/402.png",
+        "form": "LWDLDW",
+        "rank": 8,
+        "points": 14
+      },
+      "awayTeam": {
+        "id": 62,
+        "name": "Everton",
+        "fullName": "Everton FC",
+        "crest": "https://crests.football-data.org/62.png",
+        "form": "WWLLDW",
+        "rank": 6,
+        "points": 16
+      },
+      "prediction": {
+        "homeXG": 1.63,
+        "awayXG": 0.48,
+        "predictedScore": "1-0",
+        "predictedScoreProb": 19.7,
+        "outcomes": {
+          "homeWin": 65.7,
+          "draw": 23.6,
+          "awayWin": 10.5
+        },
+        "topScores": [
+          {
+            "score": "1-0",
+            "probability": 19.7
+          },
+          {
+            "score": "2-0",
+            "probability": 16.1
+          },
+          {
+            "score": "0-0",
+            "probability": 12.1
+          },
+          {
+            "score": "1-1",
+            "probability": 9.5
+          },
+          {
+            "score": "3-0",
+            "probability": 8.8
+          }
+        ],
+        "factors": [
+          "Venue: 60% home win rate",
+          "Rest: home team well rested (15 days)",
+          "Rest: away team well rested (17 days)",
+          "Home injuries: 5 out: Thiago (£7.8m, Suspended until 5 Dec), Carvalho (£5m, Knock - Expected back 23 Nov), Milambo (£5m, Knee injury - Unknown return date) +2 more",
+          "Home injuries: 1 doubtful: Dasilva (Hamstring injury - 25% chance of playing)",
+          "Away injuries: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: mid-table (8th)",
+          "Away motivation: playoff/European contention (6th)",
+          "H2H: h2h balanced (home 2W/4D/3L, away 3W/4D/2L from 9)"
+        ],
+        "model": {
+          "homeAttackStr": 1.249,
+          "homeDefenceStr": 0.555,
+          "awayAttackStr": 0.698,
+          "awayDefenceStr": 0.696
+        }
+      },
+      "likelyScorers": {
+        "home": {
+          "name": "Kevin Schade",
+          "goals": 3
+        },
+        "away": {
+          "name": "Thierno Barry",
+          "goals": 6
+        }
+      },
+      "discipline": {
+        "home": {
+          "avgCardsPerGame": 2.7,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 3
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [
+          {
+            "player": "Henry",
+            "type": "Missing Fixture",
+            "reason": "Hip injury - Unknown return date",
+            "importance": 0.116,
+            "cost": 4.4
+          },
+          {
+            "player": "Milambo",
+            "type": "Missing Fixture",
+            "reason": "Knee injury - Unknown return date",
+            "importance": 0.125,
+            "cost": 5
+          },
+          {
+            "player": "Carvalho",
+            "type": "Missing Fixture",
+            "reason": "Knock - Expected back 23 Nov",
+            "importance": 0.195,
+            "cost": 5
+          },
+          {
+            "player": "Dasilva",
+            "type": "Questionable",
+            "reason": "Hamstring injury - 25% chance of playing",
+            "importance": 0.12,
+            "cost": 4.8
+          },
+          {
+            "player": "Thiago",
+            "type": "Suspended",
+            "reason": "Suspended until 5 Dec",
+            "importance": 0.617,
+            "cost": 7.8
+          },
+          {
+            "player": "Furo",
+            "type": "Missing Fixture",
+            "reason": "Unspecified injury - Unknown return date",
+            "importance": 0.11,
+            "cost": 4.4
+          }
+        ],
+        "away": []
+      },
+      "daysRest": {
+        "home": 15,
+        "away": 17
       }
     },
     {
