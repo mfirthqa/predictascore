@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-11T06:14:12.078Z",
-  "totalPredictions": 30,
-  "apiCalls": 38,
+  "generated": "2026-11-12T06:04:36.810Z",
+  "totalPredictions": 34,
+  "apiCalls": 42,
   "predictions": [
     {
       "fixture": {
@@ -835,7 +835,7 @@
         "outcomes": {
           "homeWin": 82.7,
           "draw": 9.3,
-          "awayWin": 4
+          "awayWin": 3.9
         },
         "topScores": [
           {
@@ -844,7 +844,7 @@
           },
           {
             "score": "2-0",
-            "probability": 12
+            "probability": 12.1
           },
           {
             "score": "4-0",
@@ -866,6 +866,7 @@
           "Home injuries: 4 out: Amenda (£3.9m, Calf injury - Unknown return date), Wright (£5.3m, Thigh injury - Unknown return date), Eccles (£4.8m, Ankle injury - Unknown return date) +1 more",
           "Home injuries: 2 doubtful: Onyeka (Groin injury - 50% chance of playing), Thomas (Calf injury - 50% chance of playing)",
           "Away injuries: 4 out: Mateta (£6.3m, Suspended until 2 Dec), Sarr (£6.2m, Groin injury - Expected back 21 Nov), Tomiyasu (£4.3m, Calf injury - Expected back 21 Nov) +1 more",
+          "Away injuries: 1 doubtful: Strand Larsen (Ankle injury - 75% chance of playing)",
           "Weather: no weather data",
           "Home motivation: close to relegation zone (17th)",
           "Away motivation: relegation battle (20th of 20)",
@@ -953,6 +954,13 @@
             "reason": "Groin injury - Expected back 21 Nov",
             "importance": 0.169,
             "cost": 6.2
+          },
+          {
+            "player": "Strand Larsen",
+            "type": "Questionable",
+            "reason": "Ankle injury - 75% chance of playing",
+            "importance": 0.403,
+            "cost": 5.9
           },
           {
             "player": "Mateta",
@@ -3875,6 +3883,446 @@
       },
       "daysRest": {
         "home": 17,
+        "away": 18
+      }
+    },
+    {
+      "fixture": {
+        "id": 561961,
+        "date": "2026-11-25T19:45:00Z",
+        "venue": "TBC",
+        "matchday": 17,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 346,
+        "name": "Watford",
+        "fullName": "Watford FC",
+        "crest": "https://crests.football-data.org/346.png",
+        "form": "DWLLWL",
+        "rank": 20,
+        "points": 15
+      },
+      "awayTeam": {
+        "id": 59,
+        "name": "Blackburn",
+        "fullName": "Blackburn Rovers FC",
+        "crest": "https://crests.football-data.org/59.png",
+        "form": "WLLWLW",
+        "rank": 13,
+        "points": 21
+      },
+      "prediction": {
+        "homeXG": 1.77,
+        "awayXG": 0.71,
+        "predictedScore": "1-0",
+        "predictedScoreProb": 14.8,
+        "outcomes": {
+          "homeWin": 62.8,
+          "draw": 22.6,
+          "awayWin": 14.4
+        },
+        "topScores": [
+          {
+            "score": "1-0",
+            "probability": 14.8
+          },
+          {
+            "score": "2-0",
+            "probability": 13.2
+          },
+          {
+            "score": "1-1",
+            "probability": 10.5
+          },
+          {
+            "score": "2-1",
+            "probability": 9.3
+          },
+          {
+            "score": "0-0",
+            "probability": 8.4
+          }
+        ],
+        "factors": [
+          "Venue: 50% home win rate",
+          "Rest: home team well rested (18 days)",
+          "Rest: away team well rested (18 days)",
+          "Home injuries: no injuries reported",
+          "Away injuries: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: close to relegation zone (20th)",
+          "Away motivation: mid-table (13th)",
+          "H2H: h2h balanced (home 4W/2D/4L, away 4W/2D/4L from 10)"
+        ],
+        "model": {
+          "homeAttackStr": 0.618,
+          "homeDefenceStr": 0.653,
+          "awayAttackStr": 0.816,
+          "awayDefenceStr": 1.327
+        }
+      },
+      "likelyScorers": {
+        "home": null,
+        "away": {
+          "name": "Andri Guðjohnsen",
+          "goals": 10
+        }
+      },
+      "discipline": {
+        "home": {
+          "avgCardsPerGame": 3.5,
+          "gamesSampled": 2
+        },
+        "away": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 2
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      },
+      "daysRest": {
+        "home": 18,
+        "away": 18
+      }
+    },
+    {
+      "fixture": {
+        "id": 561963,
+        "date": "2026-11-25T19:45:00Z",
+        "venue": "TBC",
+        "matchday": 17,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 60,
+        "name": "Bolton",
+        "fullName": "Bolton Wanderers FC",
+        "crest": "https://crests.football-data.org/60.png",
+        "form": "LWLLDW",
+        "rank": 18,
+        "points": 17
+      },
+      "awayTeam": {
+        "id": 74,
+        "name": "West Brom",
+        "fullName": "West Bromwich Albion FC",
+        "crest": "https://crests.football-data.org/74.png",
+        "form": "WDWDWW",
+        "rank": 5,
+        "points": 28
+      },
+      "prediction": {
+        "homeXG": 1.12,
+        "awayXG": 3.07,
+        "predictedScore": "1-3",
+        "predictedScoreProb": 8.2,
+        "outcomes": {
+          "homeWin": 10.5,
+          "draw": 13.3,
+          "awayWin": 72.4
+        },
+        "topScores": [
+          {
+            "score": "1-3",
+            "probability": 8.2
+          },
+          {
+            "score": "1-2",
+            "probability": 8
+          },
+          {
+            "score": "0-3",
+            "probability": 7.3
+          },
+          {
+            "score": "0-2",
+            "probability": 7.1
+          },
+          {
+            "score": "1-4",
+            "probability": 6.3
+          }
+        ],
+        "factors": [
+          "Venue: weak home record (29% win rate at home)",
+          "Rest: home team well rested (19 days)",
+          "Rest: away team well rested (18 days)",
+          "Home injuries: no injuries reported",
+          "Away injuries: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: mid-table (18th)",
+          "Away motivation: playoff/European contention (5th)",
+          "Away motivation: strong recent form (WDWDWW)",
+          "H2H: no h2h data"
+        ],
+        "model": {
+          "homeAttackStr": 0.854,
+          "homeDefenceStr": 1.8,
+          "awayAttackStr": 1.23,
+          "awayDefenceStr": 0.668
+        }
+      },
+      "likelyScorers": {
+        "home": {
+          "name": "Sam Dalby",
+          "goals": 6
+        },
+        "away": {
+          "name": "Isaac Price",
+          "goals": 6
+        }
+      },
+      "discipline": {
+        "home": {
+          "avgCardsPerGame": 2.3,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 3
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      },
+      "daysRest": {
+        "home": 19,
+        "away": 18
+      }
+    },
+    {
+      "fixture": {
+        "id": 561964,
+        "date": "2026-11-25T19:45:00Z",
+        "venue": "TBC",
+        "matchday": 17,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 328,
+        "name": "Burnley",
+        "fullName": "Burnley FC",
+        "crest": "https://crests.football-data.org/328.png",
+        "form": "LDDLLD",
+        "rank": 22,
+        "points": 10
+      },
+      "awayTeam": {
+        "id": 332,
+        "name": "Birmingham",
+        "fullName": "Birmingham City FC",
+        "crest": "https://crests.football-data.org/332.png",
+        "form": "WWWLWW",
+        "rank": 1,
+        "points": 29
+      },
+      "prediction": {
+        "homeXG": 0.65,
+        "awayXG": 1.76,
+        "predictedScore": "0-1",
+        "predictedScoreProb": 15.8,
+        "outcomes": {
+          "homeWin": 13.2,
+          "draw": 22.6,
+          "awayWin": 64
+        },
+        "topScores": [
+          {
+            "score": "0-1",
+            "probability": 15.8
+          },
+          {
+            "score": "0-2",
+            "probability": 13.9
+          },
+          {
+            "score": "1-1",
+            "probability": 10.3
+          },
+          {
+            "score": "1-2",
+            "probability": 9
+          },
+          {
+            "score": "0-0",
+            "probability": 9
+          }
+        ],
+        "factors": [
+          "Venue: weak home record (0% win rate at home)",
+          "Rest: home team well rested (18 days)",
+          "Rest: away team well rested (18 days)",
+          "Home injuries: no injuries reported",
+          "Away injuries: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: relegation battle (22th of 24)",
+          "Home motivation: poor recent form (LDDLLD)",
+          "Away motivation: title/promotion contender (1st)",
+          "Away motivation: strong recent form (WWWLWW)",
+          "H2H: h2h balanced (home 1W/1D/0L, away 0W/1D/1L from 2)"
+        ],
+        "model": {
+          "homeAttackStr": 0.706,
+          "homeDefenceStr": 1.095,
+          "awayAttackStr": 1.148,
+          "awayDefenceStr": 0.537
+        }
+      },
+      "likelyScorers": {
+        "home": null,
+        "away": {
+          "name": "August Priske",
+          "goals": 6
+        }
+      },
+      "discipline": {
+        "home": {
+          "avgCardsPerGame": 2,
+          "gamesSampled": 2
+        },
+        "away": {
+          "avgCardsPerGame": 2.3,
+          "gamesSampled": 3
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      },
+      "daysRest": {
+        "home": 18,
+        "away": 18
+      }
+    },
+    {
+      "fixture": {
+        "id": 561962,
+        "date": "2026-11-25T20:00:00Z",
+        "venue": "TBC",
+        "matchday": 17,
+        "referee": null
+      },
+      "league": {
+        "code": "ELC",
+        "name": "Championship",
+        "shortName": "CH"
+      },
+      "homeTeam": {
+        "id": 70,
+        "name": "Stoke",
+        "fullName": "Stoke City FC",
+        "crest": "https://crests.football-data.org/70.png",
+        "form": "WWWDWL",
+        "rank": 3,
+        "points": 29
+      },
+      "awayTeam": {
+        "id": 384,
+        "name": "Millwall",
+        "fullName": "Millwall FC",
+        "crest": "https://crests.football-data.org/384.png",
+        "form": "LLWLDL",
+        "rank": 16,
+        "points": 18
+      },
+      "prediction": {
+        "homeXG": 3.52,
+        "awayXG": 0.47,
+        "predictedScore": "3-0",
+        "predictedScoreProb": 13.4,
+        "outcomes": {
+          "homeWin": 84.6,
+          "draw": 6.4,
+          "awayWin": 2.2
+        },
+        "topScores": [
+          {
+            "score": "3-0",
+            "probability": 13.4
+          },
+          {
+            "score": "4-0",
+            "probability": 11.8
+          },
+          {
+            "score": "2-0",
+            "probability": 11.4
+          },
+          {
+            "score": "5-0",
+            "probability": 8.3
+          },
+          {
+            "score": "1-0",
+            "probability": 6.5
+          }
+        ],
+        "factors": [
+          "Venue: 57% home win rate",
+          "Rest: home team well rested (18 days)",
+          "Rest: away team well rested (18 days)",
+          "Home injuries: no injuries reported",
+          "Away injuries: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: playoff/European contention (3th)",
+          "Home motivation: strong recent form (WWWDWL)",
+          "Away motivation: mid-table (16th)",
+          "Away motivation: poor recent form (LLWLDL)",
+          "H2H: h2h favours away team (away 7W/2D/1L from 10)"
+        ],
+        "model": {
+          "homeAttackStr": 1.016,
+          "homeDefenceStr": 0.563,
+          "awayAttackStr": 0.627,
+          "awayDefenceStr": 1.503
+        }
+      },
+      "likelyScorers": {
+        "home": {
+          "name": "Jack McGlynn",
+          "goals": 5
+        },
+        "away": null
+      },
+      "discipline": {
+        "home": {
+          "avgCardsPerGame": 0.7,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 3.7,
+          "gamesSampled": 3
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [],
+        "away": []
+      },
+      "daysRest": {
+        "home": 18,
         "away": 18
       }
     }
