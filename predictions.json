@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T06:04:36.810Z",
+  "generated": "2026-11-13T06:14:33.200Z",
   "totalPredictions": 34,
   "apiCalls": 42,
   "predictions": [
@@ -357,14 +357,14 @@
         "points": 8
       },
       "prediction": {
-        "homeXG": 2.81,
+        "homeXG": 2.79,
         "awayXG": 1.15,
         "predictedScore": "2-1",
         "predictedScoreProb": 8.7,
         "outcomes": {
-          "homeWin": 69.3,
-          "draw": 15.3,
-          "awayWin": 13
+          "homeWin": 69,
+          "draw": 15.4,
+          "awayWin": 13.1
         },
         "topScores": [
           {
@@ -385,7 +385,7 @@
           },
           {
             "score": "1-1",
-            "probability": 6.2
+            "probability": 6.3
           }
         ],
         "factors": [
@@ -393,7 +393,7 @@
           "Rest: home team well rested (13 days)",
           "Rest: away team well rested (13 days)",
           "Home injuries: 2 out: Ruggeri (£4.4m, Hamstring injury - Expected back 2 Jan), Onana (£4.9m, Knee injury - Unknown return date)",
-          "Home injuries: 1 doubtful: Wan-Bissaka (Hamstring injury - 50% chance of playing)",
+          "Home injuries: 2 doubtful: Manzambi (Calf injury - 75% chance of playing), Wan-Bissaka (Hamstring injury - 50% chance of playing)",
           "Away injuries: 3 out: Ballard (£4.7m, Hamstring injury - Unknown return date), Diarra (£5.3m, Muscular injury - Unknown return date), Mundle (£4.8m, Knee injury - Unknown return date)",
           "Away injuries: 2 doubtful: Xhaka (Calf injury - 75% chance of playing), Brobbey (Muscular injury - 75% chance of playing)",
           "Weather: no weather data",
@@ -434,6 +434,13 @@
             "reason": "Knee injury - Unknown return date",
             "importance": 0.123,
             "cost": 4.9
+          },
+          {
+            "player": "Manzambi",
+            "type": "Questionable",
+            "reason": "Calf injury - 75% chance of playing",
+            "importance": 0.631,
+            "cost": 6.2
           },
           {
             "player": "Ruggeri",
