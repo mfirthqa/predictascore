@@ -1,16 +1,6 @@
 {
-  "generated": "2026-11-15T06:16:03.394Z",
+  "generated": "2026-11-16T06:06:54.887Z",
   "results": [
-    {
-      "id": 560631,
-      "date": "2026-11-01T16:30:00Z",
-      "league": "PL",
-      "homeTeam": "Liverpool",
-      "awayTeam": "Arsenal",
-      "homeScore": 0,
-      "awayScore": 1,
-      "winner": "away"
-    },
     {
       "id": 560622,
       "date": "2026-11-02T20:00:00Z",
