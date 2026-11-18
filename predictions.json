@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-17T06:16:29.563Z",
-  "totalPredictions": 56,
-  "apiCalls": 64,
+  "generated": "2026-11-18T06:06:57.257Z",
+  "totalPredictions": 57,
+  "apiCalls": 65,
   "predictions": [
     {
       "fixture": {
@@ -1636,9 +1636,9 @@
         "predictedScore": "1-0",
         "predictedScoreProb": 19.8,
         "outcomes": {
-          "homeWin": 65.5,
-          "draw": 23.7,
-          "awayWin": 10.6
+          "homeWin": 65.4,
+          "draw": 23.8,
+          "awayWin": 10.7
         },
         "topScores": [
           {
@@ -1647,11 +1647,11 @@
           },
           {
             "score": "2-0",
-            "probability": 16.1
+            "probability": 16
           },
           {
             "score": "0-0",
-            "probability": 12.2
+            "probability": 12.3
           },
           {
             "score": "1-1",
@@ -1659,7 +1659,7 @@
           },
           {
             "score": "3-0",
-            "probability": 8.7
+            "probability": 8.6
           }
         ],
         "factors": [
@@ -1667,7 +1667,7 @@
           "Rest: home team well rested (15 days)",
           "Rest: away team well rested (17 days)",
           "Home injuries: 5 out: Thiago (£7.8m, Suspended until 5 Dec), Carvalho (£5m, Knock - Expected back 23 Nov), Milambo (£5m, Knee injury - Unknown return date) +2 more",
-          "Home injuries: 2 doubtful: Collins (Knee injury - 75% chance of playing), Dasilva (Hamstring injury - 25% chance of playing)",
+          "Home injuries: 3 doubtful: Collins (Knee injury - 75% chance of playing), Hickey (Hamstring injury - 75% chance of playing) +1 more",
           "Away injuries: no injuries reported",
           "Weather: no weather data",
           "Home motivation: mid-table (8th)",
@@ -1717,6 +1717,13 @@
             "reason": "Hip injury - Unknown return date",
             "importance": 0.116,
             "cost": 4.4
+          },
+          {
+            "player": "Hickey",
+            "type": "Questionable",
+            "reason": "Hamstring injury - 75% chance of playing",
+            "importance": 0.215,
+            "cost": 4.5
           },
           {
             "player": "Milambo",
@@ -2155,18 +2162,18 @@
       },
       "prediction": {
         "homeXG": 2.2,
-        "awayXG": 1.87,
+        "awayXG": 1.86,
         "predictedScore": "2-1",
-        "predictedScoreProb": 7.7,
+        "predictedScoreProb": 7.8,
         "outcomes": {
-          "homeWin": 45.6,
+          "homeWin": 45.7,
           "draw": 20.3,
-          "awayWin": 33.1
+          "awayWin": 33
         },
         "topScores": [
           {
             "score": "2-1",
-            "probability": 7.7
+            "probability": 7.8
           },
           {
             "score": "2-2",
@@ -2178,7 +2185,7 @@
           },
           {
             "score": "1-2",
-            "probability": 6.6
+            "probability": 6.5
           },
           {
             "score": "3-1",
@@ -2192,7 +2199,7 @@
           "Home injuries: 5 out: Rashford (£6.8m, Hip injury - Unknown return date), Shaw (£4.2m, Unspecified injury - Unknown return date), Šeško (£6.9m, Shin injury - Unknown return date) +2 more",
           "Home injuries: 2 doubtful: Dorgu (Hamstring injury - 75% chance of playing), Maguire (Back injury - 75% chance of playing)",
           "Away injuries: 5 out: Thiago (£7.8m, Suspended until 5 Dec), Carvalho (£5m, Knock - Expected back 23 Nov), Milambo (£5m, Knee injury - Unknown return date) +2 more",
-          "Away injuries: 2 doubtful: Collins (Knee injury - 75% chance of playing), Dasilva (Hamstring injury - 25% chance of playing)",
+          "Away injuries: 3 doubtful: Collins (Knee injury - 75% chance of playing), Hickey (Hamstring injury - 75% chance of playing) +1 more",
           "Weather: no weather data",
           "Home motivation: relegation battle (18th of 20)",
           "Home motivation: poor recent form (DLLDDD)",
@@ -2293,6 +2300,13 @@
             "reason": "Hip injury - Unknown return date",
             "importance": 0.116,
             "cost": 4.4
+          },
+          {
+            "player": "Hickey",
+            "type": "Questionable",
+            "reason": "Hamstring injury - 75% chance of playing",
+            "importance": 0.215,
+            "cost": 4.5
           },
           {
             "player": "Milambo",
@@ -3517,6 +3531,156 @@
       "daysRest": {
         "home": 22,
         "away": 22
+      }
+    },
+    {
+      "fixture": {
+        "id": 560668,
+        "date": "2026-12-01T20:00:00Z",
+        "venue": "TBC",
+        "matchday": 13,
+        "referee": null
+      },
+      "league": {
+        "code": "PL",
+        "name": "Premier League",
+        "shortName": "PL"
+      },
+      "homeTeam": {
+        "id": 1076,
+        "name": "Coventry City",
+        "fullName": "Coventry City FC",
+        "crest": "https://crests.football-data.org/1076.png",
+        "form": "LWLLWW",
+        "rank": 17,
+        "points": 9
+      },
+      "awayTeam": {
+        "id": 349,
+        "name": "Ipswich Town",
+        "fullName": "Ipswich Town FC",
+        "crest": "https://crests.football-data.org/349.png",
+        "form": "LDDLWL",
+        "rank": 14,
+        "points": 11
+      },
+      "prediction": {
+        "homeXG": 3.17,
+        "awayXG": 2.24,
+        "predictedScore": "3-2",
+        "predictedScoreProb": 6,
+        "outcomes": {
+          "homeWin": 52.9,
+          "draw": 16.3,
+          "awayWin": 25.7
+        },
+        "topScores": [
+          {
+            "score": "3-2",
+            "probability": 6
+          },
+          {
+            "score": "2-2",
+            "probability": 5.6
+          },
+          {
+            "score": "3-1",
+            "probability": 5.3
+          },
+          {
+            "score": "2-1",
+            "probability": 5
+          },
+          {
+            "score": "4-2",
+            "probability": 4.7
+          }
+        ],
+        "factors": [
+          "Venue: 40% home win rate",
+          "Rest: home team well rested (25 days)",
+          "Rest: away team well rested (23 days)",
+          "Home injuries: 4 out: Amenda (£3.9m, Calf injury - Unknown return date), Wright (£5.3m, Thigh injury - Unknown return date), Eccles (£4.8m, Ankle injury - Unknown return date) +1 more",
+          "Home injuries: 2 doubtful: Onyeka (Groin injury - 50% chance of playing), Thomas (Calf injury - 50% chance of playing)",
+          "Away injuries: no injuries reported",
+          "Weather: no weather data",
+          "Home motivation: close to relegation zone (17th)",
+          "Away motivation: mid-table (14th)",
+          "Away motivation: poor recent form (LDDLWL)",
+          "H2H: h2h favours away team (away 4W/0D/0L from 4)"
+        ],
+        "model": {
+          "homeAttackStr": 1.089,
+          "homeDefenceStr": 1.314,
+          "awayAttackStr": 1.378,
+          "awayDefenceStr": 1.624
+        }
+      },
+      "likelyScorers": {
+        "home": null,
+        "away": null
+      },
+      "discipline": {
+        "home": {
+          "avgCardsPerGame": 1.3,
+          "gamesSampled": 3
+        },
+        "away": {
+          "avgCardsPerGame": 1.7,
+          "gamesSampled": 3
+        }
+      },
+      "weather": null,
+      "injuries": {
+        "home": [
+          {
+            "player": "Onyeka",
+            "type": "Questionable",
+            "reason": "Groin injury - 50% chance of playing",
+            "importance": 0.231,
+            "cost": 4.8
+          },
+          {
+            "player": "Thomas",
+            "type": "Questionable",
+            "reason": "Calf injury - 50% chance of playing",
+            "importance": 0.429,
+            "cost": 4
+          },
+          {
+            "player": "Woolfenden",
+            "type": "Missing Fixture",
+            "reason": "Knee injury - Unknown return date",
+            "importance": 0.098,
+            "cost": 3.9
+          },
+          {
+            "player": "Amenda",
+            "type": "Missing Fixture",
+            "reason": "Calf injury - Unknown return date",
+            "importance": 0.169,
+            "cost": 3.9
+          },
+          {
+            "player": "Eccles",
+            "type": "Missing Fixture",
+            "reason": "Ankle injury - Unknown return date",
+            "importance": 0.12,
+            "cost": 4.8
+          },
+          {
+            "player": "Wright",
+            "type": "Missing Fixture",
+            "reason": "Thigh injury - Unknown return date",
+            "importance": 0.132,
+            "cost": 5.3
+          }
+        ],
+        "away": []
+      },
+      "daysRest": {
+        "home": 25,
+        "away": 23
       }
     },
     {
