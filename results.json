@@ -1,16 +1,6 @@
 {
-  "generated": "2026-11-20T06:08:04.228Z",
+  "generated": "2026-11-21T06:20:37.760Z",
   "results": [
-    {
-      "id": 560634,
-      "date": "2026-11-06T20:00:00Z",
-      "league": "PL",
-      "homeTeam": "Everton",
-      "awayTeam": "Coventry City",
-      "homeScore": 3,
-      "awayScore": 1,
-      "winner": "home"
-    },
     {
       "id": 560632,
       "date": "2026-11-07T12:30:00Z",
@@ -100,16 +90,6 @@
       "homeScore": 4,
       "awayScore": 4,
       "winner": "draw"
-    },
-    {
-      "id": 561932,
-      "date": "2026-11-06T20:00:00Z",
-      "league": "ELC",
-      "homeTeam": "Derby County",
-      "awayTeam": "Bolton",
-      "homeScore": 3,
-      "awayScore": 1,
-      "winner": "home"
     },
     {
       "id": 561933,
