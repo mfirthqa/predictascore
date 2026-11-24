@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T06:19:39.132Z",
+  "generated": "2026-11-24T06:08:04.804Z",
   "results": [
     {
       "id": 560643,
@@ -87,6 +87,16 @@
       "league": "PL",
       "homeTeam": "Liverpool",
       "awayTeam": "Man United",
+      "homeScore": 4,
+      "awayScore": 0,
+      "winner": "home"
+    },
+    {
+      "id": 560649,
+      "date": "2026-11-23T20:00:00Z",
+      "league": "PL",
+      "homeTeam": "Brentford",
+      "awayTeam": "Everton",
       "homeScore": 4,
       "awayScore": 0,
       "winner": "home"
