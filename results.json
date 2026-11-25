@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24T06:08:04.804Z",
+  "generated": "2026-11-25T06:19:02.472Z",
   "results": [
     {
       "id": 560643,
@@ -220,6 +220,86 @@
       "homeScore": 2,
       "awayScore": 2,
       "winner": "draw"
+    },
+    {
+      "id": 561953,
+      "date": "2026-11-24T19:45:00Z",
+      "league": "ELC",
+      "homeTeam": "Cardiff",
+      "awayTeam": "Preston NE",
+      "homeScore": 0,
+      "awayScore": 4,
+      "winner": "away"
+    },
+    {
+      "id": 561954,
+      "date": "2026-11-24T19:45:00Z",
+      "league": "ELC",
+      "homeTeam": "Middlesbrough",
+      "awayTeam": "Swansea",
+      "homeScore": 2,
+      "awayScore": 1,
+      "winner": "home"
+    },
+    {
+      "id": 561955,
+      "date": "2026-11-24T19:45:00Z",
+      "league": "ELC",
+      "homeTeam": "Portsmouth",
+      "awayTeam": "West Ham",
+      "homeScore": 1,
+      "awayScore": 0,
+      "winner": "home"
+    },
+    {
+      "id": 561956,
+      "date": "2026-11-24T19:45:00Z",
+      "league": "ELC",
+      "homeTeam": "Sheffield Utd",
+      "awayTeam": "Southampton",
+      "homeScore": 1,
+      "awayScore": 1,
+      "winner": "draw"
+    },
+    {
+      "id": 561958,
+      "date": "2026-11-24T19:45:00Z",
+      "league": "ELC",
+      "homeTeam": "Charlton",
+      "awayTeam": "Lincoln City",
+      "homeScore": 4,
+      "awayScore": 0,
+      "winner": "home"
+    },
+    {
+      "id": 561959,
+      "date": "2026-11-24T19:45:00Z",
+      "league": "ELC",
+      "homeTeam": "Bristol City",
+      "awayTeam": "Wrexham",
+      "homeScore": 1,
+      "awayScore": 1,
+      "winner": "draw"
+    },
+    {
+      "id": 561960,
+      "date": "2026-11-24T19:45:00Z",
+      "league": "ELC",
+      "homeTeam": "Norwich",
+      "awayTeam": "QPR",
+      "homeScore": 1,
+      "awayScore": 1,
+      "winner": "draw"
+    },
+    {
+      "id": 561957,
+      "date": "2026-11-24T20:00:00Z",
+      "league": "ELC",
+      "homeTeam": "Wolverhampton",
+      "awayTeam": "Derby County",
+      "homeScore": 3,
+      "awayScore": 0,
+      "winner": "home"
     }
   ]
 }
