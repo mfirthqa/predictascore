@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T06:19:52.255Z",
+  "generated": "2026-11-28T06:07:51.603Z",
   "results": [
     {
       "id": 560643,
@@ -99,6 +99,16 @@
       "awayTeam": "Everton",
       "homeScore": 4,
       "awayScore": 0,
+      "winner": "home"
+    },
+    {
+      "id": 560658,
+      "date": "2026-11-27T20:00:00Z",
+      "league": "PL",
+      "homeTeam": "Nottingham",
+      "awayTeam": "Chelsea",
+      "homeScore": 3,
+      "awayScore": 2,
       "winner": "home"
     },
     {
@@ -339,6 +349,16 @@
       "awayTeam": "Millwall",
       "homeScore": 2,
       "awayScore": 1,
+      "winner": "home"
+    },
+    {
+      "id": 561968,
+      "date": "2026-11-27T20:00:00Z",
+      "league": "ELC",
+      "homeTeam": "Southampton",
+      "awayTeam": "Middlesbrough",
+      "homeScore": 2,
+      "awayScore": 0,
       "winner": "home"
     }
   ]
